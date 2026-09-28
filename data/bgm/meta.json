@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "bgm": [
+    {
+      "id": "bgm_warm_pad",
+      "name": "占位BGM-温暖弦乐垫",
+      "description": "numpy 合成的正弦和弦垫，仅用于混音链路联调，非真实录音素材",
+      "moods": [
+        "温暖",
+        "平静",
+        "抒情"
+      ],
+      "loopable": true,
+      "duration_s": 24.0,
+      "loudness_db": -21.0,
+      "peak_db": -8.81,
+      "sample_rate": 48000,
+      "channels": 2,
+      "file": "bgm_warm_pad.wav",
+      "placeholder": true,
+      "source": "builtin_numpy",
+      "created_at": "2026-09-20T21:29:40"
+    },
+    {
+      "id": "bgm_suspense_pad",
+      "name": "占位BGM-悬疑低音垫",
+      "description": "numpy 合成的低音和弦垫（小三和弦 + 慢速起伏），占位素材",
+      "moods": [
+        "悬疑",
+        "紧张",
+        "阴沉"
+      ],
+      "loopable": true,
+      "duration_s": 30.0,
+      "loudness_db": -23.0,
+      "peak_db": -11.59,
+      "sample_rate": 48000,
+      "channels": 2,
+      "file": "bgm_suspense_pad.wav",
+      "placeholder": true,
+      "source": "builtin_numpy",
+      "created_at": "2026-09-20T21:29:41"
+    },
+    {
+      "id": "bgm_daylight_pad",
+      "name": "占位BGM-明亮日间垫",
+      "description": "numpy 合成的明亮和弦垫，用于日常/过渡段落，占位素材",
+      "moods": [
+        "明亮",
+        "日常",
+        "轻快"
+      ],
+      "loopable": true,
+      "duration_s": 18.0,
+      "loudness_db": -20.0,
+      "peak_db": -8.42,
+      "sample_rate": 48000,
+      "channels": 2,
+      "file": "bgm_daylight_pad.wav",
+      "placeholder": true,
+      "source": "builtin_numpy",
+      "created_at": "2026-09-20T21:29:41"
+    }
+  ],
+  "sfx": [
+    {
+      "id": "sfx_chapter_start",
+      "name": "占位音效-章节开始提示",
+      "description": "两音上行提示音（numpy 合成，指数包络），占位素材",
+      "moods": [
+        "提示"
+      ],
+      "loopable": false,
+      "duration_s": 0.58,
+      "loudness_db": -16.0,
+      "peak_db": -8.28,
+      "sample_rate": 48000,
+      "channels": 2,
+      "file": "sfx/sfx_chapter_start.wav",
+      "placeholder": true,
+      "source": "builtin_numpy",
+      "created_at": "2026-09-20T21:29:41"
+    },
+    {
+      "id": "sfx_chapter_end",
+      "name": "占位音效-章节结束提示",
+      "description": "两音下行收尾提示音（numpy 合成，指数包络），占位素材",
+      "moods": [
+        "提示"
+      ],
+      "loopable": false,
+      "duration_s": 0.68,
+      "loudness_db": -16.0,
+      "peak_db": -7.79,
+      "sample_rate": 48000,
+      "channels": 2,
+      "file": "sfx/sfx_chapter_end.wav",
+      "placeholder": true,
+      "source": "builtin_numpy",
+      "created_at": "2026-09-20T21:29:42"
+    }
+  ],
+  "updated_at": "2026-09-22T14:41:31"
+}

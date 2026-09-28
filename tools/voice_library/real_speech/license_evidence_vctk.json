@@ -1,0 +1,22 @@
+[
+ {
+  "license_url": "https://datashare.ed.ac.uk/handle/10283/3443",
+  "kind": "dataset_official_item_page",
+  "captured_at": "2026-09-22T12:02:07+0800",
+  "local_copy": "D:\\程序开发\\PYY\\peiyinyuan\\tools\\voice_library\\real_speech\\_tmp\\license\\62009069a4758c3b.txt",
+  "http_status": 200,
+  "sha256": "c852c32f49d9cd024575a128fef2c591962b890d9d96390a75117edfeca6b231",
+  "quote": "item rights field: Creative Commons Attribution 4.0 International Public License",
+  "note": "Edinburgh Datashare item 10283/3443 rights field",
+  "cached": true
+ },
+ {
+  "license_url": "https://datashare.ed.ac.uk/server/api/core/bitstreams/956a1688-0b59-428c-8a2f-10837433dde3/content",
+  "kind": "shipped_license_text",
+  "captured_at": "2026-09-22T12:02:09+0800",
+  "local_copy": "D:\\程序开发\\PYY\\peiyinyuan\\tools\\voice_library\\real_speech\\_tmp\\license\\vctk_license_text.txt",
+  "http_status": 200,
+  "sha256": "b34e17103bfb246f2549fc82a279e6ba28834e0cb42f76a92efc14b72e3a3723",
+  "quote": "Creative Commons License: Attribution 4.0 International http://creativecommons.org/licenses/by/4.0/legalcode Creative Commons Corporation (\"Creative Commons\") is not a law firm and does not provide legal services or legal advice. Distributi"
+ }
+]

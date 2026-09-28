@@ -1,0 +1,1666 @@
+[
+ {
+  "slug": "human-news-000",
+  "features": {
+   "dur": 2.8384,
+   "peak": 0.8,
+   "rms": 0.0592,
+   "sil_ratio": 0.1772,
+   "flat": 0.0003,
+   "zcr": 0.0502,
+   "mod_prom": 44.017,
+   "mod_f": 4.3513,
+   "n_act": 195
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-live-004",
+  "features": {
+   "dur": 2.6767,
+   "peak": 0.8,
+   "rms": 0.1353,
+   "sil_ratio": 0.1473,
+   "flat": 0.0005,
+   "zcr": 0.1093,
+   "mod_prom": 71.3199,
+   "mod_f": 5.0223,
+   "n_act": 191
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-warm-001",
+  "features": {
+   "dur": 3.0231,
+   "peak": 0.8,
+   "rms": 0.1607,
+   "sil_ratio": 0.1822,
+   "flat": 0.0004,
+   "zcr": 0.0571,
+   "mod_prom": 45.7319,
+   "mod_f": 6.9041,
+   "n_act": 211
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-buddy-002",
+  "features": {
+   "dur": 2.8798,
+   "peak": 0.8,
+   "rms": 0.0784,
+   "sil_ratio": 0.3195,
+   "flat": 0.0003,
+   "zcr": 0.0522,
+   "mod_prom": 28.1507,
+   "mod_f": 4.279,
+   "n_act": 164
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-mature-003",
+  "features": {
+   "dur": 3.1687,
+   "peak": 0.8,
+   "rms": 0.0964,
+   "sil_ratio": 0.1296,
+   "flat": 0.0003,
+   "zcr": 0.0623,
+   "mod_prom": 63.0373,
+   "mod_f": 2.0833,
+   "n_act": 235
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-story-005",
+  "features": {
+   "dur": 2.8044,
+   "peak": 0.8,
+   "rms": 0.1383,
+   "sil_ratio": 0.1299,
+   "flat": 0.0004,
+   "zcr": 0.071,
+   "mod_prom": 94.7684,
+   "mod_f": 5.6818,
+   "n_act": 201
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-boy-007",
+  "features": {
+   "dur": 2.6521,
+   "peak": 0.8,
+   "rms": 0.1217,
+   "sil_ratio": 0.2055,
+   "flat": 0.0004,
+   "zcr": 0.1065,
+   "mod_prom": 116.2269,
+   "mod_f": 5.5651,
+   "n_act": 174
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-calm-006",
+  "features": {
+   "dur": 3.3892,
+   "peak": 0.8,
+   "rms": 0.1402,
+   "sil_ratio": 0.1199,
+   "flat": 0.0003,
+   "zcr": 0.0577,
+   "mod_prom": 69.0646,
+   "mod_f": 5.7791,
+   "n_act": 257
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-warm-009",
+  "features": {
+   "dur": 2.8546,
+   "peak": 0.8,
+   "rms": 0.1297,
+   "sil_ratio": 0.1369,
+   "flat": 0.0004,
+   "zcr": 0.0823,
+   "mod_prom": 60.106,
+   "mod_f": 2.334,
+   "n_act": 208
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-news-008",
+  "features": {
+   "dur": 2.8987,
+   "peak": 0.8,
+   "rms": 0.056,
+   "sil_ratio": 0.2083,
+   "flat": 0.0003,
+   "zcr": 0.0615,
+   "mod_prom": 95.2942,
+   "mod_f": 6.25,
+   "n_act": 190
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-mature-011",
+  "features": {
+   "dur": 3.1131,
+   "peak": 0.8,
+   "rms": 0.1006,
+   "sil_ratio": 0.1402,
+   "flat": 0.0003,
+   "zcr": 0.0421,
+   "mod_prom": 98.1595,
+   "mod_f": 4.2614,
+   "n_act": 227
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-buddy-010",
+  "features": {
+   "dur": 2.6376,
+   "peak": 0.8,
+   "rms": 0.0737,
+   "sil_ratio": 0.1889,
+   "flat": 0.0004,
+   "zcr": 0.0992,
+   "mod_prom": 56.51,
+   "mod_f": 4.7523,
+   "n_act": 176
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-live-012",
+  "features": {
+   "dur": 3.0359,
+   "peak": 0.8,
+   "rms": 0.1455,
+   "sil_ratio": 0.1081,
+   "flat": 0.0005,
+   "zcr": 0.0839,
+   "mod_prom": 54.1444,
+   "mod_f": 2.1718,
+   "n_act": 231
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-calm-014",
+  "features": {
+   "dur": 2.5441,
+   "peak": 0.8,
+   "rms": 0.1668,
+   "sil_ratio": 0.1374,
+   "flat": 0.0003,
+   "zcr": 0.0631,
+   "mod_prom": 140.9848,
+   "mod_f": 2.2216,
+   "n_act": 182
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-boy-015",
+  "features": {
+   "dur": 3.0109,
+   "peak": 0.8,
+   "rms": 0.1072,
+   "sil_ratio": 0.168,
+   "flat": 0.0005,
+   "zcr": 0.1184,
+   "mod_prom": 272.4932,
+   "mod_f": 4.0283,
+   "n_act": 213
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-news-016",
+  "features": {
+   "dur": 2.9932,
+   "peak": 0.8,
+   "rms": 0.0671,
+   "sil_ratio": 0.2559,
+   "flat": 0.0003,
+   "zcr": 0.067,
+   "mod_prom": 35.2544,
+   "mod_f": 4.4291,
+   "n_act": 189
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-story-013",
+  "features": {
+   "dur": 3.6453,
+   "peak": 0.8,
+   "rms": 0.1377,
+   "sil_ratio": 0.1214,
+   "flat": 0.0003,
+   "zcr": 0.0711,
+   "mod_prom": 123.3344,
+   "mod_f": 2.3962,
+   "n_act": 275
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-warm-017",
+  "features": {
+   "dur": 3.3388,
+   "peak": 0.8,
+   "rms": 0.1469,
+   "sil_ratio": 0.115,
+   "flat": 0.0004,
+   "zcr": 0.0596,
+   "mod_prom": 37.5246,
+   "mod_f": 4.5732,
+   "n_act": 254
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-live-020",
+  "features": {
+   "dur": 2.4884,
+   "peak": 0.8,
+   "rms": 0.145,
+   "sil_ratio": 0.1415,
+   "flat": 0.0005,
+   "zcr": 0.1023,
+   "mod_prom": 91.9989,
+   "mod_f": 2.2866,
+   "n_act": 176
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-story-021",
+  "features": {
+   "dur": 3.1656,
+   "peak": 0.8,
+   "rms": 0.1391,
+   "sil_ratio": 0.1152,
+   "flat": 0.0004,
+   "zcr": 0.0724,
+   "mod_prom": 31.5059,
+   "mod_f": 4.8792,
+   "n_act": 238
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-mature-019",
+  "features": {
+   "dur": 2.647,
+   "peak": 0.8,
+   "rms": 0.0979,
+   "sil_ratio": 0.1991,
+   "flat": 0.0003,
+   "zcr": 0.0574,
+   "mod_prom": 45.8164,
+   "mod_f": 5.9389,
+   "n_act": 177
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-calm-022",
+  "features": {
+   "dur": 3.6364,
+   "peak": 0.8,
+   "rms": 0.1332,
+   "sil_ratio": 0.1054,
+   "flat": 0.0004,
+   "zcr": 0.0734,
+   "mod_prom": 487.746,
+   "mod_f": 5.0919,
+   "n_act": 280
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-buddy-018",
+  "features": {
+   "dur": 2.597,
+   "peak": 0.8,
+   "rms": 0.0765,
+   "sil_ratio": 0.2804,
+   "flat": 0.0003,
+   "zcr": 0.0553,
+   "mod_prom": 39.1809,
+   "mod_f": 5.257,
+   "n_act": 154
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-boy-023",
+  "features": {
+   "dur": 3.8433,
+   "peak": 0.8,
+   "rms": 0.1217,
+   "sil_ratio": 0.2538,
+   "flat": 0.0004,
+   "zcr": 0.0834,
+   "mod_prom": 101.774,
+   "mod_f": 2.8323,
+   "n_act": 247
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-warm-025",
+  "features": {
+   "dur": 3.414,
+   "peak": 0.8,
+   "rms": 0.1484,
+   "sil_ratio": 0.1365,
+   "flat": 0.0004,
+   "zcr": 0.0655,
+   "mod_prom": 99.9587,
+   "mod_f": 2.5597,
+   "n_act": 253
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-news-024",
+  "features": {
+   "dur": 2.9156,
+   "peak": 0.8,
+   "rms": 0.052,
+   "sil_ratio": 0.1475,
+   "flat": 0.0004,
+   "zcr": 0.0912,
+   "mod_prom": 216.0858,
+   "mod_f": 5.7633,
+   "n_act": 208
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-story-028",
+  "features": {
+   "dur": 3.3841,
+   "peak": 0.8,
+   "rms": 0.1453,
+   "sil_ratio": 0.1076,
+   "flat": 0.0003,
+   "zcr": 0.062,
+   "mod_prom": 16.6906,
+   "mod_f": 4.5573,
+   "n_act": 257
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-mature-027",
+  "features": {
+   "dur": 2.8129,
+   "peak": 0.8,
+   "rms": 0.1069,
+   "sil_ratio": 0.1595,
+   "flat": 0.0003,
+   "zcr": 0.0503,
+   "mod_prom": 219.9541,
+   "mod_f": 4.0409,
+   "n_act": 195
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-buddy-026",
+  "features": {
+   "dur": 2.6846,
+   "peak": 0.8,
+   "rms": 0.0886,
+   "sil_ratio": 0.2711,
+   "flat": 0.0004,
+   "zcr": 0.0544,
+   "mod_prom": 41.7446,
+   "mod_f": 2.0833,
+   "n_act": 164
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-boy-030",
+  "features": {
+   "dur": 3.0129,
+   "peak": 0.8,
+   "rms": 0.1094,
+   "sil_ratio": 0.1569,
+   "flat": 0.0004,
+   "zcr": 0.076,
+   "mod_prom": 193.9043,
+   "mod_f": 3.6765,
+   "n_act": 215
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-calm-029",
+  "features": {
+   "dur": 3.0495,
+   "peak": 0.8,
+   "rms": 0.154,
+   "sil_ratio": 0.1158,
+   "flat": 0.0003,
+   "zcr": 0.0544,
+   "mod_prom": 183.9024,
+   "mod_f": 2.1718,
+   "n_act": 229
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-news-031",
+  "features": {
+   "dur": 2.8688,
+   "peak": 0.8,
+   "rms": 0.0558,
+   "sil_ratio": 0.1446,
+   "flat": 0.0003,
+   "zcr": 0.0628,
+   "mod_prom": 60.7738,
+   "mod_f": 2.3244,
+   "n_act": 207
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-warm-032",
+  "features": {
+   "dur": 2.8257,
+   "peak": 0.8,
+   "rms": 0.1492,
+   "sil_ratio": 0.1255,
+   "flat": 0.0004,
+   "zcr": 0.0849,
+   "mod_prom": 26.6689,
+   "mod_f": 2.7458,
+   "n_act": 209
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-mature-034",
+  "features": {
+   "dur": 3.1825,
+   "peak": 0.8,
+   "rms": 0.0908,
+   "sil_ratio": 0.1808,
+   "flat": 0.0003,
+   "zcr": 0.0585,
+   "mod_prom": 128.0153,
+   "mod_f": 2.4216,
+   "n_act": 222
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-buddy-033",
+  "features": {
+   "dur": 2.2571,
+   "peak": 0.8,
+   "rms": 0.0724,
+   "sil_ratio": 0.3315,
+   "flat": 0.0004,
+   "zcr": 0.0823,
+   "mod_prom": 27.593,
+   "mod_f": 2.5898,
+   "n_act": 121
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-live-035",
+  "features": {
+   "dur": 2.4367,
+   "peak": 0.8,
+   "rms": 0.1653,
+   "sil_ratio": 0.18,
+   "flat": 0.0005,
+   "zcr": 0.1181,
+   "mod_prom": 210.1151,
+   "mod_f": 3.75,
+   "n_act": 164
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-calm-037",
+  "features": {
+   "dur": 3.1792,
+   "peak": 0.8,
+   "rms": 0.1632,
+   "sil_ratio": 0.0704,
+   "flat": 0.0004,
+   "zcr": 0.0808,
+   "mod_prom": 71.7784,
+   "mod_f": 2.0833,
+   "n_act": 251
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-boy-038",
+  "features": {
+   "dur": 2.8925,
+   "peak": 0.8,
+   "rms": 0.1115,
+   "sil_ratio": 0.1597,
+   "flat": 0.0005,
+   "zcr": 0.1284,
+   "mod_prom": 203.1699,
+   "mod_f": 5.5147,
+   "n_act": 200
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-news-039",
+  "features": {
+   "dur": 2.7446,
+   "peak": 0.8,
+   "rms": 0.0721,
+   "sil_ratio": 0.185,
+   "flat": 0.0003,
+   "zcr": 0.0521,
+   "mod_prom": 147.6682,
+   "mod_f": 4.543,
+   "n_act": 185
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-story-036",
+  "features": {
+   "dur": 3.3308,
+   "peak": 0.8,
+   "rms": 0.1277,
+   "sil_ratio": 0.0848,
+   "flat": 0.0003,
+   "zcr": 0.0768,
+   "mod_prom": 36.0098,
+   "mod_f": 5.3004,
+   "n_act": 259
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-mature-042",
+  "features": {
+   "dur": 2.4752,
+   "peak": 0.8,
+   "rms": 0.0975,
+   "sil_ratio": 0.2239,
+   "flat": 0.0003,
+   "zcr": 0.0525,
+   "mod_prom": 60.5836,
+   "mod_f": 2.7985,
+   "n_act": 156
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-warm-040",
+  "features": {
+   "dur": 3.3181,
+   "peak": 0.8,
+   "rms": 0.1459,
+   "sil_ratio": 0.0877,
+   "flat": 0.0004,
+   "zcr": 0.0636,
+   "mod_prom": 36.5005,
+   "mod_f": 2.9605,
+   "n_act": 260
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-live-043",
+  "features": {
+   "dur": 2.71,
+   "peak": 0.8,
+   "rms": 0.1194,
+   "sil_ratio": 0.136,
+   "flat": 0.0005,
+   "zcr": 0.147,
+   "mod_prom": 346.7583,
+   "mod_f": 2.0559,
+   "n_act": 197
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-calm-045",
+  "features": {
+   "dur": 3.5625,
+   "peak": 0.8,
+   "rms": 0.1668,
+   "sil_ratio": 0.0812,
+   "flat": 0.0003,
+   "zcr": 0.0568,
+   "mod_prom": 91.3524,
+   "mod_f": 2.1307,
+   "n_act": 283
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-buddy-041",
+  "features": {
+   "dur": 2.6438,
+   "peak": 0.8,
+   "rms": 0.0733,
+   "sil_ratio": 0.3009,
+   "flat": 0.0004,
+   "zcr": 0.0758,
+   "mod_prom": 89.428,
+   "mod_f": 2.1701,
+   "n_act": 151
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-story-044",
+  "features": {
+   "dur": 3.4179,
+   "peak": 0.8,
+   "rms": 0.122,
+   "sil_ratio": 0.1092,
+   "flat": 0.0003,
+   "zcr": 0.0556,
+   "mod_prom": 68.6526,
+   "mod_f": 2.5597,
+   "n_act": 261
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-boy-046",
+  "features": {
+   "dur": 2.9419,
+   "peak": 0.8,
+   "rms": 0.1066,
+   "sil_ratio": 0.1714,
+   "flat": 0.0004,
+   "zcr": 0.0743,
+   "mod_prom": 615.1566,
+   "mod_f": 2.2959,
+   "n_act": 203
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-news-047",
+  "features": {
+   "dur": 2.2976,
+   "peak": 0.8,
+   "rms": 0.0634,
+   "sil_ratio": 0.2063,
+   "flat": 0.0003,
+   "zcr": 0.0699,
+   "mod_prom": 167.3769,
+   "mod_f": 4.4643,
+   "n_act": 150
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-warm-048",
+  "features": {
+   "dur": 2.7173,
+   "peak": 0.8,
+   "rms": 0.1567,
+   "sil_ratio": 0.1283,
+   "flat": 0.0004,
+   "zcr": 0.0814,
+   "mod_prom": 166.8865,
+   "mod_f": 4.5631,
+   "n_act": 197
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-buddy-049",
+  "features": {
+   "dur": 3.0009,
+   "peak": 0.8,
+   "rms": 0.0744,
+   "sil_ratio": 0.3578,
+   "flat": 0.0003,
+   "zcr": 0.0471,
+   "mod_prom": 57.9549,
+   "mod_f": 2.1502,
+   "n_act": 140
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-mature-050",
+  "features": {
+   "dur": 3.3399,
+   "peak": 0.8,
+   "rms": 0.0936,
+   "sil_ratio": 0.1474,
+   "flat": 0.0003,
+   "zcr": 0.0636,
+   "mod_prom": 249.7082,
+   "mod_f": 4.9342,
+   "n_act": 243
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-live-051",
+  "features": {
+   "dur": 3.6004,
+   "peak": 0.8,
+   "rms": 0.1663,
+   "sil_ratio": 0.1903,
+   "flat": 0.0005,
+   "zcr": 0.0965,
+   "mod_prom": 299.0641,
+   "mod_f": 3.3266,
+   "n_act": 251
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-calm-053",
+  "features": {
+   "dur": 3.4713,
+   "peak": 0.8,
+   "rms": 0.1535,
+   "sil_ratio": 0.0912,
+   "flat": 0.0003,
+   "zcr": 0.0643,
+   "mod_prom": 186.6804,
+   "mod_f": 5.3843,
+   "n_act": 269
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-news-055",
+  "features": {
+   "dur": 2.5221,
+   "peak": 0.8,
+   "rms": 0.0562,
+   "sil_ratio": 0.1872,
+   "flat": 0.0003,
+   "zcr": 0.0602,
+   "mod_prom": 113.0762,
+   "mod_f": 2.0053,
+   "n_act": 152
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-boy-054",
+  "features": {
+   "dur": 2.8877,
+   "peak": 0.8,
+   "rms": 0.1124,
+   "sil_ratio": 0.25,
+   "flat": 0.0004,
+   "zcr": 0.074,
+   "mod_prom": 171.6838,
+   "mod_f": 4.6107,
+   "n_act": 183
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-story-052",
+  "features": {
+   "dur": 3.4588,
+   "peak": 0.8,
+   "rms": 0.1287,
+   "sil_ratio": 0.0946,
+   "flat": 0.0004,
+   "zcr": 0.0915,
+   "mod_prom": 84.7716,
+   "mod_f": 4.7508,
+   "n_act": 268
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-mature-057",
+  "features": {
+   "dur": 2.9927,
+   "peak": 0.8,
+   "rms": 0.0835,
+   "sil_ratio": 0.2778,
+   "flat": 0.0003,
+   "zcr": 0.0512,
+   "mod_prom": 160.3346,
+   "mod_f": 3.3482,
+   "n_act": 182
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-buddy-056",
+  "features": {
+   "dur": 2.8388,
+   "peak": 0.8,
+   "rms": 0.0796,
+   "sil_ratio": 0.3122,
+   "flat": 0.0003,
+   "zcr": 0.0525,
+   "mod_prom": 78.9612,
+   "mod_f": 2.3734,
+   "n_act": 163
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-live-058",
+  "features": {
+   "dur": 2.8954,
+   "peak": 0.8,
+   "rms": 0.1322,
+   "sil_ratio": 0.1475,
+   "flat": 0.0005,
+   "zcr": 0.0826,
+   "mod_prom": 70.1841,
+   "mod_f": 2.6895,
+   "n_act": 208
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-calm-060",
+  "features": {
+   "dur": 3.0765,
+   "peak": 0.8,
+   "rms": 0.1427,
+   "sil_ratio": 0.1188,
+   "flat": 0.0004,
+   "zcr": 0.0688,
+   "mod_prom": 201.3846,
+   "mod_f": 5.3879,
+   "n_act": 230
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-story-059",
+  "features": {
+   "dur": 3.4797,
+   "peak": 0.8,
+   "rms": 0.1217,
+   "sil_ratio": 0.1141,
+   "flat": 0.0003,
+   "zcr": 0.0734,
+   "mod_prom": 168.585,
+   "mod_f": 2.5168,
+   "n_act": 264
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-boy-061",
+  "features": {
+   "dur": 2.6402,
+   "peak": 0.8,
+   "rms": 0.1315,
+   "sil_ratio": 0.1628,
+   "flat": 0.0005,
+   "zcr": 0.1122,
+   "mod_prom": 190.17,
+   "mod_f": 5.6686,
+   "n_act": 180
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-warm-063",
+  "features": {
+   "dur": 2.5896,
+   "peak": 0.8,
+   "rms": 0.146,
+   "sil_ratio": 0.1262,
+   "flat": 0.0004,
+   "zcr": 0.101,
+   "mod_prom": 92.9345,
+   "mod_f": 2.1904,
+   "n_act": 187
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-news-062",
+  "features": {
+   "dur": 2.9767,
+   "peak": 0.8,
+   "rms": 0.0744,
+   "sil_ratio": 0.2411,
+   "flat": 0.0003,
+   "zcr": 0.0531,
+   "mod_prom": 106.2425,
+   "mod_f": 5.5583,
+   "n_act": 192
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-mature-065",
+  "features": {
+   "dur": 2.7109,
+   "peak": 0.8,
+   "rms": 0.0737,
+   "sil_ratio": 0.1556,
+   "flat": 0.0003,
+   "zcr": 0.0751,
+   "mod_prom": 64.3251,
+   "mod_f": 2.9167,
+   "n_act": 190
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-live-066",
+  "features": {
+   "dur": 2.6334,
+   "peak": 0.8,
+   "rms": 0.1466,
+   "sil_ratio": 0.1535,
+   "flat": 0.0005,
+   "zcr": 0.1384,
+   "mod_prom": 155.7414,
+   "mod_f": 2.1802,
+   "n_act": 182
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-buddy-064",
+  "features": {
+   "dur": 2.8173,
+   "peak": 0.8,
+   "rms": 0.0748,
+   "sil_ratio": 0.3665,
+   "flat": 0.0004,
+   "zcr": 0.055,
+   "mod_prom": 247.5557,
+   "mod_f": 2.5452,
+   "n_act": 140
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-calm-068",
+  "features": {
+   "dur": 3.5247,
+   "peak": 0.8,
+   "rms": 0.1683,
+   "sil_ratio": 0.0754,
+   "flat": 0.0003,
+   "zcr": 0.0632,
+   "mod_prom": 46.6013,
+   "mod_f": 2.459,
+   "n_act": 282
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-boy-069",
+  "features": {
+   "dur": 3.2947,
+   "peak": 0.8,
+   "rms": 0.1423,
+   "sil_ratio": 0.1423,
+   "flat": 0.0005,
+   "zcr": 0.0844,
+   "mod_prom": 256.3365,
+   "mod_f": 4.0036,
+   "n_act": 241
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-story-067",
+  "features": {
+   "dur": 3.4318,
+   "peak": 0.8,
+   "rms": 0.144,
+   "sil_ratio": 0.0956,
+   "flat": 0.0003,
+   "zcr": 0.0584,
+   "mod_prom": 15.2097,
+   "mod_f": 2.8797,
+   "n_act": 265
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-news-070",
+  "features": {
+   "dur": 2.0372,
+   "peak": 0.8,
+   "rms": 0.0614,
+   "sil_ratio": 0.156,
+   "flat": 0.0003,
+   "zcr": 0.0555,
+   "mod_prom": 126.7943,
+   "mod_f": 3.3245,
+   "n_act": 119
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-warm-071",
+  "features": {
+   "dur": 3.0274,
+   "peak": 0.8,
+   "rms": 0.1285,
+   "sil_ratio": 0.1313,
+   "flat": 0.0004,
+   "zcr": 0.1023,
+   "mod_prom": 91.1623,
+   "mod_f": 2.1718,
+   "n_act": 225
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-mature-073",
+  "features": {
+   "dur": 3.3141,
+   "peak": 0.8,
+   "rms": 0.127,
+   "sil_ratio": 0.1196,
+   "flat": 0.0003,
+   "zcr": 0.05,
+   "mod_prom": 395.355,
+   "mod_f": 2.7174,
+   "n_act": 243
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-live-074",
+  "features": {
+   "dur": 2.6605,
+   "peak": 0.8,
+   "rms": 0.1535,
+   "sil_ratio": 0.1629,
+   "flat": 0.0005,
+   "zcr": 0.0807,
+   "mod_prom": 68.1765,
+   "mod_f": 2.121,
+   "n_act": 185
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-buddy-072",
+  "features": {
+   "dur": 2.8727,
+   "peak": 0.8,
+   "rms": 0.1162,
+   "sil_ratio": 0.2594,
+   "flat": 0.0004,
+   "zcr": 0.0627,
+   "mod_prom": 50.0524,
+   "mod_f": 2.3536,
+   "n_act": 177
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-calm-076",
+  "features": {
+   "dur": 2.8825,
+   "peak": 0.8,
+   "rms": 0.1545,
+   "sil_ratio": 0.1074,
+   "flat": 0.0004,
+   "zcr": 0.0671,
+   "mod_prom": 226.126,
+   "mod_f": 5.811,
+   "n_act": 216
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-boy-077",
+  "features": {
+   "dur": 2.9367,
+   "peak": 0.8,
+   "rms": 0.1183,
+   "sil_ratio": 0.1492,
+   "flat": 0.0004,
+   "zcr": 0.0691,
+   "mod_prom": 49.8342,
+   "mod_f": 2.2681,
+   "n_act": 211
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-story-075",
+  "features": {
+   "dur": 2.9488,
+   "peak": 0.8,
+   "rms": 0.1295,
+   "sil_ratio": 0.1215,
+   "flat": 0.0003,
+   "zcr": 0.067,
+   "mod_prom": 74.7475,
+   "mod_f": 2.6569,
+   "n_act": 217
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-news-078",
+  "features": {
+   "dur": 2.9987,
+   "peak": 0.8,
+   "rms": 0.0503,
+   "sil_ratio": 0.2329,
+   "flat": 0.0003,
+   "zcr": 0.0731,
+   "mod_prom": 161.8697,
+   "mod_f": 2.259,
+   "n_act": 191
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-warm-079",
+  "features": {
+   "dur": 3.7791,
+   "peak": 0.8,
+   "rms": 0.1432,
+   "sil_ratio": 0.1743,
+   "flat": 0.0004,
+   "zcr": 0.0727,
+   "mod_prom": 50.3315,
+   "mod_f": 4.3005,
+   "n_act": 270
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-mature-081",
+  "features": {
+   "dur": 3.5951,
+   "peak": 0.8,
+   "rms": 0.1059,
+   "sil_ratio": 0.1792,
+   "flat": 0.0003,
+   "zcr": 0.0534,
+   "mod_prom": 198.7622,
+   "mod_f": 2.7484,
+   "n_act": 252
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-live-082",
+  "features": {
+   "dur": 2.6732,
+   "peak": 0.8,
+   "rms": 0.1566,
+   "sil_ratio": 0.183,
+   "flat": 0.0005,
+   "zcr": 0.0793,
+   "mod_prom": 40.9912,
+   "mod_f": 2.0926,
+   "n_act": 183
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-boy-084",
+  "features": {
+   "dur": 3.2755,
+   "peak": 0.8,
+   "rms": 0.0884,
+   "sil_ratio": 0.2374,
+   "flat": 0.0004,
+   "zcr": 0.0821,
+   "mod_prom": 40.2103,
+   "mod_f": 5.0585,
+   "n_act": 212
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-news-085",
+  "features": {
+   "dur": 2.8127,
+   "peak": 0.8,
+   "rms": 0.0537,
+   "sil_ratio": 0.2627,
+   "flat": 0.0003,
+   "zcr": 0.0545,
+   "mod_prom": 140.6765,
+   "mod_f": 2.7807,
+   "n_act": 174
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-buddy-080",
+  "features": {
+   "dur": 2.8669,
+   "peak": 0.8,
+   "rms": 0.0971,
+   "sil_ratio": 0.2076,
+   "flat": 0.0004,
+   "zcr": 0.0929,
+   "mod_prom": 169.7211,
+   "mod_f": 3.5752,
+   "n_act": 187
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-story-083",
+  "features": {
+   "dur": 3.2233,
+   "peak": 0.8,
+   "rms": 0.1256,
+   "sil_ratio": 0.1402,
+   "flat": 0.0003,
+   "zcr": 0.0793,
+   "mod_prom": 26.0235,
+   "mod_f": 5.881,
+   "n_act": 233
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-warm-086",
+  "features": {
+   "dur": 3.1401,
+   "peak": 0.8,
+   "rms": 0.1479,
+   "sil_ratio": 0.1498,
+   "flat": 0.0004,
+   "zcr": 0.0613,
+   "mod_prom": 49.9797,
+   "mod_f": 2.1067,
+   "n_act": 227
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-mature-088",
+  "features": {
+   "dur": 2.8706,
+   "peak": 0.8,
+   "rms": 0.109,
+   "sil_ratio": 0.1411,
+   "flat": 0.0003,
+   "zcr": 0.0619,
+   "mod_prom": 96.0344,
+   "mod_f": 3.89,
+   "n_act": 207
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-live-089",
+  "features": {
+   "dur": 2.427,
+   "peak": 0.8,
+   "rms": 0.1443,
+   "sil_ratio": 0.1282,
+   "flat": 0.0005,
+   "zcr": 0.138,
+   "mod_prom": 102.8818,
+   "mod_f": 5.7692,
+   "n_act": 170
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-calm-091",
+  "features": {
+   "dur": 3.0867,
+   "peak": 0.8,
+   "rms": 0.1727,
+   "sil_ratio": 0.1027,
+   "flat": 0.0003,
+   "zcr": 0.0757,
+   "mod_prom": 44.8533,
+   "mod_f": 5.347,
+   "n_act": 236
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-buddy-087",
+  "features": {
+   "dur": 2.7422,
+   "peak": 0.8,
+   "rms": 0.0964,
+   "sil_ratio": 0.3363,
+   "flat": 0.0003,
+   "zcr": 0.0552,
+   "mod_prom": 39.5102,
+   "mod_f": 2.9038,
+   "n_act": 150
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-boy-092",
+  "features": {
+   "dur": 3.0172,
+   "peak": 0.8,
+   "rms": 0.0948,
+   "sil_ratio": 0.1394,
+   "flat": 0.0004,
+   "zcr": 0.098,
+   "mod_prom": 115.2979,
+   "mod_f": 5.6026,
+   "n_act": 216
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-warm-094",
+  "features": {
+   "dur": 2.9393,
+   "peak": 0.8,
+   "rms": 0.1366,
+   "sil_ratio": 0.1579,
+   "flat": 0.0004,
+   "zcr": 0.1024,
+   "mod_prom": 76.0036,
+   "mod_f": 3.7955,
+   "n_act": 208
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-news-093",
+  "features": {
+   "dur": 2.6775,
+   "peak": 0.8,
+   "rms": 0.0592,
+   "sil_ratio": 0.2308,
+   "flat": 0.0003,
+   "zcr": 0.0642,
+   "mod_prom": 167.9789,
+   "mod_f": 2.9695,
+   "n_act": 170
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-mature-096",
+  "features": {
+   "dur": 3.5295,
+   "peak": 0.8,
+   "rms": 0.0905,
+   "sil_ratio": 0.1283,
+   "flat": 0.0003,
+   "zcr": 0.0576,
+   "mod_prom": 20.5015,
+   "mod_f": 4.6258,
+   "n_act": 265
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-buddy-095",
+  "features": {
+   "dur": 2.6458,
+   "peak": 0.8,
+   "rms": 0.0935,
+   "sil_ratio": 0.2019,
+   "flat": 0.0003,
+   "zcr": 0.0439,
+   "mod_prom": 28.0333,
+   "mod_f": 3.5211,
+   "n_act": 170
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-story-090",
+  "features": {
+   "dur": 3.2703,
+   "peak": 0.8,
+   "rms": 0.138,
+   "sil_ratio": 0.1331,
+   "flat": 0.0003,
+   "zcr": 0.0538,
+   "mod_prom": 348.8002,
+   "mod_f": 5.0585,
+   "n_act": 241
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-calm-099",
+  "features": {
+   "dur": 3.3426,
+   "peak": 0.8,
+   "rms": 0.1349,
+   "sil_ratio": 0.0732,
+   "flat": 0.0004,
+   "zcr": 0.0844,
+   "mod_prom": 128.9978,
+   "mod_f": 5.5531,
+   "n_act": 266
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-live-097",
+  "features": {
+   "dur": 2.9931,
+   "peak": 0.8,
+   "rms": 0.1578,
+   "sil_ratio": 0.122,
+   "flat": 0.0005,
+   "zcr": 0.0957,
+   "mod_prom": 253.3153,
+   "mod_f": 4.4291,
+   "n_act": 223
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-boy-100",
+  "features": {
+   "dur": 3.1658,
+   "peak": 0.8,
+   "rms": 0.1384,
+   "sil_ratio": 0.1859,
+   "flat": 0.0004,
+   "zcr": 0.0726,
+   "mod_prom": 98.0619,
+   "mod_f": 2.0911,
+   "n_act": 219
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-news-101",
+  "features": {
+   "dur": 3.2343,
+   "peak": 0.8,
+   "rms": 0.0673,
+   "sil_ratio": 0.1365,
+   "flat": 0.0003,
+   "zcr": 0.0502,
+   "mod_prom": 271.4931,
+   "mod_f": 3.1135,
+   "n_act": 234
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-story-098",
+  "features": {
+   "dur": 2.5341,
+   "peak": 0.8,
+   "rms": 0.134,
+   "sil_ratio": 0.1579,
+   "flat": 0.0003,
+   "zcr": 0.0783,
+   "mod_prom": 34.0554,
+   "mod_f": 4.4856,
+   "n_act": 176
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-warm-102",
+  "features": {
+   "dur": 2.8485,
+   "peak": 0.8,
+   "rms": 0.1507,
+   "sil_ratio": 0.1632,
+   "flat": 0.0004,
+   "zcr": 0.0609,
+   "mod_prom": 306.6717,
+   "mod_f": 2.3536,
+   "n_act": 200
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "human-buddy-103",
+  "features": {
+   "dur": 2.3203,
+   "peak": 0.8,
+   "rms": 0.1104,
+   "sil_ratio": 0.367,
+   "flat": 0.0003,
+   "zcr": 0.0639,
+   "mod_prom": 294.0913,
+   "mod_f": 6.9814,
+   "n_act": 119
+  },
+  "pass": true,
+  "reasons": []
+ }
+]

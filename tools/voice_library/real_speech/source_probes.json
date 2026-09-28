@@ -1,0 +1,311 @@
+{
+ "generated_at": "2026-09-22T12:40:04",
+ "http": {
+  "requests": 24,
+  "bytes": 66251,
+  "retries": 0,
+  "http_4xx": {
+   "exc": 6,
+   "404": 3,
+   "401": 1,
+   "405": 2
+  }
+ },
+ "blocked": null,
+ "probes": [
+  {
+   "name": "hf.co tree common_voice_17_0",
+   "url": "https://huggingface.co/api/datasets/Mozilla-Foundation/common_voice_17_0/tree/main",
+   "note": "official HF API",
+   "ok": false,
+   "err": "ConnectTimeout: HTTPSConnectionPool(host='huggingface.co', port=443): Max retries exceeded with url: /api/datasets/Mozilla-Foundation/common_voice_17_0/tree/main (Caused by Con",
+   "bytes": 0,
+   "secs": 148.38
+  },
+  {
+   "name": "hf-mirror tree common_voice_17_0",
+   "url": "https://hf-mirror.com/api/datasets/Mozilla-Foundation/common_voice_17_0/tree/main",
+   "note": "mirror API for the same repo",
+   "ok": true,
+   "err": "",
+   "bytes": 197,
+   "secs": 1.14,
+   "extract": [
+    ".gitattributes",
+    "README.md"
+   ]
+  },
+  {
+   "name": "hf-mirror resolve en tar (gated)",
+   "url": "https://hf-mirror.com/datasets/Mozilla-Foundation/common_voice_17_0/resolve/main/en/en_0.tar",
+   "note": "public tar/parquet direct link, no login",
+   "ok": false,
+   "err": "HTTP_404 Entry not found",
+   "bytes": 0,
+   "secs": 0.61
+  },
+  {
+   "name": "hf-mirror tree common_voice_11_0",
+   "url": "https://hf-mirror.com/api/datasets/Mozilla-Foundation/common_voice_11_0/tree/main",
+   "note": "older CV snapshot",
+   "ok": false,
+   "err": "HTTP_401 {\"error\":\"Invalid username or password.\"}",
+   "bytes": 0,
+   "secs": 0.64
+  },
+  {
+   "name": "voice-download.mozilla.org",
+   "url": "https://voice-download.mozilla.org/",
+   "note": "official CV download host",
+   "ok": false,
+   "err": "ConnectionError: HTTPSConnectionPool(host='voice-download.mozilla.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='voice-d",
+   "bytes": 0,
+   "secs": 21.5
+  },
+  {
+   "host": "voice-download.mozilla.org",
+   "error": "gaierror: [Errno 11001] getaddrinfo failed",
+   "name": "dns voice-download.mozilla.org"
+  },
+  {
+   "name": "openslr SLR93 record",
+   "url": "https://www.openslr.org/93/",
+   "note": "AISHELL-3 (Mandarin, 174 speakers)",
+   "ok": true,
+   "err": "",
+   "bytes": 3858,
+   "secs": 1.04,
+   "extract": {
+    "licence": "License: Apache License v.2.0 Downloads (use a mirror closer to you): data_aishell3.tgz",
+    "archives": []
+   }
+  },
+  {
+   "name": "openslr SLR52 record",
+   "url": "https://www.openslr.org/52/",
+   "note": "aishell-1",
+   "ok": true,
+   "err": "",
+   "bytes": 10711,
+   "secs": 0.23,
+   "extract": {
+    "licence": "License: Attribution-ShareAlike 4.0 International Downloads (use a mirror closer to you",
+    "archives": []
+   }
+  },
+  {
+   "name": "openslr SLR68 record",
+   "url": "https://www.openslr.org/68/",
+   "note": "MAGICDATA",
+   "ok": true,
+   "err": "",
+   "bytes": 6796,
+   "secs": 0.75,
+   "extract": {
+    "licence": "License: Attribution-NonCommercial-NoDerivatives 4.0 International Public License (CC B",
+    "archives": []
+   }
+  },
+  {
+   "name": "openslr SLR28 record",
+   "url": "https://www.openslr.org/28/",
+   "note": "SLR28",
+   "ok": true,
+   "err": "",
+   "bytes": 3059,
+   "secs": 0.77,
+   "extract": {
+    "licence": "License: Apache 2.0 Downloads (use a mirror closer to you): rirs_noises.zip [1.3G] &nbs",
+    "archives": []
+   }
+  },
+  {
+   "name": "openslr SLR26 record",
+   "url": "https://www.openslr.org/26/",
+   "note": "Southern Min",
+   "ok": true,
+   "err": "",
+   "bytes": 3252,
+   "secs": 0.77,
+   "extract": {
+    "licence": "License: Apache 2.0 Downloads (use a mirror closer to you): sim_rir_8k.zip [128M] &nbsp",
+    "archives": []
+   }
+  },
+  {
+   "name": "openslr SLR95 record",
+   "url": "https://www.openslr.org/95/",
+   "note": "THUCPOS",
+   "ok": true,
+   "err": "",
+   "bytes": 4492,
+   "secs": 0.77,
+   "extract": {
+    "licence": "License: Creative Commons (CC0) Licence Downloads (use a mirror closer to you): thorste",
+    "archives": []
+   }
+  },
+  {
+   "name": "openslr 93 speaker-info.txt",
+   "url": "https://openslr.trmal.net/resources/93/speaker-info.txt",
+   "note": "gender/age metadata?",
+   "ok": false,
+   "err": "HTTP_404 <!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\"> <html><head> <title>404 Not Found</title> </head><body> <h1>Not Found</h1> <p>The requested URL was not found",
+   "bytes": 0,
+   "secs": 1.15
+  },
+  {
+   "name": "openslr 93 README.../text",
+   "url": "https://openslr.trmal.net/resources/93/README.TXT",
+   "note": "readme",
+   "ok": false,
+   "err": "HTTP_404 <!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\"> <html><head> <title>404 Not Found</title> </head><body> <h1>Not Found</h1> <p>The requested URL was not found",
+   "bytes": 0,
+   "secs": 0.16
+  },
+  {
+   "name": "modelscope api opendatalab/AISHELL-3",
+   "url": "https://www.modelscope.cn/api/v1/datasets/opendatalab/AISHELL-3",
+   "note": "public dataset listing",
+   "ok": false,
+   "err": "HTTP_404 {\"RequestId\":\"2e6a25cc-35d6-44c2-9b62-f2b9f68679c5\",\"Code\":10020101002,\"Message\":\"不存在的数据集\",\"Data\":null,\"PageNumber\":null,\"PageSize\":null,\"TotalCount\":null}",
+   "bytes": 0,
+   "secs": 0.13
+  },
+  {
+   "name": "modelscope api AISHELL-3",
+   "url": "https://www.modelscope.cn/api/v1/datasets/AISHELL-3",
+   "note": "public dataset listing",
+   "ok": false,
+   "err": "HTTP_405 {\"RequestId\":\"3c805a6e-fcd5-4ad4-9a9a-09372d17c649\",\"Code\":10020000400,\"Message\":\"参数错误\",\"Data\":null,\"PageNumber\":null,\"PageSize\":null,\"TotalCount\":null}",
+   "bytes": 0,
+   "secs": 0.67
+  },
+  {
+   "name": "modelscope api iic/AISHELL-3",
+   "url": "https://www.modelscope.cn/api/v1/datasets/iic/AISHELL-3",
+   "note": "public dataset listing",
+   "ok": false,
+   "err": "HTTP_404 {\"RequestId\":\"697f61b6-cae1-4a6f-8f8f-65aa4f32cb67\",\"Code\":10020101002,\"Message\":\"不存在的数据集\",\"Data\":null,\"PageNumber\":null,\"PageSize\":null,\"TotalCount\":null}",
+   "bytes": 0,
+   "secs": 0.78
+  },
+  {
+   "name": "modelscope api speech_asr_aishell",
+   "url": "https://www.modelscope.cn/api/v1/datasets/speech_asr_aishell",
+   "note": "public dataset listing",
+   "ok": false,
+   "err": "HTTP_405 {\"RequestId\":\"cea03d08-2f08-4545-bd19-e5415a41e178\",\"Code\":10020000400,\"Message\":\"参数错误\",\"Data\":null,\"PageNumber\":null,\"PageSize\":null,\"TotalCount\":null}",
+   "bytes": 0,
+   "secs": 0.76
+  },
+  {
+   "name": "modelscope web search",
+   "url": "https://www.modelscope.cn/api/v1/datasets?Query=AISHELL-3",
+   "note": "search endpoint",
+   "ok": true,
+   "err": "",
+   "bytes": 1200,
+   "secs": 1.07
+  },
+  {
+   "name": "vctk item page",
+   "url": "https://datashare.ed.ac.uk/handle/10283/3443",
+   "note": "VCTK landing page",
+   "ok": true,
+   "err": "",
+   "bytes": 8000,
+   "secs": 1.84,
+   "extract": ""
+  },
+  {
+   "name": "vctk license_text.txt",
+   "url": "https://datashare.ed.ac.uk/server/api/core/bitstreams/956a1688-0b59-428c-8a2f-10837433dde3/content",
+   "note": "licence text shipped in the archive",
+   "ok": true,
+   "err": "",
+   "bytes": 800,
+   "secs": 2.1
+  },
+  {
+   "name": "commons search 'filetype:audio \"spoken word\"'",
+   "url": "https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=filetype%3Aaudio%20%22spoken%20word%22&srlimit=10&srnamespace=6&format=json",
+   "note": "how many hits",
+   "ok": true,
+   "err": "",
+   "bytes": 3139,
+   "secs": 3.71,
+   "extract": null
+  },
+  {
+   "name": "commons search 'filetype:audio spoken sentence'",
+   "url": "https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=filetype%3Aaudio%20spoken%20sentence&srlimit=10&srnamespace=6&format=json",
+   "note": "how many hits",
+   "ok": true,
+   "err": "",
+   "bytes": 4000,
+   "secs": 1.9,
+   "extract_err": "JSONDecodeError: Unterminated string starting at: line 1 column 3879 (char 3878)"
+  },
+  {
+   "name": "commons search 'filetype:audio \"read aloud\"'",
+   "url": "https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=filetype%3Aaudio%20%22read%20aloud%22&srlimit=10&srnamespace=6&format=json",
+   "note": "how many hits",
+   "ok": true,
+   "err": "",
+   "bytes": 2999,
+   "secs": 6.43,
+   "extract": null
+  },
+  {
+   "name": "commons search 'filetype:audio podcast clip'",
+   "url": "https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=filetype%3Aaudio%20podcast%20clip&srlimit=10&srnamespace=6&format=json",
+   "note": "how many hits",
+   "ok": true,
+   "err": "",
+   "bytes": 4000,
+   "secs": 2.06,
+   "extract_err": "JSONDecodeError: Unterminated string starting at: line 1 column 3806 (char 3805)"
+  },
+  {
+   "name": "commons search 'filetype:audio \"TTS\" sample'",
+   "url": "https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=filetype%3Aaudio%20%22TTS%22%20sample&srlimit=10&srnamespace=6&format=json",
+   "note": "how many hits",
+   "ok": true,
+   "err": "",
+   "bytes": 1624,
+   "secs": 1.23,
+   "extract": null
+  },
+  {
+   "name": "commons search 'filetype:audio voice recording'",
+   "url": "https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=filetype%3Aaudio%20voice%20recording&srlimit=10&srnamespace=6&format=json",
+   "note": "how many hits",
+   "ok": true,
+   "err": "",
+   "bytes": 3904,
+   "secs": 2.33,
+   "extract": null
+  },
+  {
+   "name": "commons search 'filetype:audio intitle:\"spoken\"'",
+   "url": "https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=filetype%3Aaudio%20intitle%3A%22spoken%22&srlimit=10&srnamespace=6&format=json",
+   "note": "how many hits",
+   "ok": true,
+   "err": "",
+   "bytes": 3859,
+   "secs": 1.87,
+   "extract": null
+  },
+  {
+   "name": "commons search 'filetype:audio \"news reading\"'",
+   "url": "https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=filetype%3Aaudio%20%22news%20reading%22&srlimit=10&srnamespace=6&format=json",
+   "note": "how many hits",
+   "ok": true,
+   "err": "",
+   "bytes": 361,
+   "secs": 0.74,
+   "extract": null
+  }
+ ]
+}

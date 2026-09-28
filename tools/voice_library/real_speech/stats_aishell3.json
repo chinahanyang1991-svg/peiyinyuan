@@ -1,0 +1,16 @@
+{
+ "source": "aishell3",
+ "candidates": 350,
+ "accepted": 265,
+ "rejected_records": 85,
+ "reason_hist": {
+  "low_harmonicity(no_voice)": 18,
+  "steady_bed_in_gaps(music_suspect)": 21,
+  "under_3s": 39,
+  "speaker_cap_5": 7
+ },
+ "speakers_accepted": 73,
+ "per_speaker_max": 5,
+ "mean_dur": 4.351,
+ "wall_s": 244.3
+}

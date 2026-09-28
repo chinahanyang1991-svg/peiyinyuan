@@ -1,0 +1,23 @@
+[
+ {
+  "license_url": "https://www.openslr.org/93/",
+  "kind": "dataset_official_record_page",
+  "captured_at": "2026-09-22T11:54:56+0800",
+  "local_copy": "D:\\程序开发\\PYY\\peiyinyuan\\tools\\voice_library\\real_speech\\_tmp\\license\\3535ed450042fb0a.txt",
+  "http_status": 200,
+  "sha256": "eae7dbb2872d3ad88bc26b8c3fbb6325a6c61bc62f7d52f2ab3ed7e4053412cd",
+  "quote": "OpenSLR SLR93 record: License: Apache License v.2.0",
+  "note": "OpenSLR SLR93 record: License: Apache License v.2.0",
+  "cached": true
+ },
+ {
+  "license_url": "https://hf-mirror.com/datasets/AISHELL/AISHELL-3/resolve/main/README.md",
+  "kind": "dataset_card",
+  "captured_at": "2026-09-22T11:54:57+0800",
+  "local_copy": "D:\\程序开发\\PYY\\peiyinyuan\\tools\\voice_library\\real_speech\\_tmp\\license\\aishell3_readme.md",
+  "http_status": 200,
+  "sha256": "ee88d6b71c491fd972ee4a591043b6b971384bb219629cb111c25d2ee6fb2753",
+  "quote": "--- license: apache-2.0 task_categories: - text-to-speech language: - zh size_categories: - 10K<n<100K --- AISHELL-3 is a large-scale and high-fidelity multi-speaker Mandarin speech corpus published by Beijing Shell Shell Technology Co.,Ltd.",
+  "note": "HF dataset card"
+ }
+]

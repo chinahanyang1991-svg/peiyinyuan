@@ -1,0 +1,56 @@
+{
+ "source": "commons",
+ "started_at": "2026-09-22T12:02:39",
+ "licence_rejects": {},
+ "skips": {
+  "duration_band": 98,
+  "size": 83
+ },
+ "errors": [],
+ "blocked": null,
+ "queries": {
+  "filetype:audio intitle:\"spoken\"": {
+   "totalhits": 533,
+   "returned": 60
+  },
+  "filetype:audio \"read by\" sentence": {
+   "totalhits": 2,
+   "returned": 2
+  },
+  "filetype:audio \"recitation\"": {
+   "totalhits": 1186,
+   "returned": 60
+  },
+  "filetype:audio \"narration\" voice": {
+   "totalhits": 4,
+   "returned": 4
+  },
+  "filetype:audio \"speech\" \"press conference\"": {
+   "totalhits": 43,
+   "returned": 43
+  },
+  "filetype:audio \"Wikinews\" article read": {
+   "totalhits": 4,
+   "returned": 4
+  },
+  "filetype:audio \"language\" \"example sentence\" recording": {
+   "totalhits": 0,
+   "returned": 0
+  },
+  "filetype:audio \"sermon\" OR \"lecture\" excerpt": {
+   "totalhits": 8,
+   "returned": 8
+  }
+ },
+ "titles": 181,
+ "audio_files_seen": 181,
+ "candidates": 0,
+ "http": {
+  "requests": 12,
+  "bytes": 1199690,
+  "retries": 0,
+  "http_4xx": {},
+  "blocked": null
+ },
+ "finished_at": "2026-09-22T12:03:55"
+}

@@ -1,0 +1,1730 @@
+[
+ {
+  "slug": "animal-kit-000",
+  "features": {
+   "dur": 3.2001,
+   "peak": 0.8,
+   "rms": 0.1153,
+   "sil_ratio": 0.146,
+   "flat": 0.0012,
+   "zcr": 0.119,
+   "mod_prom": 92.8715,
+   "mod_f": 5.8166,
+   "n_act": 234
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-beast-004",
+  "features": {
+   "dur": 3.0948,
+   "peak": 0.8,
+   "rms": 0.1239,
+   "sil_ratio": 0.1293,
+   "flat": 0.0039,
+   "zcr": 0.0384,
+   "mod_prom": 91.8385,
+   "mod_f": 4.2776,
+   "n_act": 229
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-vix-001",
+  "features": {
+   "dur": 2.2218,
+   "peak": 0.8,
+   "rms": 0.1488,
+   "sil_ratio": 0.0833,
+   "flat": 0.0016,
+   "zcr": 0.0558,
+   "mod_prom": 115.2601,
+   "mod_f": 4.6875,
+   "n_act": 165
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-purr-005",
+  "features": {
+   "dur": 2.959,
+   "peak": 0.8,
+   "rms": 0.0987,
+   "sil_ratio": 0.1225,
+   "flat": 0.001,
+   "zcr": 0.1037,
+   "mod_prom": 93.1144,
+   "mod_f": 2.5939,
+   "n_act": 222
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-bird-002",
+  "features": {
+   "dur": 2.9454,
+   "peak": 0.8,
+   "rms": 0.1116,
+   "sil_ratio": 0.1492,
+   "flat": 0.0024,
+   "zcr": 0.1011,
+   "mod_prom": 845.7755,
+   "mod_f": 2.2681,
+   "n_act": 211
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-pup-003",
+  "features": {
+   "dur": 3.7187,
+   "peak": 0.8,
+   "rms": 0.1289,
+   "sil_ratio": 0.147,
+   "flat": 0.0004,
+   "zcr": 0.0498,
+   "mod_prom": 407.4231,
+   "mod_f": 5.0919,
+   "n_act": 267
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-vix-009",
+  "features": {
+   "dur": 2.9276,
+   "peak": 0.8,
+   "rms": 0.1026,
+   "sil_ratio": 0.1822,
+   "flat": 0.002,
+   "zcr": 0.1151,
+   "mod_prom": 34.7448,
+   "mod_f": 3.0364,
+   "n_act": 202
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-frog-006",
+  "features": {
+   "dur": 3.3175,
+   "peak": 0.8,
+   "rms": 0.1076,
+   "sil_ratio": 0.1154,
+   "flat": 0.0001,
+   "zcr": 0.0255,
+   "mod_prom": 20.2843,
+   "mod_f": 5.2448,
+   "n_act": 253
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-kit-008",
+  "features": {
+   "dur": 3.1812,
+   "peak": 0.8,
+   "rms": 0.0845,
+   "sil_ratio": 0.2135,
+   "flat": 0.001,
+   "zcr": 0.0873,
+   "mod_prom": 114.3133,
+   "mod_f": 4.5646,
+   "n_act": 210
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-hive-007",
+  "features": {
+   "dur": 2.4864,
+   "peak": 0.8,
+   "rms": 0.152,
+   "sil_ratio": 0.1256,
+   "flat": 0.0033,
+   "zcr": 0.0883,
+   "mod_prom": 47.3377,
+   "mod_f": 2.2645,
+   "n_act": 181
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-bird-010",
+  "features": {
+   "dur": 2.3541,
+   "peak": 0.8,
+   "rms": 0.1276,
+   "sil_ratio": 0.0979,
+   "flat": 0.0025,
+   "zcr": 0.1065,
+   "mod_prom": 105.0682,
+   "mod_f": 2.8995,
+   "n_act": 175
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-pup-011",
+  "features": {
+   "dur": 3.0857,
+   "peak": 0.8,
+   "rms": 0.1006,
+   "sil_ratio": 0.2442,
+   "flat": 0.0004,
+   "zcr": 0.045,
+   "mod_prom": 303.0949,
+   "mod_f": 2.907,
+   "n_act": 195
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-frog-014",
+  "features": {
+   "dur": 2.9862,
+   "peak": 0.8,
+   "rms": 0.1328,
+   "sil_ratio": 0.1746,
+   "flat": 0.0001,
+   "zcr": 0.0255,
+   "mod_prom": 45.4499,
+   "mod_f": 2.2321,
+   "n_act": 208
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-vix-017",
+  "features": {
+   "dur": 2.8798,
+   "peak": 0.8,
+   "rms": 0.1314,
+   "sil_ratio": 0.1286,
+   "flat": 0.002,
+   "zcr": 0.1335,
+   "mod_prom": 81.082,
+   "mod_f": 2.334,
+   "n_act": 210
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-kit-016",
+  "features": {
+   "dur": 3.2629,
+   "peak": 0.8,
+   "rms": 0.1079,
+   "sil_ratio": 0.1841,
+   "flat": 0.0013,
+   "zcr": 0.1194,
+   "mod_prom": 578.2679,
+   "mod_f": 2.0307,
+   "n_act": 226
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-hive-015",
+  "features": {
+   "dur": 2.6984,
+   "peak": 0.8,
+   "rms": 0.1363,
+   "sil_ratio": 0.0536,
+   "flat": 0.0043,
+   "zcr": 0.1363,
+   "mod_prom": 47.6026,
+   "mod_f": 2.9297,
+   "n_act": 212
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-beast-012",
+  "features": {
+   "dur": 3.367,
+   "peak": 0.8,
+   "rms": 0.141,
+   "sil_ratio": 0.1333,
+   "flat": 0.0038,
+   "zcr": 0.0377,
+   "mod_prom": 115.3235,
+   "mod_f": 4.9342,
+   "n_act": 247
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-purr-013",
+  "features": {
+   "dur": 2.6355,
+   "peak": 0.8,
+   "rms": 0.1161,
+   "sil_ratio": 0.1416,
+   "flat": 0.0009,
+   "zcr": 0.0852,
+   "mod_prom": 30.8595,
+   "mod_f": 4.7089,
+   "n_act": 188
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-purr-021",
+  "features": {
+   "dur": 2.613,
+   "peak": 0.8,
+   "rms": 0.138,
+   "sil_ratio": 0.0691,
+   "flat": 0.001,
+   "zcr": 0.1019,
+   "mod_prom": 369.2729,
+   "mod_f": 4.3203,
+   "n_act": 202
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-bird-018",
+  "features": {
+   "dur": 2.8721,
+   "peak": 0.8,
+   "rms": 0.1573,
+   "sil_ratio": 0.0905,
+   "flat": 0.0026,
+   "zcr": 0.1073,
+   "mod_prom": 22.3775,
+   "mod_f": 4.6296,
+   "n_act": 221
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-hive-023",
+  "features": {
+   "dur": 2.6591,
+   "peak": 0.8,
+   "rms": 0.1185,
+   "sil_ratio": 0.0946,
+   "flat": 0.004,
+   "zcr": 0.1466,
+   "mod_prom": 96.9775,
+   "mod_f": 2.5338,
+   "n_act": 201
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-pup-019",
+  "features": {
+   "dur": 3.2938,
+   "peak": 0.8,
+   "rms": 0.1203,
+   "sil_ratio": 0.1511,
+   "flat": 0.0004,
+   "zcr": 0.0531,
+   "mod_prom": 49.39,
+   "mod_f": 2.3606,
+   "n_act": 236
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-beast-020",
+  "features": {
+   "dur": 3.5255,
+   "peak": 0.8,
+   "rms": 0.1111,
+   "sil_ratio": 0.1452,
+   "flat": 0.0074,
+   "zcr": 0.0562,
+   "mod_prom": 59.3908,
+   "mod_f": 3.7129,
+   "n_act": 259
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-frog-022",
+  "features": {
+   "dur": 2.9029,
+   "peak": 0.8,
+   "rms": 0.1204,
+   "sil_ratio": 0.0947,
+   "flat": 0.0001,
+   "zcr": 0.0317,
+   "mod_prom": 87.0644,
+   "mod_f": 5.0154,
+   "n_act": 220
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-purr-028",
+  "features": {
+   "dur": 3.0101,
+   "peak": 0.8,
+   "rms": 0.1225,
+   "sil_ratio": 0.0902,
+   "flat": 0.001,
+   "zcr": 0.1333,
+   "mod_prom": 139.6081,
+   "mod_f": 5.5147,
+   "n_act": 232
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-frog-029",
+  "features": {
+   "dur": 2.674,
+   "peak": 0.8,
+   "rms": 0.1279,
+   "sil_ratio": 0.0946,
+   "flat": 0.0001,
+   "zcr": 0.0186,
+   "mod_prom": 71.7645,
+   "mod_f": 2.1115,
+   "n_act": 201
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-kit-024",
+  "features": {
+   "dur": 3.3917,
+   "peak": 0.8,
+   "rms": 0.1094,
+   "sil_ratio": 0.1952,
+   "flat": 0.0012,
+   "zcr": 0.0803,
+   "mod_prom": 264.1543,
+   "mod_f": 2.5685,
+   "n_act": 235
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-vix-025",
+  "features": {
+   "dur": 2.9076,
+   "peak": 0.8,
+   "rms": 0.164,
+   "sil_ratio": 0.0939,
+   "flat": 0.002,
+   "zcr": 0.1234,
+   "mod_prom": 202.8769,
+   "mod_f": 4.9745,
+   "n_act": 222
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-bird-026",
+  "features": {
+   "dur": 2.9965,
+   "peak": 0.8,
+   "rms": 0.1082,
+   "sil_ratio": 0.083,
+   "flat": 0.0024,
+   "zcr": 0.0931,
+   "mod_prom": 187.8647,
+   "mod_f": 2.2233,
+   "n_act": 232
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-pup-027",
+  "features": {
+   "dur": 3.3997,
+   "peak": 0.8,
+   "rms": 0.1695,
+   "sil_ratio": 0.1718,
+   "flat": 0.0004,
+   "zcr": 0.0416,
+   "mod_prom": 60.873,
+   "mod_f": 3.2216,
+   "n_act": 241
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-hive-030",
+  "features": {
+   "dur": 3.0603,
+   "peak": 0.8,
+   "rms": 0.1312,
+   "sil_ratio": 0.1506,
+   "flat": 0.0038,
+   "zcr": 0.1158,
+   "mod_prom": 185.3153,
+   "mod_f": 2.1718,
+   "n_act": 220
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-beast-035",
+  "features": {
+   "dur": 2.9292,
+   "peak": 0.8,
+   "rms": 0.1456,
+   "sil_ratio": 0.2088,
+   "flat": 0.0058,
+   "zcr": 0.0381,
+   "mod_prom": 170.1872,
+   "mod_f": 4.5181,
+   "n_act": 197
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-vix-032",
+  "features": {
+   "dur": 2.5974,
+   "peak": 0.8,
+   "rms": 0.118,
+   "sil_ratio": 0.0837,
+   "flat": 0.0018,
+   "zcr": 0.1027,
+   "mod_prom": 67.4354,
+   "mod_f": 2.1802,
+   "n_act": 197
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-kit-031",
+  "features": {
+   "dur": 3.1461,
+   "peak": 0.8,
+   "rms": 0.097,
+   "sil_ratio": 0.1711,
+   "flat": 0.001,
+   "zcr": 0.0749,
+   "mod_prom": 306.1281,
+   "mod_f": 2.4952,
+   "n_act": 218
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-pup-034",
+  "features": {
+   "dur": 3.4302,
+   "peak": 0.8,
+   "rms": 0.1161,
+   "sil_ratio": 0.1254,
+   "flat": 0.0004,
+   "zcr": 0.052,
+   "mod_prom": 287.9775,
+   "mod_f": 4.7669,
+   "n_act": 258
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-bird-033",
+  "features": {
+   "dur": 2.5928,
+   "peak": 0.8,
+   "rms": 0.0999,
+   "sil_ratio": 0.1152,
+   "flat": 0.0026,
+   "zcr": 0.1125,
+   "mod_prom": 87.6694,
+   "mod_f": 2.5922,
+   "n_act": 192
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-purr-036",
+  "features": {
+   "dur": 3.1203,
+   "peak": 0.8,
+   "rms": 0.1338,
+   "sil_ratio": 0.1412,
+   "flat": 0.0009,
+   "zcr": 0.091,
+   "mod_prom": 83.4554,
+   "mod_f": 2.5048,
+   "n_act": 225
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-frog-037",
+  "features": {
+   "dur": 3.2769,
+   "peak": 0.8,
+   "rms": 0.1162,
+   "sil_ratio": 0.1393,
+   "flat": 0.0001,
+   "zcr": 0.0343,
+   "mod_prom": 24.0589,
+   "mod_f": 2.6786,
+   "n_act": 241
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-kit-039",
+  "features": {
+   "dur": 2.7843,
+   "peak": 0.8,
+   "rms": 0.0941,
+   "sil_ratio": 0.1385,
+   "flat": 0.0012,
+   "zcr": 0.0958,
+   "mod_prom": 340.0324,
+   "mod_f": 2.0292,
+   "n_act": 199
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-hive-038",
+  "features": {
+   "dur": 2.4421,
+   "peak": 0.8,
+   "rms": 0.1431,
+   "sil_ratio": 0.099,
+   "flat": 0.0038,
+   "zcr": 0.1144,
+   "mod_prom": 118.1542,
+   "mod_f": 2.7847,
+   "n_act": 182
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-pup-042",
+  "features": {
+   "dur": 3.2029,
+   "peak": 0.8,
+   "rms": 0.1333,
+   "sil_ratio": 0.1863,
+   "flat": 0.0004,
+   "zcr": 0.054,
+   "mod_prom": 55.9652,
+   "mod_f": 2.1388,
+   "n_act": 214
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-beast-043",
+  "features": {
+   "dur": 3.2348,
+   "peak": 0.8,
+   "rms": 0.1539,
+   "sil_ratio": 0.1259,
+   "flat": 0.0095,
+   "zcr": 0.0534,
+   "mod_prom": 87.2832,
+   "mod_f": 3.8194,
+   "n_act": 236
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-frog-045",
+  "features": {
+   "dur": 3.1115,
+   "peak": 0.8,
+   "rms": 0.1041,
+   "sil_ratio": 0.1245,
+   "flat": 0.0001,
+   "zcr": 0.0332,
+   "mod_prom": 266.8527,
+   "mod_f": 2.4764,
+   "n_act": 232
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-vix-040",
+  "features": {
+   "dur": 2.9687,
+   "peak": 0.8,
+   "rms": 0.1479,
+   "sil_ratio": 0.1076,
+   "flat": 0.002,
+   "zcr": 0.1006,
+   "mod_prom": 126.7529,
+   "mod_f": 2.241,
+   "n_act": 224
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-purr-044",
+  "features": {
+   "dur": 3.3224,
+   "peak": 0.8,
+   "rms": 0.0938,
+   "sil_ratio": 0.1596,
+   "flat": 0.001,
+   "zcr": 0.1357,
+   "mod_prom": 75.4689,
+   "mod_f": 4.9867,
+   "n_act": 237
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-bird-041",
+  "features": {
+   "dur": 2.448,
+   "peak": 0.8,
+   "rms": 0.1321,
+   "sil_ratio": 0.0882,
+   "flat": 0.0022,
+   "zcr": 0.084,
+   "mod_prom": 57.7869,
+   "mod_f": 6.8934,
+   "n_act": 186
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-hive-046",
+  "features": {
+   "dur": 2.9739,
+   "peak": 0.8,
+   "rms": 0.1498,
+   "sil_ratio": 0.0952,
+   "flat": 0.0039,
+   "zcr": 0.1131,
+   "mod_prom": 41.5072,
+   "mod_f": 5.2083,
+   "n_act": 228
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-bird-049",
+  "features": {
+   "dur": 2.5233,
+   "peak": 0.8,
+   "rms": 0.1258,
+   "sil_ratio": 0.0427,
+   "flat": 0.0027,
+   "zcr": 0.1058,
+   "mod_prom": 59.8884,
+   "mod_f": 3.5545,
+   "n_act": 202
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-vix-048",
+  "features": {
+   "dur": 3.0726,
+   "peak": 0.8,
+   "rms": 0.1539,
+   "sil_ratio": 0.1077,
+   "flat": 0.0022,
+   "zcr": 0.153,
+   "mod_prom": 55.484,
+   "mod_f": 3.2452,
+   "n_act": 232
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-kit-047",
+  "features": {
+   "dur": 2.7643,
+   "peak": 0.8,
+   "rms": 0.0843,
+   "sil_ratio": 0.1404,
+   "flat": 0.0013,
+   "zcr": 0.0994,
+   "mod_prom": 157.4707,
+   "mod_f": 5.3454,
+   "n_act": 196
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-beast-051",
+  "features": {
+   "dur": 2.9857,
+   "peak": 0.8,
+   "rms": 0.1175,
+   "sil_ratio": 0.122,
+   "flat": 0.0058,
+   "zcr": 0.0621,
+   "mod_prom": 94.2864,
+   "mod_f": 5.5364,
+   "n_act": 223
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-pup-050",
+  "features": {
+   "dur": 3.2118,
+   "peak": 0.8,
+   "rms": 0.1323,
+   "sil_ratio": 0.1319,
+   "flat": 0.0005,
+   "zcr": 0.0645,
+   "mod_prom": 237.7836,
+   "mod_f": 4.1209,
+   "n_act": 237
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-purr-052",
+  "features": {
+   "dur": 3.226,
+   "peak": 0.8,
+   "rms": 0.1091,
+   "sil_ratio": 0.1259,
+   "flat": 0.001,
+   "zcr": 0.0725,
+   "mod_prom": 67.1776,
+   "mod_f": 2.0234,
+   "n_act": 243
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-frog-053",
+  "features": {
+   "dur": 3.1308,
+   "peak": 0.8,
+   "rms": 0.1039,
+   "sil_ratio": 0.1174,
+   "flat": 0.0001,
+   "zcr": 0.0358,
+   "mod_prom": 161.3391,
+   "mod_f": 2.1307,
+   "n_act": 233
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-kit-055",
+  "features": {
+   "dur": 3.0226,
+   "peak": 0.8,
+   "rms": 0.0785,
+   "sil_ratio": 0.1529,
+   "flat": 0.0012,
+   "zcr": 0.0866,
+   "mod_prom": 66.6152,
+   "mod_f": 4.4118,
+   "n_act": 216
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-bird-056",
+  "features": {
+   "dur": 2.8738,
+   "peak": 0.8,
+   "rms": 0.1191,
+   "sil_ratio": 0.0816,
+   "flat": 0.0028,
+   "zcr": 0.1389,
+   "mod_prom": 139.5225,
+   "mod_f": 3.0612,
+   "n_act": 225
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-hive-054",
+  "features": {
+   "dur": 3.1069,
+   "peak": 0.8,
+   "rms": 0.1199,
+   "sil_ratio": 0.0833,
+   "flat": 0.0035,
+   "zcr": 0.099,
+   "mod_prom": 79.2204,
+   "mod_f": 2.1307,
+   "n_act": 242
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-pup-057",
+  "features": {
+   "dur": 2.9997,
+   "peak": 0.8,
+   "rms": 0.1185,
+   "sil_ratio": 0.253,
+   "flat": 0.0004,
+   "zcr": 0.0356,
+   "mod_prom": 324.3182,
+   "mod_f": 2.259,
+   "n_act": 186
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-beast-058",
+  "features": {
+   "dur": 3.4452,
+   "peak": 0.8,
+   "rms": 0.1165,
+   "sil_ratio": 0.1463,
+   "flat": 0.0047,
+   "zcr": 0.0484,
+   "mod_prom": 99.4008,
+   "mod_f": 3.1888,
+   "n_act": 251
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-hive-061",
+  "features": {
+   "dur": 2.6839,
+   "peak": 0.8,
+   "rms": 0.1113,
+   "sil_ratio": 0.1096,
+   "flat": 0.0039,
+   "zcr": 0.1183,
+   "mod_prom": 37.701,
+   "mod_f": 2.4671,
+   "n_act": 203
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-purr-059",
+  "features": {
+   "dur": 3.1101,
+   "peak": 0.8,
+   "rms": 0.113,
+   "sil_ratio": 0.1589,
+   "flat": 0.0009,
+   "zcr": 0.0833,
+   "mod_prom": 146.5075,
+   "mod_f": 2.5436,
+   "n_act": 217
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-vix-063",
+  "features": {
+   "dur": 2.5368,
+   "peak": 0.8,
+   "rms": 0.0943,
+   "sil_ratio": 0.1934,
+   "flat": 0.0018,
+   "zcr": 0.098,
+   "mod_prom": 66.3185,
+   "mod_f": 5.3066,
+   "n_act": 171
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-kit-062",
+  "features": {
+   "dur": 3.1596,
+   "peak": 0.8,
+   "rms": 0.1051,
+   "sil_ratio": 0.1033,
+   "flat": 0.0012,
+   "zcr": 0.0996,
+   "mod_prom": 150.5292,
+   "mod_f": 5.1891,
+   "n_act": 243
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-frog-060",
+  "features": {
+   "dur": 3.0115,
+   "peak": 0.8,
+   "rms": 0.0934,
+   "sil_ratio": 0.1373,
+   "flat": 0.0001,
+   "zcr": 0.0262,
+   "mod_prom": 108.088,
+   "mod_f": 4.4118,
+   "n_act": 220
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-bird-064",
+  "features": {
+   "dur": 2.8781,
+   "peak": 0.8,
+   "rms": 0.1519,
+   "sil_ratio": 0.0875,
+   "flat": 0.0024,
+   "zcr": 0.0948,
+   "mod_prom": 174.1605,
+   "mod_f": 5.0781,
+   "n_act": 219
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-purr-067",
+  "features": {
+   "dur": 2.7725,
+   "peak": 0.8,
+   "rms": 0.1323,
+   "sil_ratio": 0.1429,
+   "flat": 0.001,
+   "zcr": 0.0951,
+   "mod_prom": 561.9835,
+   "mod_f": 2.0292,
+   "n_act": 198
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-hive-069",
+  "features": {
+   "dur": 2.5381,
+   "peak": 0.8,
+   "rms": 0.1357,
+   "sil_ratio": 0.1085,
+   "flat": 0.0032,
+   "zcr": 0.0882,
+   "mod_prom": 31.1551,
+   "mod_f": 6.6333,
+   "n_act": 189
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-beast-066",
+  "features": {
+   "dur": 3.061,
+   "peak": 0.8,
+   "rms": 0.1344,
+   "sil_ratio": 0.1556,
+   "flat": 0.0078,
+   "zcr": 0.0607,
+   "mod_prom": 162.7739,
+   "mod_f": 2.1887,
+   "n_act": 217
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-pup-065",
+  "features": {
+   "dur": 3.8177,
+   "peak": 0.8,
+   "rms": 0.1322,
+   "sil_ratio": 0.2024,
+   "flat": 0.0004,
+   "zcr": 0.0623,
+   "mod_prom": 89.2945,
+   "mod_f": 2.2659,
+   "n_act": 264
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-frog-068",
+  "features": {
+   "dur": 3.2747,
+   "peak": 0.8,
+   "rms": 0.1081,
+   "sil_ratio": 0.1268,
+   "flat": 0.0001,
+   "zcr": 0.026,
+   "mod_prom": 119.2422,
+   "mod_f": 5.0951,
+   "n_act": 241
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-kit-070",
+  "features": {
+   "dur": 2.8744,
+   "peak": 0.8,
+   "rms": 0.0867,
+   "sil_ratio": 0.1933,
+   "flat": 0.0011,
+   "zcr": 0.0723,
+   "mod_prom": 97.1927,
+   "mod_f": 3.9391,
+   "n_act": 192
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-vix-071",
+  "features": {
+   "dur": 2.6428,
+   "peak": 0.8,
+   "rms": 0.1456,
+   "sil_ratio": 0.0905,
+   "flat": 0.0022,
+   "zcr": 0.1482,
+   "mod_prom": 60.3645,
+   "mod_f": 6.3631,
+   "n_act": 201
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-purr-075",
+  "features": {
+   "dur": 2.8086,
+   "peak": 0.8,
+   "rms": 0.1454,
+   "sil_ratio": 0.1164,
+   "flat": 0.001,
+   "zcr": 0.1165,
+   "mod_prom": 63.5654,
+   "mod_f": 6.4655,
+   "n_act": 205
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-bird-072",
+  "features": {
+   "dur": 2.917,
+   "peak": 0.8,
+   "rms": 0.1426,
+   "sil_ratio": 0.1382,
+   "flat": 0.0027,
+   "zcr": 0.1273,
+   "mod_prom": 49.0881,
+   "mod_f": 2.2866,
+   "n_act": 212
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-beast-074",
+  "features": {
+   "dur": 3.272,
+   "peak": 0.8,
+   "rms": 0.1104,
+   "sil_ratio": 0.1026,
+   "flat": 0.0054,
+   "zcr": 0.0464,
+   "mod_prom": 107.6158,
+   "mod_f": 3.4341,
+   "n_act": 245
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-pup-073",
+  "features": {
+   "dur": 3.5341,
+   "peak": 0.8,
+   "rms": 0.1368,
+   "sil_ratio": 0.1429,
+   "flat": 0.0004,
+   "zcr": 0.0586,
+   "mod_prom": 204.3236,
+   "mod_f": 2.4917,
+   "n_act": 258
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-frog-076",
+  "features": {
+   "dur": 3.4272,
+   "peak": 0.8,
+   "rms": 0.0823,
+   "sil_ratio": 0.1701,
+   "flat": 0.0001,
+   "zcr": 0.0403,
+   "mod_prom": 43.0905,
+   "mod_f": 3.8265,
+   "n_act": 244
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-hive-077",
+  "features": {
+   "dur": 2.6165,
+   "peak": 0.8,
+   "rms": 0.1391,
+   "sil_ratio": 0.0502,
+   "flat": 0.0039,
+   "zcr": 0.1107,
+   "mod_prom": 30.2584,
+   "mod_f": 2.5685,
+   "n_act": 208
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-vix-079",
+  "features": {
+   "dur": 2.5985,
+   "peak": 0.8,
+   "rms": 0.1181,
+   "sil_ratio": 0.1116,
+   "flat": 0.0019,
+   "zcr": 0.1502,
+   "mod_prom": 56.2526,
+   "mod_f": 4.7965,
+   "n_act": 191
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-kit-078",
+  "features": {
+   "dur": 2.8212,
+   "peak": 0.8,
+   "rms": 0.0839,
+   "sil_ratio": 0.105,
+   "flat": 0.0013,
+   "zcr": 0.1092,
+   "mod_prom": 95.8195,
+   "mod_f": 2.3634,
+   "n_act": 213
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-purr-083",
+  "features": {
+   "dur": 3.0431,
+   "peak": 0.8,
+   "rms": 0.143,
+   "sil_ratio": 0.0969,
+   "flat": 0.0009,
+   "zcr": 0.0837,
+   "mod_prom": 91.5879,
+   "mod_f": 4.7238,
+   "n_act": 233
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-beast-082",
+  "features": {
+   "dur": 3.4326,
+   "peak": 0.8,
+   "rms": 0.1374,
+   "sil_ratio": 0.1336,
+   "flat": 0.005,
+   "zcr": 0.0446,
+   "mod_prom": 72.2253,
+   "mod_f": 2.5685,
+   "n_act": 253
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-bird-080",
+  "features": {
+   "dur": 2.9664,
+   "peak": 0.8,
+   "rms": 0.1182,
+   "sil_ratio": 0.131,
+   "flat": 0.0026,
+   "zcr": 0.0741,
+   "mod_prom": 93.3041,
+   "mod_f": 2.2321,
+   "n_act": 219
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-pup-081",
+  "features": {
+   "dur": 3.3639,
+   "peak": 0.8,
+   "rms": 0.1125,
+   "sil_ratio": 0.1573,
+   "flat": 0.0004,
+   "zcr": 0.0627,
+   "mod_prom": 84.5537,
+   "mod_f": 4.917,
+   "n_act": 241
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-hive-084",
+  "features": {
+   "dur": 2.9863,
+   "peak": 0.8,
+   "rms": 0.1084,
+   "sil_ratio": 0.0824,
+   "flat": 0.0043,
+   "zcr": 0.1465,
+   "mod_prom": 149.0526,
+   "mod_f": 2.9412,
+   "n_act": 234
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-kit-085",
+  "features": {
+   "dur": 2.5581,
+   "peak": 0.8,
+   "rms": 0.0961,
+   "sil_ratio": 0.1422,
+   "flat": 0.001,
+   "zcr": 0.0583,
+   "mod_prom": 72.4492,
+   "mod_f": 2.2216,
+   "n_act": 181
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-bird-087",
+  "features": {
+   "dur": 2.9567,
+   "peak": 0.8,
+   "rms": 0.1136,
+   "sil_ratio": 0.088,
+   "flat": 0.0025,
+   "zcr": 0.1156,
+   "mod_prom": 36.0844,
+   "mod_f": 2.25,
+   "n_act": 228
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-purr-090",
+  "features": {
+   "dur": 3.019,
+   "peak": 0.8,
+   "rms": 0.1556,
+   "sil_ratio": 0.0973,
+   "flat": 0.001,
+   "zcr": 0.1018,
+   "mod_prom": 31.0242,
+   "mod_f": 5.4718,
+   "n_act": 232
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-vix-086",
+  "features": {
+   "dur": 3.0604,
+   "peak": 0.8,
+   "rms": 0.1152,
+   "sil_ratio": 0.1673,
+   "flat": 0.0019,
+   "zcr": 0.1133,
+   "mod_prom": 172.4977,
+   "mod_f": 4.3774,
+   "n_act": 214
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-beast-089",
+  "features": {
+   "dur": 3.0518,
+   "peak": 0.8,
+   "rms": 0.1108,
+   "sil_ratio": 0.1385,
+   "flat": 0.0053,
+   "zcr": 0.0473,
+   "mod_prom": 151.5108,
+   "mod_f": 2.1635,
+   "n_act": 224
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-frog-091",
+  "features": {
+   "dur": 2.8539,
+   "peak": 0.8,
+   "rms": 0.1278,
+   "sil_ratio": 0.1777,
+   "flat": 0.0001,
+   "zcr": 0.028,
+   "mod_prom": 183.5767,
+   "mod_f": 3.0992,
+   "n_act": 199
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-pup-088",
+  "features": {
+   "dur": 3.1392,
+   "peak": 0.8,
+   "rms": 0.1152,
+   "sil_ratio": 0.1597,
+   "flat": 0.0004,
+   "zcr": 0.053,
+   "mod_prom": 35.4217,
+   "mod_f": 4.9905,
+   "n_act": 221
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-kit-093",
+  "features": {
+   "dur": 3.3927,
+   "peak": 0.8,
+   "rms": 0.1167,
+   "sil_ratio": 0.1497,
+   "flat": 0.0012,
+   "zcr": 0.1025,
+   "mod_prom": 107.919,
+   "mod_f": 2.551,
+   "n_act": 250
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-pup-096",
+  "features": {
+   "dur": 3.6886,
+   "peak": 0.8,
+   "rms": 0.1697,
+   "sil_ratio": 0.1325,
+   "flat": 0.0004,
+   "zcr": 0.0382,
+   "mod_prom": 197.2581,
+   "mod_f": 2.9574,
+   "n_act": 275
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-beast-097",
+  "features": {
+   "dur": 2.8455,
+   "peak": 0.8,
+   "rms": 0.1461,
+   "sil_ratio": 0.1624,
+   "flat": 0.0027,
+   "zcr": 0.0308,
+   "mod_prom": 67.676,
+   "mod_f": 5.2083,
+   "n_act": 196
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-vix-094",
+  "features": {
+   "dur": 2.5734,
+   "peak": 0.8,
+   "rms": 0.1408,
+   "sil_ratio": 0.1038,
+   "flat": 0.0019,
+   "zcr": 0.1301,
+   "mod_prom": 142.809,
+   "mod_f": 2.6533,
+   "n_act": 190
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-hive-092",
+  "features": {
+   "dur": 2.9819,
+   "peak": 0.8,
+   "rms": 0.1028,
+   "sil_ratio": 0.0757,
+   "flat": 0.0037,
+   "zcr": 0.1033,
+   "mod_prom": 72.4105,
+   "mod_f": 4.8556,
+   "n_act": 232
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-bird-095",
+  "features": {
+   "dur": 2.567,
+   "peak": 0.8,
+   "rms": 0.1454,
+   "sil_ratio": 0.1033,
+   "flat": 0.0027,
+   "zcr": 0.0892,
+   "mod_prom": 54.9762,
+   "mod_f": 2.2007,
+   "n_act": 191
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-purr-098",
+  "features": {
+   "dur": 2.8501,
+   "peak": 0.8,
+   "rms": 0.1254,
+   "sil_ratio": 0.1422,
+   "flat": 0.001,
+   "zcr": 0.0825,
+   "mod_prom": 39.9261,
+   "mod_f": 2.0205,
+   "n_act": 199
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-frog-099",
+  "features": {
+   "dur": 3.1525,
+   "peak": 0.8,
+   "rms": 0.1332,
+   "sil_ratio": 0.1103,
+   "flat": 0.0001,
+   "zcr": 0.0393,
+   "mod_prom": 114.3915,
+   "mod_f": 3.9211,
+   "n_act": 234
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-kit-101",
+  "features": {
+   "dur": 3.0349,
+   "peak": 0.8,
+   "rms": 0.0866,
+   "sil_ratio": 0.1373,
+   "flat": 0.0012,
+   "zcr": 0.121,
+   "mod_prom": 167.2067,
+   "mod_f": 2.2059,
+   "n_act": 220
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-bird-103",
+  "features": {
+   "dur": 2.4253,
+   "peak": 0.8,
+   "rms": 0.1312,
+   "sil_ratio": 0.1045,
+   "flat": 0.0028,
+   "zcr": 0.1152,
+   "mod_prom": 15.7727,
+   "mod_f": 2.7985,
+   "n_act": 180
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-vix-102",
+  "features": {
+   "dur": 2.9733,
+   "peak": 0.8,
+   "rms": 0.1576,
+   "sil_ratio": 0.1155,
+   "flat": 0.002,
+   "zcr": 0.1139,
+   "mod_prom": 64.5953,
+   "mod_f": 4.4821,
+   "n_act": 222
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-hive-100",
+  "features": {
+   "dur": 3.0249,
+   "peak": 0.8,
+   "rms": 0.1553,
+   "sil_ratio": 0.1373,
+   "flat": 0.0041,
+   "zcr": 0.1347,
+   "mod_prom": 78.2766,
+   "mod_f": 2.2059,
+   "n_act": 220
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-pup-104",
+  "features": {
+   "dur": 3.6958,
+   "peak": 0.8,
+   "rms": 0.113,
+   "sil_ratio": 0.1321,
+   "flat": 0.0004,
+   "zcr": 0.0631,
+   "mod_prom": 94.1879,
+   "mod_f": 2.6533,
+   "n_act": 276
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-purr-106",
+  "features": {
+   "dur": 2.8844,
+   "peak": 0.8,
+   "rms": 0.1313,
+   "sil_ratio": 0.1029,
+   "flat": 0.001,
+   "zcr": 0.1139,
+   "mod_prom": 80.4432,
+   "mod_f": 5.4012,
+   "n_act": 218
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-beast-105",
+  "features": {
+   "dur": 3.0892,
+   "peak": 0.8,
+   "rms": 0.141,
+   "sil_ratio": 0.0969,
+   "flat": 0.0044,
+   "zcr": 0.0429,
+   "mod_prom": 154.8642,
+   "mod_f": 3.6337,
+   "n_act": 233
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "animal-frog-107",
+  "features": {
+   "dur": 2.9081,
+   "peak": 0.8,
+   "rms": 0.0933,
+   "sil_ratio": 0.1352,
+   "flat": 0.0001,
+   "zcr": 0.0435,
+   "mod_prom": 53.1173,
+   "mod_f": 5.7633,
+   "n_act": 211
+  },
+  "pass": true,
+  "reasons": []
+ }
+]

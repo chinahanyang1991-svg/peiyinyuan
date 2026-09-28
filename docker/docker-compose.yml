@@ -1,0 +1,130 @@
+version: "3.8"
+
+# =====================================================================
+# 部署前置说明 (PY-301, round-1b 回炉修正):
+#   1. 本文件内所有相对路径都相对于 compose 文件所在目录 docker/
+#      (Compose 规范: 相对路径以 compose 文件位置为基准, 与 cwd 无关)。
+#      即 ../data = <repo>/data；而 VoxCPM-main / freellmapi-main
+#      是与本仓库**同级**的兄弟目录 (<workspace>/VoxCPM-main 等)，
+#      从 docker/ 出发必须写 ../../ 才能触达 (旧注释误写 ../ 导致回炉)。
+#   2. 目录准备:
+#      - 必需: 同级目录 VoxCPM-main (TTS 模型, 只读挂载, ../../VoxCPM-main)
+#      - 可选: 同级目录 freellmapi-main (LLM sidecar, 仅 --profile llm 时用,
+#        build.context = ../../freellmapi-main)
+#   3. 启动: docker compose -f docker/docker-compose.yml up -d
+#      带 LLM:  ... up -d --profile llm
+#      带 MinerU: ... up -d --profile mineru
+# =====================================================================
+
+services:
+  # ========== 后端 API 服务 ==========
+  backend:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile.backend
+    container_name: peiyinyuan-backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ../data:/app/data
+      # 挂载 VoxCPM 模型目录（按需; PY-301: 仓库同级兄弟目录, 需 ../../）
+      - ../../VoxCPM-main:/app/VoxCPM-main:ro
+    environment:
+      # 指令#1（双模式）：程序默认档已改成 online（在线配音，不占 5GB 显存/内存）。
+      # docker 这套是"自带模型"的部署（上面挂了 VoxCPM 目录、下面 TTS_DEVICE=cpu），
+      # 所以显式钉在 local 档；想改在线档就删掉 TTS_TIER/TTS_ENGINE 这两行。
+      - TTS_TIER=local
+      - TTS_ENGINE=voxcpm
+      - TTS_DEVICE=cpu
+      - REDIS_URL=redis://redis:6379/0
+      - CELERY_BROKER_URL=redis://redis:6379/0
+      - DATA_LOCAL_ONLY=true
+      - FREELLMAPI_URL=http://freellmapi:3001
+    depends_on:
+      - redis
+      # PY-301: freellmapi 是可选 profile(llm), 不能作为硬依赖,
+      # 否则默认 up 会报 "depends on undefined service";
+      # 启用方式: docker compose --profile llm up -d
+    restart: unless-stopped
+
+  # ========== 前端服务 ==========
+  frontend:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile.frontend
+    container_name: peiyinyuan-frontend
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+    restart: unless-stopped
+
+  # ========== Redis 消息队列 ==========
+  redis:
+    image: redis:7-alpine
+    container_name: peiyinyuan-redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis-data:/data
+    restart: unless-stopped
+
+  # ========== FreeLLMAPI 智能分析 Sidecar (可选, --profile llm) ==========
+  freellmapi:
+    build:
+      # PY-301 回炉 (智能体3 裁定): compose 相对路径以本文件所在 docker/ 为基准;
+      # freellmapi-main 是与仓库同级的兄弟目录 <workspace>/freellmapi-main,
+      # 上一轮误改为 ../freellmapi-main (= <repo>/freellmapi-main, 不存在)。
+      # 实测: ../../freellmapi-main 存在且含根 Dockerfile。
+      context: ../../freellmapi-main
+      dockerfile: Dockerfile
+    container_name: peiyinyuan-llm
+    ports:
+      - "3001:3001"
+    env_file:
+      - path: .env.freellmapi
+        required: false  # 可选配置文件, 缺失不阻塞 compose config/up
+    environment:
+      - NODE_ENV=production
+      - PORT=3001
+    volumes:
+      - freellmapi-data:/app/server/data
+    restart: unless-stopped
+    profiles:
+      - llm  # 默认不启动，使用 --profile llm 启用
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://127.0.0.1:3001/api/ping').then((r) => { if (!r.ok) process.exit(1); }).catch(() => process.exit(1));"]
+      interval: 30s
+      timeout: 5s
+      start_period: 15s
+      retries: 3
+
+  # ========== MinerU PDF/Office 文档解析引擎 ==========
+  mineru:
+    build:
+      context: .
+      dockerfile: Dockerfile.mineru
+    container_name: peiyinyuan-mineru
+    ports:
+      - "8001:8001"
+    volumes:
+      - mineru-data:/app/MinerU/output
+    environment:
+      - MINERU_BACKEND=pipeline
+      - PYTHONUNBUFFERED=1
+    restart: unless-stopped
+    profiles:
+      - mineru  # 默认不启动，使用 --profile mineru 启用
+    # GPU 支持（取消注释以启用）
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices:
+    #         - driver: nvidia
+    #           count: 1
+    #           capabilities: [gpu]
+
+volumes:
+  redis-data:
+  freellmapi-data:
+  mineru-data:

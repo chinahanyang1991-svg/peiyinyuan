@@ -1,0 +1,74 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+.venv/
+venv/
+
+# Database
+*.db
+data/*.db
+
+# Audio output
+data/output/*
+# 孤儿清理的删除前清单（output_reconcile.prune_orphans 落盘）：每跑一次生成一枚、
+# 记的是用户 data 目录里的真实文件名，属运行时审计件，不入版本库
+data/output_prune_manifests/
+!data/output/.gitkeep
+
+# Node.js
+node_modules/
+frontend/dist/
+frontend/.vite/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+
+# Docker
+docker-compose.override.yml
+# Backup baseline hygiene
+data/books/
+data/models/
+data/voices/
+# 下载的开放语料参考音频（75 条 voice_profiles 指向它，只在盘上，不进版本库）；
+# manifest.jsonl 是这批文件的出处/许可台账，反过来必须进版本库。
+data/resources/*
+!data/resources/manifest.jsonl
+.pytest_cache/
+logs/
+*.wav
+*.mp3
+*.m4b
+
+# SQLite sidecars (never versioned; the .db itself is already ignored)
+*.db-wal
+*.db-shm
+data/cache/
+data/quarantine/
+agent-ops/
+tools/probe/
+# 变异/探针脚本的临时备份与日志，只在盘上
+qa/harness/tmp/
+# 音色库抓取/回灌的原始缓存层（下载件、range 分片、license txt、说话人转写 dump）：
+# 可再生、且逐轮漂移，只入判定摘要（manifest_*.json / *_manifest.json）与台账
+tools/voice_library/**/_tmp/
+# 上传中转落盘（book_service.SPOOL_DIRNAME = data/tmp/uploads，存的是用户原书）：
+# 与 data/books 同卷以便 os.replace 真移动；原书不入版本库
+data/tmp/

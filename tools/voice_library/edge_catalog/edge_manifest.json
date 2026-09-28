@@ -1,0 +1,4272 @@
+[
+ {
+  "short_name": "af-ZA-AdriNeural",
+  "locale": "af-ZA",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_af-ZA-AdriNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.984,
+   "peak": 0.4969,
+   "sample_rate": 24000,
+   "bytes": 191276,
+   "s": 1.27
+  }
+ },
+ {
+  "short_name": "af-ZA-WillemNeural",
+  "locale": "af-ZA",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_af-ZA-WillemNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.84,
+   "peak": 0.4654,
+   "sample_rate": 24000,
+   "bytes": 184364,
+   "s": 1.17
+  }
+ },
+ {
+  "short_name": "sq-AL-AnilaNeural",
+  "locale": "sq-AL",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_sq-AL-AnilaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.368,
+   "peak": 0.446,
+   "sample_rate": 24000,
+   "bytes": 209708,
+   "s": 1.48
+  }
+ },
+ {
+  "short_name": "sq-AL-IlirNeural",
+  "locale": "sq-AL",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_sq-AL-IlirNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.392,
+   "peak": 0.3123,
+   "sample_rate": 24000,
+   "bytes": 210860,
+   "s": 2.73
+  }
+ },
+ {
+  "short_name": "am-ET-AmehaNeural",
+  "locale": "am-ET",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_am-ET-AmehaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.32,
+   "peak": 0.3536,
+   "sample_rate": 24000,
+   "bytes": 207404,
+   "s": 2.5
+  }
+ },
+ {
+  "short_name": "am-ET-MekdesNeural",
+  "locale": "am-ET",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_am-ET-MekdesNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.032,
+   "peak": 0.3658,
+   "sample_rate": 24000,
+   "bytes": 193580,
+   "s": 1.95
+  }
+ },
+ {
+  "short_name": "ar-DZ-AminaNeural",
+  "locale": "ar-DZ",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ar-DZ-AminaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.56,
+   "peak": 0.5529,
+   "sample_rate": 24000,
+   "bytes": 218924,
+   "s": 1.59
+  }
+ },
+ {
+  "short_name": "ar-DZ-IsmaelNeural",
+  "locale": "ar-DZ",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ar-DZ-IsmaelNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.368,
+   "peak": 0.5261,
+   "sample_rate": 24000,
+   "bytes": 209708,
+   "s": 1.79
+  }
+ },
+ {
+  "short_name": "ar-BH-AliNeural",
+  "locale": "ar-BH",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ar-BH-AliNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.816,
+   "peak": 0.6106,
+   "sample_rate": 24000,
+   "bytes": 183212,
+   "s": 2.18
+  }
+ },
+ {
+  "short_name": "ar-BH-LailaNeural",
+  "locale": "ar-BH",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ar-BH-LailaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.464,
+   "peak": 0.43,
+   "sample_rate": 24000,
+   "bytes": 214316,
+   "s": 1.65
+  }
+ },
+ {
+  "short_name": "ar-EG-SalmaNeural",
+  "locale": "ar-EG",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ar-EG-SalmaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.68,
+   "peak": 0.4218,
+   "sample_rate": 24000,
+   "bytes": 224684,
+   "s": 1.54
+  }
+ },
+ {
+  "short_name": "ar-EG-ShakirNeural",
+  "locale": "ar-EG",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ar-EG-ShakirNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.864,
+   "peak": 0.5419,
+   "sample_rate": 24000,
+   "bytes": 185516,
+   "s": 2.35
+  }
+ },
+ {
+  "short_name": "ar-IQ-BasselNeural",
+  "locale": "ar-IQ",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ar-IQ-BasselNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.08,
+   "peak": 0.5926,
+   "sample_rate": 24000,
+   "bytes": 195884,
+   "s": 1.81
+  }
+ },
+ {
+  "short_name": "ar-IQ-RanaNeural",
+  "locale": "ar-IQ",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ar-IQ-RanaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.92,
+   "peak": 0.4194,
+   "sample_rate": 24000,
+   "bytes": 236204,
+   "s": 1.57
+  }
+ },
+ {
+  "short_name": "ar-JO-SanaNeural",
+  "locale": "ar-JO",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ar-JO-SanaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.92,
+   "peak": 0.4119,
+   "sample_rate": 24000,
+   "bytes": 236204,
+   "s": 1.7
+  }
+ },
+ {
+  "short_name": "ar-JO-TaimNeural",
+  "locale": "ar-JO",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ar-JO-TaimNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.104,
+   "peak": 0.5538,
+   "sample_rate": 24000,
+   "bytes": 197036,
+   "s": 2.05
+  }
+ },
+ {
+  "short_name": "ar-KW-FahedNeural",
+  "locale": "ar-KW",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ar-KW-FahedNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.96,
+   "peak": 0.5291,
+   "sample_rate": 24000,
+   "bytes": 190124,
+   "s": 2.14
+  }
+ },
+ {
+  "short_name": "ar-KW-NouraNeural",
+  "locale": "ar-KW",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ar-KW-NouraNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.128,
+   "peak": 0.5315,
+   "sample_rate": 24000,
+   "bytes": 198188,
+   "s": 1.85
+  }
+ },
+ {
+  "short_name": "ar-LB-LaylaNeural",
+  "locale": "ar-LB",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ar-LB-LaylaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.56,
+   "peak": 0.5377,
+   "sample_rate": 24000,
+   "bytes": 218924,
+   "s": 2.52
+  }
+ },
+ {
+  "short_name": "ar-LB-RamiNeural",
+  "locale": "ar-LB",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ar-LB-RamiNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.368,
+   "peak": 0.5223,
+   "sample_rate": 24000,
+   "bytes": 209708,
+   "s": 2.09
+  }
+ },
+ {
+  "short_name": "ar-LY-ImanNeural",
+  "locale": "ar-LY",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ar-LY-ImanNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.464,
+   "peak": 0.4151,
+   "sample_rate": 24000,
+   "bytes": 214316,
+   "s": 5.11
+  }
+ },
+ {
+  "short_name": "ar-MA-JamalNeural",
+  "locale": "ar-MA",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ar-MA-JamalNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.96,
+   "peak": 0.5308,
+   "sample_rate": 24000,
+   "bytes": 190124,
+   "s": 4.91
+  }
+ },
+ {
+  "short_name": "ar-MA-MounaNeural",
+  "locale": "ar-MA",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ar-MA-MounaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.128,
+   "peak": 0.5462,
+   "sample_rate": 24000,
+   "bytes": 198188,
+   "s": 3.78
+  }
+ },
+ {
+  "short_name": "ar-OM-AbdullahNeural",
+  "locale": "ar-OM",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ar-OM-AbdullahNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.864,
+   "peak": 0.4955,
+   "sample_rate": 24000,
+   "bytes": 185516,
+   "s": 1.87
+  }
+ },
+ {
+  "short_name": "ar-OM-AyshaNeural",
+  "locale": "ar-OM",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ar-OM-AyshaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.864,
+   "peak": 0.6221,
+   "sample_rate": 24000,
+   "bytes": 185516,
+   "s": 1.8
+  }
+ },
+ {
+  "short_name": "ar-QA-AmalNeural",
+  "locale": "ar-QA",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ar-QA-AmalNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.248,
+   "peak": 0.4221,
+   "sample_rate": 24000,
+   "bytes": 203948,
+   "s": 1.67
+  }
+ },
+ {
+  "short_name": "ar-QA-MoazNeural",
+  "locale": "ar-QA",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ar-QA-MoazNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.056,
+   "peak": 0.6498,
+   "sample_rate": 24000,
+   "bytes": 194732,
+   "s": 2.07
+  }
+ },
+ {
+  "short_name": "ar-SA-HamedNeural",
+  "locale": "ar-SA",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ar-SA-HamedNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.152,
+   "peak": 0.5157,
+   "sample_rate": 24000,
+   "bytes": 199340,
+   "s": 1.84
+  }
+ },
+ {
+  "short_name": "ar-SA-ZariyahNeural",
+  "locale": "ar-SA",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ar-SA-ZariyahNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.344,
+   "peak": 0.5397,
+   "sample_rate": 24000,
+   "bytes": 208556,
+   "s": 1.9
+  }
+ },
+ {
+  "short_name": "ar-SY-AmanyNeural",
+  "locale": "ar-SY",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ar-SY-AmanyNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.84,
+   "peak": 0.6087,
+   "sample_rate": 24000,
+   "bytes": 184364,
+   "s": 1.64
+  }
+ },
+ {
+  "short_name": "ar-SY-LaithNeural",
+  "locale": "ar-SY",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ar-SY-LaithNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.744,
+   "peak": 0.5772,
+   "sample_rate": 24000,
+   "bytes": 179756,
+   "s": 3.4
+  }
+ },
+ {
+  "short_name": "ar-TN-HediNeural",
+  "locale": "ar-TN",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ar-TN-HediNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.696,
+   "peak": 0.4736,
+   "sample_rate": 24000,
+   "bytes": 177452,
+   "s": 1.61
+  }
+ },
+ {
+  "short_name": "ar-TN-ReemNeural",
+  "locale": "ar-TN",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ar-TN-ReemNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.792,
+   "peak": 0.6705,
+   "sample_rate": 24000,
+   "bytes": 182060,
+   "s": 1.77
+  }
+ },
+ {
+  "short_name": "ar-AE-FatimaNeural",
+  "locale": "ar-AE",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ar-AE-FatimaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.56,
+   "peak": 0.5463,
+   "sample_rate": 24000,
+   "bytes": 218924,
+   "s": 1.87
+  }
+ },
+ {
+  "short_name": "ar-AE-HamdanNeural",
+  "locale": "ar-AE",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ar-AE-HamdanNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.368,
+   "peak": 0.5268,
+   "sample_rate": 24000,
+   "bytes": 209708,
+   "s": 2.21
+  }
+ },
+ {
+  "short_name": "ar-YE-MaryamNeural",
+  "locale": "ar-YE",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ar-YE-MaryamNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.464,
+   "peak": 0.4228,
+   "sample_rate": 24000,
+   "bytes": 214316,
+   "s": 1.95
+  }
+ },
+ {
+  "short_name": "ar-YE-SalehNeural",
+  "locale": "ar-YE",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ar-YE-SalehNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.08,
+   "peak": 0.5776,
+   "sample_rate": 24000,
+   "bytes": 195884,
+   "s": 1.99
+  }
+ },
+ {
+  "short_name": "az-AZ-BabekNeural",
+  "locale": "az-AZ",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_az-AZ-BabekNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.368,
+   "peak": 0.3217,
+   "sample_rate": 24000,
+   "bytes": 209708,
+   "s": 1.81
+  }
+ },
+ {
+  "short_name": "az-AZ-BanuNeural",
+  "locale": "az-AZ",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_az-AZ-BanuNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.464,
+   "peak": 0.4206,
+   "sample_rate": 24000,
+   "bytes": 214316,
+   "s": 1.77
+  }
+ },
+ {
+  "short_name": "bn-BD-NabanitaNeural",
+  "locale": "bn-BD",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_bn-BD-NabanitaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.336,
+   "peak": 0.5308,
+   "sample_rate": 24000,
+   "bytes": 160172,
+   "s": 2.12
+  }
+ },
+ {
+  "short_name": "bn-BD-PradeepNeural",
+  "locale": "bn-BD",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_bn-BD-PradeepNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.384,
+   "peak": 0.5545,
+   "sample_rate": 24000,
+   "bytes": 162476,
+   "s": 1.69
+  }
+ },
+ {
+  "short_name": "bn-IN-BashkarNeural",
+  "locale": "bn-IN",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_bn-IN-BashkarNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.72,
+   "peak": 0.6306,
+   "sample_rate": 24000,
+   "bytes": 178604,
+   "s": 1.73
+  }
+ },
+ {
+  "short_name": "bn-IN-TanishaaNeural",
+  "locale": "bn-IN",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_bn-IN-TanishaaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.176,
+   "peak": 0.6002,
+   "sample_rate": 24000,
+   "bytes": 200492,
+   "s": 1.6
+  }
+ },
+ {
+  "short_name": "bs-BA-VesnaNeural",
+  "locale": "bs-BA",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_bs-BA-VesnaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.104,
+   "peak": 0.3878,
+   "sample_rate": 24000,
+   "bytes": 197036,
+   "s": 1.92
+  }
+ },
+ {
+  "short_name": "bs-BA-GoranNeural",
+  "locale": "bs-BA",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_bs-BA-GoranNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.104,
+   "peak": 0.4359,
+   "sample_rate": 24000,
+   "bytes": 197036,
+   "s": 1.93
+  }
+ },
+ {
+  "short_name": "bg-BG-BorislavNeural",
+  "locale": "bg-BG",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_bg-BG-BorislavNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.128,
+   "peak": 0.5415,
+   "sample_rate": 24000,
+   "bytes": 198188,
+   "s": 1.57
+  }
+ },
+ {
+  "short_name": "bg-BG-KalinaNeural",
+  "locale": "bg-BG",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_bg-BG-KalinaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.176,
+   "peak": 0.5744,
+   "sample_rate": 24000,
+   "bytes": 200492,
+   "s": 2.94
+  }
+ },
+ {
+  "short_name": "my-MM-NilarNeural",
+  "locale": "my-MM",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_my-MM-NilarNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.576,
+   "peak": 0.6887,
+   "sample_rate": 24000,
+   "bytes": 171692,
+   "s": 1.52
+  }
+ },
+ {
+  "short_name": "my-MM-ThihaNeural",
+  "locale": "my-MM",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_my-MM-ThihaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.336,
+   "peak": 0.5988,
+   "sample_rate": 24000,
+   "bytes": 160172,
+   "s": 1.68
+  }
+ },
+ {
+  "short_name": "ca-ES-EnricNeural",
+  "locale": "ca-ES",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ca-ES-EnricNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.32,
+   "peak": 0.4872,
+   "sample_rate": 24000,
+   "bytes": 207404,
+   "s": 9.73
+  }
+ },
+ {
+  "short_name": "ca-ES-JoanaNeural",
+  "locale": "ca-ES",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ca-ES-JoanaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.92,
+   "peak": 0.4832,
+   "sample_rate": 24000,
+   "bytes": 236204,
+   "s": 3.6
+  }
+ },
+ {
+  "short_name": "zh-HK-HiuGaaiNeural",
+  "locale": "zh-HK",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_zh-HK-HiuGaaiNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 6.0,
+   "peak": 0.6412,
+   "sample_rate": 24000,
+   "bytes": 288044,
+   "s": 2.27
+  }
+ },
+ {
+  "short_name": "zh-HK-HiuMaanNeural",
+  "locale": "zh-HK",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_zh-HK-HiuMaanNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.848,
+   "peak": 0.5532,
+   "sample_rate": 24000,
+   "bytes": 232748,
+   "s": 3.94
+  }
+ },
+ {
+  "short_name": "hr-HR-GabrijelaNeural",
+  "locale": "hr-HR",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_hr-HR-GabrijelaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.08,
+   "peak": 0.5926,
+   "sample_rate": 24000,
+   "bytes": 195884,
+   "s": 2.43
+  }
+ },
+ {
+  "short_name": "hr-HR-SreckoNeural",
+  "locale": "hr-HR",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_hr-HR-SreckoNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.864,
+   "peak": 0.5685,
+   "sample_rate": 24000,
+   "bytes": 185516,
+   "s": 2.56
+  }
+ },
+ {
+  "short_name": "cs-CZ-AntoninNeural",
+  "locale": "cs-CZ",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_cs-CZ-AntoninNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.576,
+   "peak": 0.6156,
+   "sample_rate": 24000,
+   "bytes": 171692,
+   "s": 2.03
+  }
+ },
+ {
+  "short_name": "cs-CZ-VlastaNeural",
+  "locale": "cs-CZ",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_cs-CZ-VlastaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.056,
+   "peak": 0.6222,
+   "sample_rate": 24000,
+   "bytes": 194732,
+   "s": 2.07
+  }
+ },
+ {
+  "short_name": "da-DK-ChristelNeural",
+  "locale": "da-DK",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_da-DK-ChristelNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.6,
+   "peak": 0.5389,
+   "sample_rate": 24000,
+   "bytes": 172844,
+   "s": 2.23
+  }
+ },
+ {
+  "short_name": "da-DK-JeppeNeural",
+  "locale": "da-DK",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_da-DK-JeppeNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.056,
+   "peak": 0.6174,
+   "sample_rate": 24000,
+   "bytes": 194732,
+   "s": 2.15
+  }
+ },
+ {
+  "short_name": "nl-BE-ArnaudNeural",
+  "locale": "nl-BE",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_nl-BE-ArnaudNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.816,
+   "peak": 0.5843,
+   "sample_rate": 24000,
+   "bytes": 183212,
+   "s": 1.73
+  }
+ },
+ {
+  "short_name": "nl-BE-DenaNeural",
+  "locale": "nl-BE",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_nl-BE-DenaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.768,
+   "peak": 0.6876,
+   "sample_rate": 24000,
+   "bytes": 180908,
+   "s": 1.95
+  }
+ },
+ {
+  "short_name": "nl-NL-ColetteNeural",
+  "locale": "nl-NL",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_nl-NL-ColetteNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.248,
+   "peak": 0.6228,
+   "sample_rate": 24000,
+   "bytes": 203948,
+   "s": 2.02
+  }
+ },
+ {
+  "short_name": "nl-NL-FennaNeural",
+  "locale": "nl-NL",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_nl-NL-FennaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.768,
+   "peak": 0.5507,
+   "sample_rate": 24000,
+   "bytes": 180908,
+   "s": 1.83
+  }
+ },
+ {
+  "short_name": "nl-NL-MaartenNeural",
+  "locale": "nl-NL",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_nl-NL-MaartenNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.912,
+   "peak": 0.6787,
+   "sample_rate": 24000,
+   "bytes": 187820,
+   "s": 2.55
+  }
+ },
+ {
+  "short_name": "en-AU-WilliamMultilingualNeural",
+  "locale": "en-AU",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-AU-WilliamMultilingualNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.024,
+   "peak": 0.5522,
+   "sample_rate": 24000,
+   "bytes": 145196,
+   "s": 2.57
+  }
+ },
+ {
+  "short_name": "en-AU-NatashaNeural",
+  "locale": "en-AU",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-AU-NatashaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.648,
+   "peak": 0.4884,
+   "sample_rate": 24000,
+   "bytes": 175148,
+   "s": 1.69
+  }
+ },
+ {
+  "short_name": "en-CA-ClaraNeural",
+  "locale": "en-CA",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-CA-ClaraNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.744,
+   "peak": 0.4869,
+   "sample_rate": 24000,
+   "bytes": 179756,
+   "s": 1.69
+  }
+ },
+ {
+  "short_name": "en-CA-LiamNeural",
+  "locale": "en-CA",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-CA-LiamNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.432,
+   "peak": 0.4967,
+   "sample_rate": 24000,
+   "bytes": 164780,
+   "s": 3.12
+  }
+ },
+ {
+  "short_name": "en-HK-YanNeural",
+  "locale": "en-HK",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-HK-YanNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.768,
+   "peak": 0.8456,
+   "sample_rate": 24000,
+   "bytes": 180908,
+   "s": 3.11
+  }
+ },
+ {
+  "short_name": "en-HK-SamNeural",
+  "locale": "en-HK",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-HK-SamNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.08,
+   "peak": 0.6701,
+   "sample_rate": 24000,
+   "bytes": 195884,
+   "s": 2.88
+  }
+ },
+ {
+  "short_name": "en-IN-NeerjaExpressiveNeural",
+  "locale": "en-IN",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-IN-NeerjaExpressiveNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.864,
+   "peak": 0.5771,
+   "sample_rate": 24000,
+   "bytes": 185516,
+   "s": 2.68
+  }
+ },
+ {
+  "short_name": "en-IN-NeerjaNeural",
+  "locale": "en-IN",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-IN-NeerjaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.936,
+   "peak": 0.5472,
+   "sample_rate": 24000,
+   "bytes": 188972,
+   "s": 3.27
+  }
+ },
+ {
+  "short_name": "en-IN-PrabhatNeural",
+  "locale": "en-IN",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-IN-PrabhatNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.056,
+   "peak": 0.7566,
+   "sample_rate": 24000,
+   "bytes": 194732,
+   "s": 2.03
+  }
+ },
+ {
+  "short_name": "en-IE-ConnorNeural",
+  "locale": "en-IE",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-IE-ConnorNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.48,
+   "peak": 0.6326,
+   "sample_rate": 24000,
+   "bytes": 167084,
+   "s": 1.77
+  }
+ },
+ {
+  "short_name": "en-IE-EmilyNeural",
+  "locale": "en-IE",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-IE-EmilyNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.936,
+   "peak": 0.4307,
+   "sample_rate": 24000,
+   "bytes": 188972,
+   "s": 2.44
+  }
+ },
+ {
+  "short_name": "en-KE-AsiliaNeural",
+  "locale": "en-KE",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-KE-AsiliaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.72,
+   "peak": 0.4897,
+   "sample_rate": 24000,
+   "bytes": 178604,
+   "s": 2.38
+  }
+ },
+ {
+  "short_name": "en-KE-ChilembaNeural",
+  "locale": "en-KE",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-KE-ChilembaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.456,
+   "peak": 0.5057,
+   "sample_rate": 24000,
+   "bytes": 165932,
+   "s": 1.66
+  }
+ },
+ {
+  "short_name": "en-NZ-MitchellNeural",
+  "locale": "en-NZ",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-NZ-MitchellNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.72,
+   "peak": 0.5083,
+   "sample_rate": 24000,
+   "bytes": 178604,
+   "s": 2.0
+  }
+ },
+ {
+  "short_name": "en-NZ-MollyNeural",
+  "locale": "en-NZ",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-NZ-MollyNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.84,
+   "peak": 0.4909,
+   "sample_rate": 24000,
+   "bytes": 184364,
+   "s": 1.71
+  }
+ },
+ {
+  "short_name": "en-NG-AbeoNeural",
+  "locale": "en-NG",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-NG-AbeoNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.408,
+   "peak": 0.557,
+   "sample_rate": 24000,
+   "bytes": 163628,
+   "s": 1.81
+  }
+ },
+ {
+  "short_name": "en-NG-EzinneNeural",
+  "locale": "en-NG",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-NG-EzinneNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.624,
+   "peak": 0.5008,
+   "sample_rate": 24000,
+   "bytes": 173996,
+   "s": 2.02
+  }
+ },
+ {
+  "short_name": "en-PH-JamesNeural",
+  "locale": "en-PH",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-PH-JamesNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.48,
+   "peak": 0.5056,
+   "sample_rate": 24000,
+   "bytes": 167084,
+   "s": 1.3
+  }
+ },
+ {
+  "short_name": "en-PH-RosaNeural",
+  "locale": "en-PH",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-PH-RosaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.864,
+   "peak": 0.5812,
+   "sample_rate": 24000,
+   "bytes": 185516,
+   "s": 1.66
+  }
+ },
+ {
+  "short_name": "en-US-AvaNeural",
+  "locale": "en-US",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-US-AvaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.432,
+   "peak": 0.5329,
+   "sample_rate": 24000,
+   "bytes": 164780,
+   "s": 1.53
+  }
+ },
+ {
+  "short_name": "en-US-AndrewNeural",
+  "locale": "en-US",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-US-AndrewNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 2.976,
+   "peak": 0.6085,
+   "sample_rate": 24000,
+   "bytes": 142892,
+   "s": 2.08
+  }
+ },
+ {
+  "short_name": "en-US-EmmaNeural",
+  "locale": "en-US",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-US-EmmaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.24,
+   "peak": 0.6493,
+   "sample_rate": 24000,
+   "bytes": 155564,
+   "s": 1.62
+  }
+ },
+ {
+  "short_name": "en-US-BrianNeural",
+  "locale": "en-US",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-US-BrianNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.336,
+   "peak": 0.5533,
+   "sample_rate": 24000,
+   "bytes": 160172,
+   "s": 2.2
+  }
+ },
+ {
+  "short_name": "en-SG-LunaNeural",
+  "locale": "en-SG",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-SG-LunaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.888,
+   "peak": 0.4895,
+   "sample_rate": 24000,
+   "bytes": 186668,
+   "s": 1.73
+  }
+ },
+ {
+  "short_name": "en-SG-WayneNeural",
+  "locale": "en-SG",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-SG-WayneNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.888,
+   "peak": 0.5304,
+   "sample_rate": 24000,
+   "bytes": 186668,
+   "s": 1.94
+  }
+ },
+ {
+  "short_name": "en-ZA-LeahNeural",
+  "locale": "en-ZA",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-ZA-LeahNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.792,
+   "peak": 0.5504,
+   "sample_rate": 24000,
+   "bytes": 182060,
+   "s": 2.08
+  }
+ },
+ {
+  "short_name": "en-ZA-LukeNeural",
+  "locale": "en-ZA",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-ZA-LukeNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.216,
+   "peak": 0.4164,
+   "sample_rate": 24000,
+   "bytes": 154412,
+   "s": 1.78
+  }
+ },
+ {
+  "short_name": "en-TZ-ElimuNeural",
+  "locale": "en-TZ",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-TZ-ElimuNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.408,
+   "peak": 0.5121,
+   "sample_rate": 24000,
+   "bytes": 163628,
+   "s": 2.59
+  }
+ },
+ {
+  "short_name": "en-TZ-ImaniNeural",
+  "locale": "en-TZ",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-TZ-ImaniNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.624,
+   "peak": 0.5233,
+   "sample_rate": 24000,
+   "bytes": 173996,
+   "s": 3.26
+  }
+ },
+ {
+  "short_name": "en-GB-LibbyNeural",
+  "locale": "en-GB",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-GB-LibbyNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.768,
+   "peak": 0.5854,
+   "sample_rate": 24000,
+   "bytes": 180908,
+   "s": 2.47
+  }
+ },
+ {
+  "short_name": "en-GB-MaisieNeural",
+  "locale": "en-GB",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-GB-MaisieNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.744,
+   "peak": 0.5322,
+   "sample_rate": 24000,
+   "bytes": 179756,
+   "s": 2.5
+  }
+ },
+ {
+  "short_name": "en-GB-RyanNeural",
+  "locale": "en-GB",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-GB-RyanNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.456,
+   "peak": 0.6497,
+   "sample_rate": 24000,
+   "bytes": 165932,
+   "s": 2.91
+  }
+ },
+ {
+  "short_name": "en-GB-SoniaNeural",
+  "locale": "en-GB",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-GB-SoniaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.336,
+   "peak": 0.58,
+   "sample_rate": 24000,
+   "bytes": 160172,
+   "s": 2.1
+  }
+ },
+ {
+  "short_name": "en-GB-ThomasNeural",
+  "locale": "en-GB",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-GB-ThomasNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.408,
+   "peak": 0.5896,
+   "sample_rate": 24000,
+   "bytes": 163628,
+   "s": 1.8
+  }
+ },
+ {
+  "short_name": "en-US-AnaNeural",
+  "locale": "en-US",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-US-AnaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.176,
+   "peak": 0.609,
+   "sample_rate": 24000,
+   "bytes": 200492,
+   "s": 2.19
+  }
+ },
+ {
+  "short_name": "en-US-AndrewMultilingualNeural",
+  "locale": "en-US",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-US-AndrewMultilingualNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.048,
+   "peak": 0.4608,
+   "sample_rate": 24000,
+   "bytes": 146348,
+   "s": 6.48
+  }
+ },
+ {
+  "short_name": "en-US-AriaNeural",
+  "locale": "en-US",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-US-AriaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.696,
+   "peak": 0.5735,
+   "sample_rate": 24000,
+   "bytes": 177452,
+   "s": 5.09
+  }
+ },
+ {
+  "short_name": "en-US-AvaMultilingualNeural",
+  "locale": "en-US",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-US-AvaMultilingualNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.288,
+   "peak": 0.6424,
+   "sample_rate": 24000,
+   "bytes": 157868,
+   "s": 2.87
+  }
+ },
+ {
+  "short_name": "en-US-BrianMultilingualNeural",
+  "locale": "en-US",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-US-BrianMultilingualNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.336,
+   "peak": 0.5533,
+   "sample_rate": 24000,
+   "bytes": 160172,
+   "s": 2.35
+  }
+ },
+ {
+  "short_name": "en-US-ChristopherNeural",
+  "locale": "en-US",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-US-ChristopherNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.72,
+   "peak": 0.6723,
+   "sample_rate": 24000,
+   "bytes": 178604,
+   "s": 2.0
+  }
+ },
+ {
+  "short_name": "en-US-EmmaMultilingualNeural",
+  "locale": "en-US",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-US-EmmaMultilingualNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.168,
+   "peak": 0.5933,
+   "sample_rate": 24000,
+   "bytes": 152108,
+   "s": 2.81
+  }
+ },
+ {
+  "short_name": "en-US-EricNeural",
+  "locale": "en-US",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-US-EricNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.792,
+   "peak": 0.5281,
+   "sample_rate": 24000,
+   "bytes": 182060,
+   "s": 3.21
+  }
+ },
+ {
+  "short_name": "en-US-GuyNeural",
+  "locale": "en-US",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-US-GuyNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.672,
+   "peak": 0.6821,
+   "sample_rate": 24000,
+   "bytes": 176300,
+   "s": 1.65
+  }
+ },
+ {
+  "short_name": "en-US-JennyNeural",
+  "locale": "en-US",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-US-JennyNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.576,
+   "peak": 0.8375,
+   "sample_rate": 24000,
+   "bytes": 171692,
+   "s": 1.49
+  }
+ },
+ {
+  "short_name": "en-US-MichelleNeural",
+  "locale": "en-US",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-US-MichelleNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.6,
+   "peak": 0.6148,
+   "sample_rate": 24000,
+   "bytes": 172844,
+   "s": 1.68
+  }
+ },
+ {
+  "short_name": "en-US-RogerNeural",
+  "locale": "en-US",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-US-RogerNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.816,
+   "peak": 0.5048,
+   "sample_rate": 24000,
+   "bytes": 183212,
+   "s": 1.94
+  }
+ },
+ {
+  "short_name": "en-US-SteffanNeural",
+  "locale": "en-US",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_en-US-SteffanNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.576,
+   "peak": 0.6487,
+   "sample_rate": 24000,
+   "bytes": 171692,
+   "s": 1.94
+  }
+ },
+ {
+  "short_name": "et-EE-AnuNeural",
+  "locale": "et-EE",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_et-EE-AnuNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.984,
+   "peak": 0.3783,
+   "sample_rate": 24000,
+   "bytes": 191276,
+   "s": 1.77
+  }
+ },
+ {
+  "short_name": "et-EE-KertNeural",
+  "locale": "et-EE",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_et-EE-KertNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.912,
+   "peak": 0.4125,
+   "sample_rate": 24000,
+   "bytes": 187820,
+   "s": 1.78
+  }
+ },
+ {
+  "short_name": "fil-PH-AngeloNeural",
+  "locale": "fil-PH",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_fil-PH-AngeloNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.528,
+   "peak": 0.5393,
+   "sample_rate": 24000,
+   "bytes": 169388,
+   "s": 1.86
+  }
+ },
+ {
+  "short_name": "fil-PH-BlessicaNeural",
+  "locale": "fil-PH",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_fil-PH-BlessicaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.768,
+   "peak": 0.5564,
+   "sample_rate": 24000,
+   "bytes": 180908,
+   "s": 2.04
+  }
+ },
+ {
+  "short_name": "fi-FI-HarriNeural",
+  "locale": "fi-FI",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_fi-FI-HarriNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.464,
+   "peak": 0.4801,
+   "sample_rate": 24000,
+   "bytes": 214316,
+   "s": 1.82
+  }
+ },
+ {
+  "short_name": "fi-FI-NooraNeural",
+  "locale": "fi-FI",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_fi-FI-NooraNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.2,
+   "peak": 0.5996,
+   "sample_rate": 24000,
+   "bytes": 201644,
+   "s": 1.89
+  }
+ },
+ {
+  "short_name": "fr-BE-CharlineNeural",
+  "locale": "fr-BE",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_fr-BE-CharlineNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.816,
+   "peak": 0.4938,
+   "sample_rate": 24000,
+   "bytes": 183212,
+   "s": 2.0
+  }
+ },
+ {
+  "short_name": "fr-BE-GerardNeural",
+  "locale": "fr-BE",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_fr-BE-GerardNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.84,
+   "peak": 0.5916,
+   "sample_rate": 24000,
+   "bytes": 184364,
+   "s": 1.8
+  }
+ },
+ {
+  "short_name": "fr-CA-ThierryNeural",
+  "locale": "fr-CA",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_fr-CA-ThierryNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.768,
+   "peak": 0.4626,
+   "sample_rate": 24000,
+   "bytes": 180908,
+   "s": 2.23
+  }
+ },
+ {
+  "short_name": "fr-CA-AntoineNeural",
+  "locale": "fr-CA",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_fr-CA-AntoineNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.912,
+   "peak": 0.6216,
+   "sample_rate": 24000,
+   "bytes": 187820,
+   "s": 2.31
+  }
+ },
+ {
+  "short_name": "fr-CA-JeanNeural",
+  "locale": "fr-CA",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_fr-CA-JeanNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.512,
+   "peak": 0.5347,
+   "sample_rate": 24000,
+   "bytes": 216620,
+   "s": 1.79
+  }
+ },
+ {
+  "short_name": "fr-CA-SylvieNeural",
+  "locale": "fr-CA",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_fr-CA-SylvieNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.72,
+   "peak": 0.4324,
+   "sample_rate": 24000,
+   "bytes": 178604,
+   "s": 1.63
+  }
+ },
+ {
+  "short_name": "fr-FR-VivienneMultilingualNeural",
+  "locale": "fr-FR",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_fr-FR-VivienneMultilingualNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 2.712,
+   "peak": 0.5799,
+   "sample_rate": 24000,
+   "bytes": 130220,
+   "s": 1.79
+  }
+ },
+ {
+  "short_name": "fr-FR-RemyMultilingualNeural",
+  "locale": "fr-FR",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_fr-FR-RemyMultilingualNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.12,
+   "peak": 0.6313,
+   "sample_rate": 24000,
+   "bytes": 149804,
+   "s": 2.87
+  }
+ },
+ {
+  "short_name": "fr-FR-DeniseNeural",
+  "locale": "fr-FR",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_fr-FR-DeniseNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.84,
+   "peak": 0.4941,
+   "sample_rate": 24000,
+   "bytes": 184364,
+   "s": 1.85
+  }
+ },
+ {
+  "short_name": "fr-FR-EloiseNeural",
+  "locale": "fr-FR",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_fr-FR-EloiseNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.08,
+   "peak": 0.4075,
+   "sample_rate": 24000,
+   "bytes": 195884,
+   "s": 1.75
+  }
+ },
+ {
+  "short_name": "fr-FR-HenriNeural",
+  "locale": "fr-FR",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_fr-FR-HenriNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.552,
+   "peak": 0.4614,
+   "sample_rate": 24000,
+   "bytes": 170540,
+   "s": 1.93
+  }
+ },
+ {
+  "short_name": "fr-CH-ArianeNeural",
+  "locale": "fr-CH",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_fr-CH-ArianeNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.816,
+   "peak": 0.4928,
+   "sample_rate": 24000,
+   "bytes": 183212,
+   "s": 2.16
+  }
+ },
+ {
+  "short_name": "fr-CH-FabriceNeural",
+  "locale": "fr-CH",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_fr-CH-FabriceNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.576,
+   "peak": 0.6018,
+   "sample_rate": 24000,
+   "bytes": 171692,
+   "s": 2.04
+  }
+ },
+ {
+  "short_name": "gl-ES-RoiNeural",
+  "locale": "gl-ES",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_gl-ES-RoiNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.456,
+   "peak": 0.4524,
+   "sample_rate": 24000,
+   "bytes": 165932,
+   "s": 1.62
+  }
+ },
+ {
+  "short_name": "gl-ES-SabelaNeural",
+  "locale": "gl-ES",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_gl-ES-SabelaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.528,
+   "peak": 0.425,
+   "sample_rate": 24000,
+   "bytes": 169388,
+   "s": 2.42
+  }
+ },
+ {
+  "short_name": "ka-GE-EkaNeural",
+  "locale": "ka-GE",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ka-GE-EkaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.912,
+   "peak": 0.586,
+   "sample_rate": 24000,
+   "bytes": 187820,
+   "s": 1.84
+  }
+ },
+ {
+  "short_name": "ka-GE-GiorgiNeural",
+  "locale": "ka-GE",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ka-GE-GiorgiNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.912,
+   "peak": 0.4248,
+   "sample_rate": 24000,
+   "bytes": 187820,
+   "s": 1.94
+  }
+ },
+ {
+  "short_name": "de-AT-IngridNeural",
+  "locale": "de-AT",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_de-AT-IngridNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.96,
+   "peak": 0.558,
+   "sample_rate": 24000,
+   "bytes": 190124,
+   "s": 2.39
+  }
+ },
+ {
+  "short_name": "de-AT-JonasNeural",
+  "locale": "de-AT",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_de-AT-JonasNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.888,
+   "peak": 0.6429,
+   "sample_rate": 24000,
+   "bytes": 186668,
+   "s": 1.54
+  }
+ },
+ {
+  "short_name": "de-DE-SeraphinaMultilingualNeural",
+  "locale": "de-DE",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_de-DE-SeraphinaMultilingualNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.384,
+   "peak": 0.5444,
+   "sample_rate": 24000,
+   "bytes": 162476,
+   "s": 1.86
+  }
+ },
+ {
+  "short_name": "de-DE-FlorianMultilingualNeural",
+  "locale": "de-DE",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_de-DE-FlorianMultilingualNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 2.976,
+   "peak": 0.6421,
+   "sample_rate": 24000,
+   "bytes": 142892,
+   "s": 2.59
+  }
+ },
+ {
+  "short_name": "de-DE-AmalaNeural",
+  "locale": "de-DE",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_de-DE-AmalaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.44,
+   "peak": 0.5201,
+   "sample_rate": 24000,
+   "bytes": 213164,
+   "s": 1.71
+  }
+ },
+ {
+  "short_name": "de-DE-ConradNeural",
+  "locale": "de-DE",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_de-DE-ConradNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.6,
+   "peak": 0.6346,
+   "sample_rate": 24000,
+   "bytes": 172844,
+   "s": 1.65
+  }
+ },
+ {
+  "short_name": "de-DE-KatjaNeural",
+  "locale": "de-DE",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_de-DE-KatjaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.72,
+   "peak": 0.4777,
+   "sample_rate": 24000,
+   "bytes": 178604,
+   "s": 1.73
+  }
+ },
+ {
+  "short_name": "de-DE-KillianNeural",
+  "locale": "de-DE",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_de-DE-KillianNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.72,
+   "peak": 0.5964,
+   "sample_rate": 24000,
+   "bytes": 178604,
+   "s": 1.55
+  }
+ },
+ {
+  "short_name": "de-CH-JanNeural",
+  "locale": "de-CH",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_de-CH-JanNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.864,
+   "peak": 0.6175,
+   "sample_rate": 24000,
+   "bytes": 185516,
+   "s": 1.4
+  }
+ },
+ {
+  "short_name": "de-CH-LeniNeural",
+  "locale": "de-CH",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_de-CH-LeniNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.344,
+   "peak": 0.6199,
+   "sample_rate": 24000,
+   "bytes": 208556,
+   "s": 1.59
+  }
+ },
+ {
+  "short_name": "el-GR-AthinaNeural",
+  "locale": "el-GR",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_el-GR-AthinaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.576,
+   "peak": 0.635,
+   "sample_rate": 24000,
+   "bytes": 171692,
+   "s": 2.1
+  }
+ },
+ {
+  "short_name": "el-GR-NestorasNeural",
+  "locale": "el-GR",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_el-GR-NestorasNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.6,
+   "peak": 0.5035,
+   "sample_rate": 24000,
+   "bytes": 172844,
+   "s": 1.62
+  }
+ },
+ {
+  "short_name": "gu-IN-DhwaniNeural",
+  "locale": "gu-IN",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_gu-IN-DhwaniNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.728,
+   "peak": 0.6509,
+   "sample_rate": 24000,
+   "bytes": 226988,
+   "s": 1.74
+  }
+ },
+ {
+  "short_name": "gu-IN-NiranjanNeural",
+  "locale": "gu-IN",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_gu-IN-NiranjanNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.56,
+   "peak": 0.8081,
+   "sample_rate": 24000,
+   "bytes": 218924,
+   "s": 1.77
+  }
+ },
+ {
+  "short_name": "he-IL-AvriNeural",
+  "locale": "he-IL",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_he-IL-AvriNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.08,
+   "peak": 0.5876,
+   "sample_rate": 24000,
+   "bytes": 195884,
+   "s": 1.84
+  }
+ },
+ {
+  "short_name": "he-IL-HilaNeural",
+  "locale": "he-IL",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_he-IL-HilaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.84,
+   "peak": 0.4792,
+   "sample_rate": 24000,
+   "bytes": 184364,
+   "s": 1.93
+  }
+ },
+ {
+  "short_name": "hi-IN-MadhurNeural",
+  "locale": "hi-IN",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_hi-IN-MadhurNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.32,
+   "peak": 0.7392,
+   "sample_rate": 24000,
+   "bytes": 207404,
+   "s": 1.67
+  }
+ },
+ {
+  "short_name": "hi-IN-SwaraNeural",
+  "locale": "hi-IN",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_hi-IN-SwaraNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.008,
+   "peak": 0.5287,
+   "sample_rate": 24000,
+   "bytes": 192428,
+   "s": 1.74
+  }
+ },
+ {
+  "short_name": "hu-HU-NoemiNeural",
+  "locale": "hu-HU",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_hu-HU-NoemiNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.984,
+   "peak": 0.6295,
+   "sample_rate": 24000,
+   "bytes": 191276,
+   "s": 1.76
+  }
+ },
+ {
+  "short_name": "hu-HU-TamasNeural",
+  "locale": "hu-HU",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_hu-HU-TamasNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.816,
+   "peak": 0.5629,
+   "sample_rate": 24000,
+   "bytes": 183212,
+   "s": 1.55
+  }
+ },
+ {
+  "short_name": "is-IS-GudrunNeural",
+  "locale": "is-IS",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_is-IS-GudrunNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.056,
+   "peak": 0.4749,
+   "sample_rate": 24000,
+   "bytes": 194732,
+   "s": 1.4
+  }
+ },
+ {
+  "short_name": "is-IS-GunnarNeural",
+  "locale": "is-IS",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_is-IS-GunnarNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.888,
+   "peak": 0.4167,
+   "sample_rate": 24000,
+   "bytes": 186668,
+   "s": 1.47
+  }
+ },
+ {
+  "short_name": "id-ID-ArdiNeural",
+  "locale": "id-ID",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_id-ID-ArdiNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.648,
+   "peak": 0.5972,
+   "sample_rate": 24000,
+   "bytes": 175148,
+   "s": 2.62
+  }
+ },
+ {
+  "short_name": "id-ID-GadisNeural",
+  "locale": "id-ID",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_id-ID-GadisNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.536,
+   "peak": 0.5027,
+   "sample_rate": 24000,
+   "bytes": 217772,
+   "s": 1.87
+  }
+ },
+ {
+  "short_name": "ga-IE-ColmNeural",
+  "locale": "ga-IE",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ga-IE-ColmNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.624,
+   "peak": 0.4953,
+   "sample_rate": 24000,
+   "bytes": 173996,
+   "s": 1.78
+  }
+ },
+ {
+  "short_name": "ga-IE-OrlaNeural",
+  "locale": "ga-IE",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ga-IE-OrlaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.864,
+   "peak": 0.4693,
+   "sample_rate": 24000,
+   "bytes": 185516,
+   "s": 1.77
+  }
+ },
+ {
+  "short_name": "it-IT-GiuseppeMultilingualNeural",
+  "locale": "it-IT",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_it-IT-GiuseppeMultilingualNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.336,
+   "peak": 0.5186,
+   "sample_rate": 24000,
+   "bytes": 160172,
+   "s": 1.97
+  }
+ },
+ {
+  "short_name": "it-IT-DiegoNeural",
+  "locale": "it-IT",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_it-IT-DiegoNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.056,
+   "peak": 0.6091,
+   "sample_rate": 24000,
+   "bytes": 194732,
+   "s": 1.66
+  }
+ },
+ {
+  "short_name": "it-IT-ElsaNeural",
+  "locale": "it-IT",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_it-IT-ElsaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.192,
+   "peak": 0.5845,
+   "sample_rate": 24000,
+   "bytes": 153260,
+   "s": 1.71
+  }
+ },
+ {
+  "short_name": "it-IT-IsabellaNeural",
+  "locale": "it-IT",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_it-IT-IsabellaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.696,
+   "peak": 0.4495,
+   "sample_rate": 24000,
+   "bytes": 177452,
+   "s": 1.65
+  }
+ },
+ {
+  "short_name": "ja-JP-KeitaNeural",
+  "locale": "ja-JP",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ja-JP-KeitaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.728,
+   "peak": 0.7651,
+   "sample_rate": 24000,
+   "bytes": 226988,
+   "s": 1.56
+  }
+ },
+ {
+  "short_name": "ja-JP-NanamiNeural",
+  "locale": "ja-JP",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ja-JP-NanamiNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 5.208,
+   "peak": 0.6573,
+   "sample_rate": 24000,
+   "bytes": 250028,
+   "s": 2.13
+  }
+ },
+ {
+  "short_name": "jv-ID-DimasNeural",
+  "locale": "jv-ID",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_jv-ID-DimasNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.296,
+   "peak": 0.5391,
+   "sample_rate": 24000,
+   "bytes": 206252,
+   "s": 1.81
+  }
+ },
+ {
+  "short_name": "jv-ID-SitiNeural",
+  "locale": "jv-ID",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_jv-ID-SitiNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.44,
+   "peak": 0.4987,
+   "sample_rate": 24000,
+   "bytes": 213164,
+   "s": 1.97
+  }
+ },
+ {
+  "short_name": "kn-IN-GaganNeural",
+  "locale": "kn-IN",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_kn-IN-GaganNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.84,
+   "peak": 0.5352,
+   "sample_rate": 24000,
+   "bytes": 184364,
+   "s": 1.91
+  }
+ },
+ {
+  "short_name": "kn-IN-SapnaNeural",
+  "locale": "kn-IN",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_kn-IN-SapnaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.152,
+   "peak": 0.5121,
+   "sample_rate": 24000,
+   "bytes": 199340,
+   "s": 1.86
+  }
+ },
+ {
+  "short_name": "kk-KZ-AigulNeural",
+  "locale": "kk-KZ",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_kk-KZ-AigulNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.648,
+   "peak": 0.4147,
+   "sample_rate": 24000,
+   "bytes": 175148,
+   "s": 1.85
+  }
+ },
+ {
+  "short_name": "kk-KZ-DauletNeural",
+  "locale": "kk-KZ",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_kk-KZ-DauletNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.408,
+   "peak": 0.5956,
+   "sample_rate": 24000,
+   "bytes": 163628,
+   "s": 1.76
+  }
+ },
+ {
+  "short_name": "km-KH-PisethNeural",
+  "locale": "km-KH",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_km-KH-PisethNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.552,
+   "peak": 0.6102,
+   "sample_rate": 24000,
+   "bytes": 170540,
+   "s": 1.84
+  }
+ },
+ {
+  "short_name": "km-KH-SreymomNeural",
+  "locale": "km-KH",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_km-KH-SreymomNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.576,
+   "peak": 0.4918,
+   "sample_rate": 24000,
+   "bytes": 171692,
+   "s": 2.15
+  }
+ },
+ {
+  "short_name": "ko-KR-HyunsuMultilingualNeural",
+  "locale": "ko-KR",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ko-KR-HyunsuMultilingualNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.456,
+   "peak": 0.5227,
+   "sample_rate": 24000,
+   "bytes": 165932,
+   "s": 2.24
+  }
+ },
+ {
+  "short_name": "ko-KR-InJoonNeural",
+  "locale": "ko-KR",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ko-KR-InJoonNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.744,
+   "peak": 0.6287,
+   "sample_rate": 24000,
+   "bytes": 179756,
+   "s": 1.52
+  }
+ },
+ {
+  "short_name": "ko-KR-SunHiNeural",
+  "locale": "ko-KR",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ko-KR-SunHiNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.432,
+   "peak": 0.6266,
+   "sample_rate": 24000,
+   "bytes": 164780,
+   "s": 1.36
+  }
+ },
+ {
+  "short_name": "lo-LA-ChanthavongNeural",
+  "locale": "lo-LA",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_lo-LA-ChanthavongNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.488,
+   "peak": 0.3969,
+   "sample_rate": 24000,
+   "bytes": 215468,
+   "s": 1.72
+  }
+ },
+ {
+  "short_name": "lo-LA-KeomanyNeural",
+  "locale": "lo-LA",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_lo-LA-KeomanyNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.632,
+   "peak": 0.4406,
+   "sample_rate": 24000,
+   "bytes": 222380,
+   "s": 3.7
+  }
+ },
+ {
+  "short_name": "lv-LV-EveritaNeural",
+  "locale": "lv-LV",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_lv-LV-EveritaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.32,
+   "peak": 0.2507,
+   "sample_rate": 24000,
+   "bytes": 207404,
+   "s": 2.52
+  }
+ },
+ {
+  "short_name": "lv-LV-NilsNeural",
+  "locale": "lv-LV",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_lv-LV-NilsNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.912,
+   "peak": 0.4334,
+   "sample_rate": 24000,
+   "bytes": 187820,
+   "s": 2.16
+  }
+ },
+ {
+  "short_name": "lt-LT-LeonasNeural",
+  "locale": "lt-LT",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_lt-LT-LeonasNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.632,
+   "peak": 0.3742,
+   "sample_rate": 24000,
+   "bytes": 222380,
+   "s": 2.12
+  }
+ },
+ {
+  "short_name": "lt-LT-OnaNeural",
+  "locale": "lt-LT",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_lt-LT-OnaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.56,
+   "peak": 0.4693,
+   "sample_rate": 24000,
+   "bytes": 218924,
+   "s": 2.57
+  }
+ },
+ {
+  "short_name": "mk-MK-AleksandarNeural",
+  "locale": "mk-MK",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_mk-MK-AleksandarNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.528,
+   "peak": 0.5144,
+   "sample_rate": 24000,
+   "bytes": 169388,
+   "s": 3.06
+  }
+ },
+ {
+  "short_name": "mk-MK-MarijaNeural",
+  "locale": "mk-MK",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_mk-MK-MarijaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.456,
+   "peak": 0.5442,
+   "sample_rate": 24000,
+   "bytes": 165932,
+   "s": 3.34
+  }
+ },
+ {
+  "short_name": "ms-MY-OsmanNeural",
+  "locale": "ms-MY",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ms-MY-OsmanNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.704,
+   "peak": 0.6854,
+   "sample_rate": 24000,
+   "bytes": 225836,
+   "s": 2.69
+  }
+ },
+ {
+  "short_name": "ms-MY-YasminNeural",
+  "locale": "ms-MY",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ms-MY-YasminNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.248,
+   "peak": 0.4821,
+   "sample_rate": 24000,
+   "bytes": 203948,
+   "s": 2.57
+  }
+ },
+ {
+  "short_name": "ml-IN-MidhunNeural",
+  "locale": "ml-IN",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ml-IN-MidhunNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.248,
+   "peak": 0.4569,
+   "sample_rate": 24000,
+   "bytes": 203948,
+   "s": 2.92
+  }
+ },
+ {
+  "short_name": "ml-IN-SobhanaNeural",
+  "locale": "ml-IN",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ml-IN-SobhanaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 5.76,
+   "peak": 0.5068,
+   "sample_rate": 24000,
+   "bytes": 276524,
+   "s": 2.12
+  }
+ },
+ {
+  "short_name": "mt-MT-GraceNeural",
+  "locale": "mt-MT",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_mt-MT-GraceNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.624,
+   "peak": 0.3139,
+   "sample_rate": 24000,
+   "bytes": 173996,
+   "s": 2.63
+  }
+ },
+ {
+  "short_name": "mt-MT-JosephNeural",
+  "locale": "mt-MT",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_mt-MT-JosephNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.624,
+   "peak": 0.3187,
+   "sample_rate": 24000,
+   "bytes": 173996,
+   "s": 2.15
+  }
+ },
+ {
+  "short_name": "mr-IN-AarohiNeural",
+  "locale": "mr-IN",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_mr-IN-AarohiNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.704,
+   "peak": 0.5724,
+   "sample_rate": 24000,
+   "bytes": 225836,
+   "s": 1.87
+  }
+ },
+ {
+  "short_name": "mr-IN-ManoharNeural",
+  "locale": "mr-IN",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_mr-IN-ManoharNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.608,
+   "peak": 0.6729,
+   "sample_rate": 24000,
+   "bytes": 221228,
+   "s": 2.66
+  }
+ },
+ {
+  "short_name": "mn-MN-BataaNeural",
+  "locale": "mn-MN",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_mn-MN-BataaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.48,
+   "peak": 0.3408,
+   "sample_rate": 24000,
+   "bytes": 167084,
+   "s": 2.27
+  }
+ },
+ {
+  "short_name": "mn-MN-YesuiNeural",
+  "locale": "mn-MN",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_mn-MN-YesuiNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.48,
+   "peak": 0.3048,
+   "sample_rate": 24000,
+   "bytes": 167084,
+   "s": 1.57
+  }
+ },
+ {
+  "short_name": "ne-NP-HemkalaNeural",
+  "locale": "ne-NP",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ne-NP-HemkalaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.936,
+   "peak": 0.5138,
+   "sample_rate": 24000,
+   "bytes": 188972,
+   "s": 1.82
+  }
+ },
+ {
+  "short_name": "ne-NP-SagarNeural",
+  "locale": "ne-NP",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ne-NP-SagarNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.72,
+   "peak": 0.3876,
+   "sample_rate": 24000,
+   "bytes": 178604,
+   "s": 1.56
+  }
+ },
+ {
+  "short_name": "nb-NO-FinnNeural",
+  "locale": "nb-NO",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_nb-NO-FinnNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.672,
+   "peak": 0.5982,
+   "sample_rate": 24000,
+   "bytes": 176300,
+   "s": 2.69
+  }
+ },
+ {
+  "short_name": "nb-NO-PernilleNeural",
+  "locale": "nb-NO",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_nb-NO-PernilleNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.768,
+   "peak": 0.4791,
+   "sample_rate": 24000,
+   "bytes": 180908,
+   "s": 2.03
+  }
+ },
+ {
+  "short_name": "ps-AF-GulNawazNeural",
+  "locale": "ps-AF",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ps-AF-GulNawazNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.416,
+   "peak": 0.4298,
+   "sample_rate": 24000,
+   "bytes": 212012,
+   "s": 2.13
+  }
+ },
+ {
+  "short_name": "ps-AF-LatifaNeural",
+  "locale": "ps-AF",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ps-AF-LatifaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.56,
+   "peak": 0.419,
+   "sample_rate": 24000,
+   "bytes": 218924,
+   "s": 2.34
+  }
+ },
+ {
+  "short_name": "fa-IR-DilaraNeural",
+  "locale": "fa-IR",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_fa-IR-DilaraNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.608,
+   "peak": 0.3936,
+   "sample_rate": 24000,
+   "bytes": 221228,
+   "s": 1.62
+  }
+ },
+ {
+  "short_name": "fa-IR-FaridNeural",
+  "locale": "fa-IR",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_fa-IR-FaridNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.648,
+   "peak": 0.6742,
+   "sample_rate": 24000,
+   "bytes": 175148,
+   "s": 1.67
+  }
+ },
+ {
+  "short_name": "pl-PL-MarekNeural",
+  "locale": "pl-PL",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_pl-PL-MarekNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.008,
+   "peak": 0.6707,
+   "sample_rate": 24000,
+   "bytes": 192428,
+   "s": 1.88
+  }
+ },
+ {
+  "short_name": "pl-PL-ZofiaNeural",
+  "locale": "pl-PL",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_pl-PL-ZofiaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.416,
+   "peak": 0.5391,
+   "sample_rate": 24000,
+   "bytes": 212012,
+   "s": 1.81
+  }
+ },
+ {
+  "short_name": "pt-BR-ThalitaMultilingualNeural",
+  "locale": "pt-BR",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_pt-BR-ThalitaMultilingualNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.0,
+   "peak": 0.4452,
+   "sample_rate": 24000,
+   "bytes": 144044,
+   "s": 2.06
+  }
+ },
+ {
+  "short_name": "pt-BR-AntonioNeural",
+  "locale": "pt-BR",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_pt-BR-AntonioNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.84,
+   "peak": 0.6141,
+   "sample_rate": 24000,
+   "bytes": 184364,
+   "s": 1.78
+  }
+ },
+ {
+  "short_name": "pt-BR-FranciscaNeural",
+  "locale": "pt-BR",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_pt-BR-FranciscaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.888,
+   "peak": 0.6558,
+   "sample_rate": 24000,
+   "bytes": 186668,
+   "s": 1.53
+  }
+ },
+ {
+  "short_name": "pt-PT-DuarteNeural",
+  "locale": "pt-PT",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_pt-PT-DuarteNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.384,
+   "peak": 0.5534,
+   "sample_rate": 24000,
+   "bytes": 162476,
+   "s": 1.47
+  }
+ },
+ {
+  "short_name": "pt-PT-RaquelNeural",
+  "locale": "pt-PT",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_pt-PT-RaquelNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.96,
+   "peak": 0.5142,
+   "sample_rate": 24000,
+   "bytes": 190124,
+   "s": 2.03
+  }
+ },
+ {
+  "short_name": "ro-RO-AlinaNeural",
+  "locale": "ro-RO",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ro-RO-AlinaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.744,
+   "peak": 0.4942,
+   "sample_rate": 24000,
+   "bytes": 179756,
+   "s": 2.1
+  }
+ },
+ {
+  "short_name": "ro-RO-EmilNeural",
+  "locale": "ro-RO",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ro-RO-EmilNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.864,
+   "peak": 0.6645,
+   "sample_rate": 24000,
+   "bytes": 185516,
+   "s": 1.79
+  }
+ },
+ {
+  "short_name": "ru-RU-DmitryNeural",
+  "locale": "ru-RU",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ru-RU-DmitryNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.296,
+   "peak": 0.5805,
+   "sample_rate": 24000,
+   "bytes": 206252,
+   "s": 1.88
+  }
+ },
+ {
+  "short_name": "ru-RU-SvetlanaNeural",
+  "locale": "ru-RU",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ru-RU-SvetlanaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.2,
+   "peak": 0.5453,
+   "sample_rate": 24000,
+   "bytes": 201644,
+   "s": 1.97
+  }
+ },
+ {
+  "short_name": "sr-RS-NicholasNeural",
+  "locale": "sr-RS",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_sr-RS-NicholasNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.608,
+   "peak": 0.5588,
+   "sample_rate": 24000,
+   "bytes": 221228,
+   "s": 2.2
+  }
+ },
+ {
+  "short_name": "sr-RS-SophieNeural",
+  "locale": "sr-RS",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_sr-RS-SophieNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.576,
+   "peak": 0.4849,
+   "sample_rate": 24000,
+   "bytes": 171692,
+   "s": 1.89
+  }
+ },
+ {
+  "short_name": "si-LK-SameeraNeural",
+  "locale": "si-LK",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_si-LK-SameeraNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.296,
+   "peak": 0.5081,
+   "sample_rate": 24000,
+   "bytes": 206252,
+   "s": 1.81
+  }
+ },
+ {
+  "short_name": "si-LK-ThiliniNeural",
+  "locale": "si-LK",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_si-LK-ThiliniNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.632,
+   "peak": 0.4796,
+   "sample_rate": 24000,
+   "bytes": 222380,
+   "s": 2.47
+  }
+ },
+ {
+  "short_name": "sk-SK-LukasNeural",
+  "locale": "sk-SK",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_sk-SK-LukasNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.72,
+   "peak": 0.4877,
+   "sample_rate": 24000,
+   "bytes": 178604,
+   "s": 1.92
+  }
+ },
+ {
+  "short_name": "sk-SK-ViktoriaNeural",
+  "locale": "sk-SK",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_sk-SK-ViktoriaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.296,
+   "peak": 0.6678,
+   "sample_rate": 24000,
+   "bytes": 206252,
+   "s": 2.75
+  }
+ },
+ {
+  "short_name": "sl-SI-PetraNeural",
+  "locale": "sl-SI",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_sl-SI-PetraNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.912,
+   "peak": 0.492,
+   "sample_rate": 24000,
+   "bytes": 187820,
+   "s": 2.3
+  }
+ },
+ {
+  "short_name": "sl-SI-RokNeural",
+  "locale": "sl-SI",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_sl-SI-RokNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.488,
+   "peak": 0.6998,
+   "sample_rate": 24000,
+   "bytes": 215468,
+   "s": 3.39
+  }
+ },
+ {
+  "short_name": "so-SO-MuuseNeural",
+  "locale": "so-SO",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_so-SO-MuuseNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.864,
+   "peak": 0.4385,
+   "sample_rate": 24000,
+   "bytes": 185516,
+   "s": 1.48
+  }
+ },
+ {
+  "short_name": "so-SO-UbaxNeural",
+  "locale": "so-SO",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_so-SO-UbaxNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.056,
+   "peak": 0.4969,
+   "sample_rate": 24000,
+   "bytes": 194732,
+   "s": 2.64
+  }
+ },
+ {
+  "short_name": "es-AR-ElenaNeural",
+  "locale": "es-AR",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-AR-ElenaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.84,
+   "peak": 0.5535,
+   "sample_rate": 24000,
+   "bytes": 184364,
+   "s": 1.48
+  }
+ },
+ {
+  "short_name": "es-AR-TomasNeural",
+  "locale": "es-AR",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-AR-TomasNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.528,
+   "peak": 0.5763,
+   "sample_rate": 24000,
+   "bytes": 169388,
+   "s": 1.48
+  }
+ },
+ {
+  "short_name": "es-BO-MarceloNeural",
+  "locale": "es-BO",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-BO-MarceloNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.288,
+   "peak": 0.6198,
+   "sample_rate": 24000,
+   "bytes": 157868,
+   "s": 1.66
+  }
+ },
+ {
+  "short_name": "es-BO-SofiaNeural",
+  "locale": "es-BO",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-BO-SofiaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.288,
+   "peak": 0.6168,
+   "sample_rate": 24000,
+   "bytes": 157868,
+   "s": 1.82
+  }
+ },
+ {
+  "short_name": "es-CL-CatalinaNeural",
+  "locale": "es-CL",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-CL-CatalinaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.576,
+   "peak": 0.5919,
+   "sample_rate": 24000,
+   "bytes": 171692,
+   "s": 1.69
+  }
+ },
+ {
+  "short_name": "es-CL-LorenzoNeural",
+  "locale": "es-CL",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-CL-LorenzoNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.288,
+   "peak": 0.841,
+   "sample_rate": 24000,
+   "bytes": 157868,
+   "s": 1.59
+  }
+ },
+ {
+  "short_name": "es-CO-GonzaloNeural",
+  "locale": "es-CO",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-CO-GonzaloNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.312,
+   "peak": 0.5691,
+   "sample_rate": 24000,
+   "bytes": 159020,
+   "s": 1.43
+  }
+ },
+ {
+  "short_name": "es-CO-SalomeNeural",
+  "locale": "es-CO",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-CO-SalomeNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.792,
+   "peak": 0.4958,
+   "sample_rate": 24000,
+   "bytes": 182060,
+   "s": 1.37
+  }
+ },
+ {
+  "short_name": "es-ES-XimenaNeural",
+  "locale": "es-ES",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-ES-XimenaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.624,
+   "peak": 0.4947,
+   "sample_rate": 24000,
+   "bytes": 173996,
+   "s": 2.09
+  }
+ },
+ {
+  "short_name": "es-CR-JuanNeural",
+  "locale": "es-CR",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-CR-JuanNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.744,
+   "peak": 0.6317,
+   "sample_rate": 24000,
+   "bytes": 179756,
+   "s": 1.35
+  }
+ },
+ {
+  "short_name": "es-CR-MariaNeural",
+  "locale": "es-CR",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-CR-MariaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.816,
+   "peak": 0.614,
+   "sample_rate": 24000,
+   "bytes": 183212,
+   "s": 2.52
+  }
+ },
+ {
+  "short_name": "es-CU-BelkysNeural",
+  "locale": "es-CU",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-CU-BelkysNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.576,
+   "peak": 0.5323,
+   "sample_rate": 24000,
+   "bytes": 171692,
+   "s": 1.44
+  }
+ },
+ {
+  "short_name": "es-CU-ManuelNeural",
+  "locale": "es-CU",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-CU-ManuelNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.936,
+   "peak": 0.5815,
+   "sample_rate": 24000,
+   "bytes": 188972,
+   "s": 1.66
+  }
+ },
+ {
+  "short_name": "es-DO-EmilioNeural",
+  "locale": "es-DO",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-DO-EmilioNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.744,
+   "peak": 0.6196,
+   "sample_rate": 24000,
+   "bytes": 179756,
+   "s": 2.55
+  }
+ },
+ {
+  "short_name": "es-DO-RamonaNeural",
+  "locale": "es-DO",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-DO-RamonaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.008,
+   "peak": 0.61,
+   "sample_rate": 24000,
+   "bytes": 192428,
+   "s": 1.6
+  }
+ },
+ {
+  "short_name": "es-EC-AndreaNeural",
+  "locale": "es-EC",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-EC-AndreaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.456,
+   "peak": 0.6098,
+   "sample_rate": 24000,
+   "bytes": 165932,
+   "s": 1.73
+  }
+ },
+ {
+  "short_name": "es-EC-LuisNeural",
+  "locale": "es-EC",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-EC-LuisNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.624,
+   "peak": 0.637,
+   "sample_rate": 24000,
+   "bytes": 173996,
+   "s": 2.66
+  }
+ },
+ {
+  "short_name": "es-SV-LorenaNeural",
+  "locale": "es-SV",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-SV-LorenaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.288,
+   "peak": 0.6109,
+   "sample_rate": 24000,
+   "bytes": 157868,
+   "s": 2.6
+  }
+ },
+ {
+  "short_name": "es-SV-RodrigoNeural",
+  "locale": "es-SV",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-SV-RodrigoNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.192,
+   "peak": 0.6268,
+   "sample_rate": 24000,
+   "bytes": 153260,
+   "s": 1.74
+  }
+ },
+ {
+  "short_name": "es-GQ-JavierNeural",
+  "locale": "es-GQ",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-GQ-JavierNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.696,
+   "peak": 0.5751,
+   "sample_rate": 24000,
+   "bytes": 177452,
+   "s": 1.55
+  }
+ },
+ {
+  "short_name": "es-GQ-TeresaNeural",
+  "locale": "es-GQ",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-GQ-TeresaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.576,
+   "peak": 0.5107,
+   "sample_rate": 24000,
+   "bytes": 171692,
+   "s": 1.9
+  }
+ },
+ {
+  "short_name": "es-GT-AndresNeural",
+  "locale": "es-GT",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-GT-AndresNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.192,
+   "peak": 0.6302,
+   "sample_rate": 24000,
+   "bytes": 153260,
+   "s": 1.49
+  }
+ },
+ {
+  "short_name": "es-GT-MartaNeural",
+  "locale": "es-GT",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-GT-MartaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.288,
+   "peak": 0.6176,
+   "sample_rate": 24000,
+   "bytes": 157868,
+   "s": 1.58
+  }
+ },
+ {
+  "short_name": "es-HN-CarlosNeural",
+  "locale": "es-HN",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-HN-CarlosNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.192,
+   "peak": 0.6394,
+   "sample_rate": 24000,
+   "bytes": 153260,
+   "s": 1.34
+  }
+ },
+ {
+  "short_name": "es-HN-KarlaNeural",
+  "locale": "es-HN",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-HN-KarlaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.816,
+   "peak": 0.6113,
+   "sample_rate": 24000,
+   "bytes": 183212,
+   "s": 1.52
+  }
+ },
+ {
+  "short_name": "es-MX-DaliaNeural",
+  "locale": "es-MX",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-MX-DaliaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.624,
+   "peak": 0.6134,
+   "sample_rate": 24000,
+   "bytes": 173996,
+   "s": 1.68
+  }
+ },
+ {
+  "short_name": "es-MX-JorgeNeural",
+  "locale": "es-MX",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-MX-JorgeNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.456,
+   "peak": 0.6175,
+   "sample_rate": 24000,
+   "bytes": 165932,
+   "s": 1.91
+  }
+ },
+ {
+  "short_name": "es-NI-FedericoNeural",
+  "locale": "es-NI",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-NI-FedericoNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.288,
+   "peak": 0.6165,
+   "sample_rate": 24000,
+   "bytes": 157868,
+   "s": 1.67
+  }
+ },
+ {
+  "short_name": "es-NI-YolandaNeural",
+  "locale": "es-NI",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-NI-YolandaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.008,
+   "peak": 0.6135,
+   "sample_rate": 24000,
+   "bytes": 192428,
+   "s": 1.72
+  }
+ },
+ {
+  "short_name": "es-PA-MargaritaNeural",
+  "locale": "es-PA",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-PA-MargaritaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.456,
+   "peak": 0.6149,
+   "sample_rate": 24000,
+   "bytes": 165932,
+   "s": 1.42
+  }
+ },
+ {
+  "short_name": "es-PA-RobertoNeural",
+  "locale": "es-PA",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-PA-RobertoNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.744,
+   "peak": 0.6376,
+   "sample_rate": 24000,
+   "bytes": 179756,
+   "s": 1.38
+  }
+ },
+ {
+  "short_name": "es-PY-MarioNeural",
+  "locale": "es-PY",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-PY-MarioNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.168,
+   "peak": 0.5716,
+   "sample_rate": 24000,
+   "bytes": 152108,
+   "s": 1.41
+  }
+ },
+ {
+  "short_name": "es-PY-TaniaNeural",
+  "locale": "es-PY",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-PY-TaniaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.6,
+   "peak": 0.4784,
+   "sample_rate": 24000,
+   "bytes": 172844,
+   "s": 2.39
+  }
+ },
+ {
+  "short_name": "es-PE-AlexNeural",
+  "locale": "es-PE",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-PE-AlexNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.744,
+   "peak": 0.6279,
+   "sample_rate": 24000,
+   "bytes": 179756,
+   "s": 1.54
+  }
+ },
+ {
+  "short_name": "es-PE-CamilaNeural",
+  "locale": "es-PE",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-PE-CamilaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.288,
+   "peak": 0.5874,
+   "sample_rate": 24000,
+   "bytes": 157868,
+   "s": 1.52
+  }
+ },
+ {
+  "short_name": "es-PR-KarinaNeural",
+  "locale": "es-PR",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-PR-KarinaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.008,
+   "peak": 0.618,
+   "sample_rate": 24000,
+   "bytes": 192428,
+   "s": 1.38
+  }
+ },
+ {
+  "short_name": "es-PR-VictorNeural",
+  "locale": "es-PR",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-PR-VictorNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.624,
+   "peak": 0.6321,
+   "sample_rate": 24000,
+   "bytes": 173996,
+   "s": 2.06
+  }
+ },
+ {
+  "short_name": "es-ES-AlvaroNeural",
+  "locale": "es-ES",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-ES-AlvaroNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.456,
+   "peak": 0.6085,
+   "sample_rate": 24000,
+   "bytes": 165932,
+   "s": 2.33
+  }
+ },
+ {
+  "short_name": "es-ES-ElviraNeural",
+  "locale": "es-ES",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-ES-ElviraNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.744,
+   "peak": 0.5279,
+   "sample_rate": 24000,
+   "bytes": 179756,
+   "s": 2.13
+  }
+ },
+ {
+  "short_name": "es-US-AlonsoNeural",
+  "locale": "es-US",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-US-AlonsoNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.624,
+   "peak": 0.6292,
+   "sample_rate": 24000,
+   "bytes": 173996,
+   "s": 2.07
+  }
+ },
+ {
+  "short_name": "es-US-PalomaNeural",
+  "locale": "es-US",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-US-PalomaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.456,
+   "peak": 0.6181,
+   "sample_rate": 24000,
+   "bytes": 165932,
+   "s": 2.43
+  }
+ },
+ {
+  "short_name": "es-UY-MateoNeural",
+  "locale": "es-UY",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-UY-MateoNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.36,
+   "peak": 0.5658,
+   "sample_rate": 24000,
+   "bytes": 161324,
+   "s": 2.27
+  }
+ },
+ {
+  "short_name": "es-UY-ValentinaNeural",
+  "locale": "es-UY",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-UY-ValentinaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.648,
+   "peak": 0.5616,
+   "sample_rate": 24000,
+   "bytes": 175148,
+   "s": 2.07
+  }
+ },
+ {
+  "short_name": "es-VE-PaolaNeural",
+  "locale": "es-VE",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-VE-PaolaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.032,
+   "peak": 0.6057,
+   "sample_rate": 24000,
+   "bytes": 193580,
+   "s": 2.49
+  }
+ },
+ {
+  "short_name": "es-VE-SebastianNeural",
+  "locale": "es-VE",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_es-VE-SebastianNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.192,
+   "peak": 0.6326,
+   "sample_rate": 24000,
+   "bytes": 153260,
+   "s": 1.67
+  }
+ },
+ {
+  "short_name": "su-ID-JajangNeural",
+  "locale": "su-ID",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_su-ID-JajangNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.056,
+   "peak": 0.3538,
+   "sample_rate": 24000,
+   "bytes": 194732,
+   "s": 2.22
+  }
+ },
+ {
+  "short_name": "su-ID-TutiNeural",
+  "locale": "su-ID",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_su-ID-TutiNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.32,
+   "peak": 0.336,
+   "sample_rate": 24000,
+   "bytes": 207404,
+   "s": 2.05
+  }
+ },
+ {
+  "short_name": "sw-KE-RafikiNeural",
+  "locale": "sw-KE",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_sw-KE-RafikiNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.128,
+   "peak": 0.4772,
+   "sample_rate": 24000,
+   "bytes": 198188,
+   "s": 5.28
+  }
+ },
+ {
+  "short_name": "sw-KE-ZuriNeural",
+  "locale": "sw-KE",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_sw-KE-ZuriNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.368,
+   "peak": 0.5283,
+   "sample_rate": 24000,
+   "bytes": 209708,
+   "s": 1.88
+  }
+ },
+ {
+  "short_name": "sw-TZ-DaudiNeural",
+  "locale": "sw-TZ",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_sw-TZ-DaudiNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.344,
+   "peak": 0.4807,
+   "sample_rate": 24000,
+   "bytes": 208556,
+   "s": 1.71
+  }
+ },
+ {
+  "short_name": "sw-TZ-RehemaNeural",
+  "locale": "sw-TZ",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_sw-TZ-RehemaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.608,
+   "peak": 0.5159,
+   "sample_rate": 24000,
+   "bytes": 221228,
+   "s": 1.56
+  }
+ },
+ {
+  "short_name": "sv-SE-MattiasNeural",
+  "locale": "sv-SE",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_sv-SE-MattiasNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.392,
+   "peak": 0.6226,
+   "sample_rate": 24000,
+   "bytes": 210860,
+   "s": 1.88
+  }
+ },
+ {
+  "short_name": "sv-SE-SofieNeural",
+  "locale": "sv-SE",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_sv-SE-SofieNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.912,
+   "peak": 0.6134,
+   "sample_rate": 24000,
+   "bytes": 187820,
+   "s": 1.89
+  }
+ },
+ {
+  "short_name": "ta-IN-PallaviNeural",
+  "locale": "ta-IN",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ta-IN-PallaviNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.336,
+   "peak": 0.5125,
+   "sample_rate": 24000,
+   "bytes": 160172,
+   "s": 2.27
+  }
+ },
+ {
+  "short_name": "ta-IN-ValluvarNeural",
+  "locale": "ta-IN",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ta-IN-ValluvarNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.048,
+   "peak": 0.6512,
+   "sample_rate": 24000,
+   "bytes": 146348,
+   "s": 1.72
+  }
+ },
+ {
+  "short_name": "ta-MY-KaniNeural",
+  "locale": "ta-MY",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ta-MY-KaniNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.168,
+   "peak": 0.4997,
+   "sample_rate": 24000,
+   "bytes": 152108,
+   "s": 1.72
+  }
+ },
+ {
+  "short_name": "ta-MY-SuryaNeural",
+  "locale": "ta-MY",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ta-MY-SuryaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.216,
+   "peak": 0.6509,
+   "sample_rate": 24000,
+   "bytes": 154412,
+   "s": 1.85
+  }
+ },
+ {
+  "short_name": "ta-SG-AnbuNeural",
+  "locale": "ta-SG",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ta-SG-AnbuNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 2.904,
+   "peak": 0.657,
+   "sample_rate": 24000,
+   "bytes": 139436,
+   "s": 1.9
+  }
+ },
+ {
+  "short_name": "ta-SG-VenbaNeural",
+  "locale": "ta-SG",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ta-SG-VenbaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.168,
+   "peak": 0.5114,
+   "sample_rate": 24000,
+   "bytes": 152108,
+   "s": 1.85
+  }
+ },
+ {
+  "short_name": "ta-LK-KumarNeural",
+  "locale": "ta-LK",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ta-LK-KumarNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.216,
+   "peak": 0.6667,
+   "sample_rate": 24000,
+   "bytes": 154412,
+   "s": 1.75
+  }
+ },
+ {
+  "short_name": "ta-LK-SaranyaNeural",
+  "locale": "ta-LK",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ta-LK-SaranyaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.504,
+   "peak": 0.4989,
+   "sample_rate": 24000,
+   "bytes": 168236,
+   "s": 1.97
+  }
+ },
+ {
+  "short_name": "te-IN-MohanNeural",
+  "locale": "te-IN",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_te-IN-MohanNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.264,
+   "peak": 0.5676,
+   "sample_rate": 24000,
+   "bytes": 156716,
+   "s": 2.65
+  }
+ },
+ {
+  "short_name": "te-IN-ShrutiNeural",
+  "locale": "te-IN",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_te-IN-ShrutiNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.144,
+   "peak": 0.4869,
+   "sample_rate": 24000,
+   "bytes": 150956,
+   "s": 2.02
+  }
+ },
+ {
+  "short_name": "th-TH-NiwatNeural",
+  "locale": "th-TH",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_th-TH-NiwatNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.648,
+   "peak": 0.5576,
+   "sample_rate": 24000,
+   "bytes": 175148,
+   "s": 2.39
+  }
+ },
+ {
+  "short_name": "th-TH-PremwadeeNeural",
+  "locale": "th-TH",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_th-TH-PremwadeeNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.744,
+   "peak": 0.6594,
+   "sample_rate": 24000,
+   "bytes": 179756,
+   "s": 2.6
+  }
+ },
+ {
+  "short_name": "tr-TR-EmelNeural",
+  "locale": "tr-TR",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_tr-TR-EmelNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.032,
+   "peak": 0.7042,
+   "sample_rate": 24000,
+   "bytes": 193580,
+   "s": 2.13
+  }
+ },
+ {
+  "short_name": "tr-TR-AhmetNeural",
+  "locale": "tr-TR",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_tr-TR-AhmetNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.008,
+   "peak": 0.6606,
+   "sample_rate": 24000,
+   "bytes": 192428,
+   "s": 2.05
+  }
+ },
+ {
+  "short_name": "uk-UA-OstapNeural",
+  "locale": "uk-UA",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_uk-UA-OstapNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.272,
+   "peak": 0.6287,
+   "sample_rate": 24000,
+   "bytes": 205100,
+   "s": 3.11
+  }
+ },
+ {
+  "short_name": "uk-UA-PolinaNeural",
+  "locale": "uk-UA",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_uk-UA-PolinaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.84,
+   "peak": 0.4526,
+   "sample_rate": 24000,
+   "bytes": 184364,
+   "s": 1.93
+  }
+ },
+ {
+  "short_name": "ur-IN-GulNeural",
+  "locale": "ur-IN",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ur-IN-GulNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.104,
+   "peak": 0.447,
+   "sample_rate": 24000,
+   "bytes": 197036,
+   "s": 1.79
+  }
+ },
+ {
+  "short_name": "ur-IN-SalmanNeural",
+  "locale": "ur-IN",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ur-IN-SalmanNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.08,
+   "peak": 0.6343,
+   "sample_rate": 24000,
+   "bytes": 195884,
+   "s": 2.35
+  }
+ },
+ {
+  "short_name": "ur-PK-AsadNeural",
+  "locale": "ur-PK",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ur-PK-AsadNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.888,
+   "peak": 0.4865,
+   "sample_rate": 24000,
+   "bytes": 186668,
+   "s": 1.78
+  }
+ },
+ {
+  "short_name": "ur-PK-UzmaNeural",
+  "locale": "ur-PK",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_ur-PK-UzmaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.816,
+   "peak": 0.5941,
+   "sample_rate": 24000,
+   "bytes": 183212,
+   "s": 1.76
+  }
+ },
+ {
+  "short_name": "uz-UZ-MadinaNeural",
+  "locale": "uz-UZ",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_uz-UZ-MadinaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.104,
+   "peak": 0.4549,
+   "sample_rate": 24000,
+   "bytes": 197036,
+   "s": 1.94
+  }
+ },
+ {
+  "short_name": "uz-UZ-SardorNeural",
+  "locale": "uz-UZ",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_uz-UZ-SardorNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.984,
+   "peak": 0.4935,
+   "sample_rate": 24000,
+   "bytes": 191276,
+   "s": 1.83
+  }
+ },
+ {
+  "short_name": "vi-VN-HoaiMyNeural",
+  "locale": "vi-VN",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_vi-VN-HoaiMyNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.296,
+   "peak": 0.5772,
+   "sample_rate": 24000,
+   "bytes": 206252,
+   "s": 2.0
+  }
+ },
+ {
+  "short_name": "vi-VN-NamMinhNeural",
+  "locale": "vi-VN",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_vi-VN-NamMinhNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.648,
+   "peak": 0.5795,
+   "sample_rate": 24000,
+   "bytes": 175148,
+   "s": 3.19
+  }
+ },
+ {
+  "short_name": "cy-GB-AledNeural",
+  "locale": "cy-GB",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_cy-GB-AledNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.128,
+   "peak": 0.3887,
+   "sample_rate": 24000,
+   "bytes": 198188,
+   "s": 1.94
+  }
+ },
+ {
+  "short_name": "cy-GB-NiaNeural",
+  "locale": "cy-GB",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_cy-GB-NiaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.368,
+   "peak": 0.5697,
+   "sample_rate": 24000,
+   "bytes": 209708,
+   "s": 1.49
+  }
+ },
+ {
+  "short_name": "zu-ZA-ThandoNeural",
+  "locale": "zu-ZA",
+  "gender": "female",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_zu-ZA-ThandoNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 3.984,
+   "peak": 0.4448,
+   "sample_rate": 24000,
+   "bytes": 191276,
+   "s": 1.71
+  }
+ },
+ {
+  "short_name": "zu-ZA-ThembaNeural",
+  "locale": "zu-ZA",
+  "gender": "male",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\edge_catalog\\edge_zu-ZA-ThembaNeural.wav",
+  "verify": {
+   "ok": true,
+   "dur_s": 4.008,
+   "peak": 0.4308,
+   "sample_rate": 24000,
+   "bytes": 192428,
+   "s": 3.4
+  }
+ }
+]

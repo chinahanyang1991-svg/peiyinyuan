@@ -1,0 +1,290 @@
+{
+ "started_at": "2026-09-21T01:10:25Z",
+ "target_per_category": 12,
+ "user_agent": "peiyinyuan-voice-library/1.0 (local desktop dubbing tool; one-shot personal-use fetch; no redistribution)",
+ "min_interval_s": 1.2,
+ "downloaded": 41,
+ "skipped": {
+  "not_free_audio_format": 1,
+  "oversize": 37,
+  "download_failed": 0,
+  "pronunciation_file": 1,
+  "same_family_cap": 4,
+  "license_not_allowed": 94,
+  "pre_qc_too_long": 59,
+  "pre_qc_too_short": 1,
+  "pre_qc_silent": 1
+ },
+ "rejected_licenses": {
+  "GFDL": 1,
+  "CC BY-SA 3.0": 36,
+  "CC BY-SA 4.0": 53,
+  "CC BY-SA 2.5": 2,
+  "PDM-owner": 1,
+  "Copyrighted free use": 1
+ },
+ "pre_qc_rejected": [
+  {
+   "title": "File:Squeaks and twangs of Barking Riverside Pier.ogg",
+   "reason": "too_long:64.32s>30.0s"
+  },
+  {
+   "title": "File:Call of Brown hawk-owl (Ninox scutulata) from South Bengal.wav",
+   "reason": "too_long:61.10s>30.0s"
+  },
+  {
+   "title": "File:Bird call with so-called separated chirps.ogg",
+   "reason": "too_long:42.75s>30.0s"
+  },
+  {
+   "title": "File:Laser 5 (Gravity Sound).wav",
+   "reason": "too_short:0.125s<0.3s"
+  },
+  {
+   "title": "File:Meydn - 05 - Beep beep beep Im not a pitched down voice bot.ogg",
+   "reason": "too_long:57.78s>30.0s"
+  },
+  {
+   "title": "File:Thue-Morse beeps slower.oga",
+   "reason": "too_long:60.00s>30.0s"
+  },
+  {
+   "title": "File:Arpeggio Dreamer.ogg",
+   "reason": "too_long:342.01s>30.0s"
+  },
+  {
+   "title": "File:8-bit Music for GameDev - 01. Slay The Evil.opus",
+   "reason": "too_long:91.31s>30.0s"
+  },
+  {
+   "title": "File:8-bit Music for GameDev - 05. Last Mission.opus",
+   "reason": "too_long:140.85s>30.0s"
+  },
+  {
+   "title": "File:8-bit Music for GameDev - 04. Mechanical Complex.opus",
+   "reason": "too_long:178.41s>30.0s"
+  },
+  {
+   "title": "File:8-bit Music for GameDev - 03. Boss Battle.opus",
+   "reason": "too_long:117.75s>30.0s"
+  },
+  {
+   "title": "File:8-bit Music for GameDev - 02. Perilous Dungeon.opus",
+   "reason": "too_long:121.55s>30.0s"
+  },
+  {
+   "title": "File:Takeover of the 8-bit Synths (ISRC USUAN1100461).mp3",
+   "reason": "too_long:213.39s>30.0s"
+  },
+  {
+   "title": "File:8 Bit Chill (Antti Luode).mp3",
+   "reason": "too_long:173.21s>30.0s"
+  },
+  {
+   "title": "File:Bit Shift (ISRC USUAN1600045).mp3",
+   "reason": "too_long:192.05s>30.0s"
+  },
+  {
+   "title": "File:Theme for Harold (var. 1) (ISRC USUAN1200008).mp3",
+   "reason": "too_long:112.07s>30.0s"
+  },
+  {
+   "title": "File:Salty Ditty (ISRC USUAN1600053).mp3",
+   "reason": "too_long:128.05s>30.0s"
+  },
+  {
+   "title": "File:Video Dungeon Crawl (ISRC USUAN1200064).mp3",
+   "reason": "too_long:213.38s>30.0s"
+  },
+  {
+   "title": "File:8bit Dungeon Boss (ISRC USUAN1200067).mp3",
+   "reason": "too_long:172.01s>30.0s"
+  },
+  {
+   "title": "File:Bit Quest (ISRC USUAN1500073).mp3",
+   "reason": "too_long:192.05s>30.0s"
+  },
+  {
+   "title": "File:8 Bit ear violation (Antti Luode).mp3",
+   "reason": "too_long:215.05s>30.0s"
+  },
+  {
+   "title": "File:8 Bit Circus (Antti Luode).mp3",
+   "reason": "too_long:300.84s>30.0s"
+  },
+  {
+   "title": "File:Airship Serenity (ISRC USUAN1600046).mp3",
+   "reason": "too_long:240.07s>30.0s"
+  },
+  {
+   "title": "File:Friendly Evil Gangsta Synth Hip Hop.ogg",
+   "reason": "too_long:375.00s>30.0s"
+  },
+  {
+   "title": "File:Juno-60-jp4.ogg",
+   "reason": "too_long:188.30s>30.0s"
+  },
+  {
+   "title": "File:Stem 5 from \"Synth pop with 6 on the floor\".ogg",
+   "reason": "too_long:198.00s>30.0s"
+  },
+  {
+   "title": "File:Stem 4 from \"Synth pop with 5 on the floor\".ogg",
+   "reason": "too_long:198.00s>30.0s"
+  },
+  {
+   "title": "File:Stem 1 from \"Synth pop with 4 on the floor\".ogg",
+   "reason": "too_long:198.00s>30.0s"
+  },
+  {
+   "title": "File:Stem 6 from \"Synth pop with 7 on the floor\".ogg",
+   "reason": "too_long:198.00s>30.0s"
+  },
+  {
+   "title": "File:Stem 7 from \"Synth pop with 8 on the floor\".ogg",
+   "reason": "too_long:198.00s>30.0s"
+  },
+  {
+   "title": "File:Stem 2 from \"Synth pop with 9 on the floor\".ogg",
+   "reason": "too_long:198.00s>30.0s"
+  },
+  {
+   "title": "File:Stem 3 from \"Synth pop with 10 on the floor\".ogg",
+   "reason": "too_long:198.00s>30.0s"
+  },
+  {
+   "title": "File:Pulsating synth humming.ogg",
+   "reason": "too_long:41.48s>30.0s"
+  },
+  {
+   "title": "File:WWS H.C. Ørsted engine – compressor start.oga",
+   "reason": "too_long:38.15s>30.0s"
+  },
+  {
+   "title": "File:South Australian Railways Garratt 406 starts off.ogg",
+   "reason": "too_long:203.49s>30.0s"
+  },
+  {
+   "title": "File:Maserati GranTurismo S Exhaust.ogg",
+   "reason": "too_long:66.18s>30.0s"
+  },
+  {
+   "title": "File:Vojníkov, před kapličkou, čtvrtek.ogg",
+   "reason": "too_long:617.98s>30.0s"
+  },
+  {
+   "title": "File:WWS Rotaryprintingpress.ogg",
+   "reason": "too_long:119.04s>30.0s"
+  },
+  {
+   "title": "File:WWS 8220Kessel8221sharpeningmachine.ogg",
+   "reason": "too_long:119.92s>30.0s"
+  },
+  {
+   "title": "File:WWS Railwayturntable.ogg",
+   "reason": "too_long:112.17s>30.0s"
+  },
+  {
+   "title": "File:LA2 kitchen clock.ogg",
+   "reason": "silent:peak=0.0174<0.02"
+  },
+  {
+   "title": "File:Tick2.ogg",
+   "reason": "too_long:59.95s>30.0s"
+  },
+  {
+   "title": "File:2000 Body's 24 Hour Clock by Bill Nye for National Science Foundation.oga",
+   "reason": "too_long:62.54s>30.0s"
+  },
+  {
+   "title": "File:WWS Wallclockwithweightticking.ogg",
+   "reason": "too_long:53.88s>30.0s"
+  },
+  {
+   "title": "File:WWS Alarmclockticking.ogg",
+   "reason": "too_long:59.40s>30.0s"
+  },
+  {
+   "title": "File:WWS Quartzclockticking.ogg",
+   "reason": "too_long:53.95s>30.0s"
+  },
+  {
+   "title": "File:Chainsaw 11.ogg",
+   "reason": "too_long:50.05s>30.0s"
+  },
+  {
+   "title": "File:Chainsaw 9.ogg",
+   "reason": "too_long:217.16s>30.0s"
+  },
+  {
+   "title": "File:Chainsaw 4.ogg",
+   "reason": "too_long:138.27s>30.0s"
+  },
+  {
+   "title": "File:Chainsaw 12.ogg",
+   "reason": "too_long:87.30s>30.0s"
+  },
+  {
+   "title": "File:The Voice of Kaiser Karl I of Austria - Recording in 1915.ogg",
+   "reason": "too_long:75.09s>30.0s"
+  },
+  {
+   "title": "File:Lunacharskiy voice.ogg",
+   "reason": "too_long:79.21s>30.0s"
+  },
+  {
+   "title": "File:Bermondsey Horror Marie Manning in The Chronicles of Newgate vol. 2, pp. 359-367, by Arthur Griffiths.ogg",
+   "reason": "too_long:845.48s>30.0s"
+  },
+  {
+   "title": "File:Leonid Andreev - Zhizn cheloveka.ogg",
+   "reason": "too_long:103.78s>30.0s"
+  },
+  {
+   "title": "File:Dr. William Dodd (1729 – 1777) in The Chronicles of Newgate vol 2 by Arthur Griffiths.ogg",
+   "reason": "too_long:465.60s>30.0s"
+  },
+  {
+   "title": "File:Sullivan - The Yeomen of the Guard (1920, Byng) - 07 - Here's a man of jollity.mp3",
+   "reason": "too_long:39.60s>30.0s"
+  },
+  {
+   "title": "File:Sullivan - The Yeomen of the Guard (1920, Byng) - 26 - A man who would woo a fair maid.mp3",
+   "reason": "too_long:182.95s>30.0s"
+  },
+  {
+   "title": "File:Patience (HMV, cond. Byng) - 18 - When I go out of door - I'm a Waterloo House young man - After much debate internal.mp3",
+   "reason": "too_long:189.52s>30.0s"
+  },
+  {
+   "title": "File:Iolanthe (Norris and Byng, 1922) - 08 - My Lords, it cannot be - When I went to the Bar as a very young man.mp3",
+   "reason": "too_long:235.52s>30.0s"
+  },
+  {
+   "title": "File:Bice'waan Song.ogg",
+   "reason": "too_long:44.57s>30.0s"
+  },
+  {
+   "title": "File:Rep. Carolyn McCarthy Speaks in Support of Legislation to Prevent Child Abuse in Residential Programs.ogg",
+   "reason": "too_long:284.33s>30.0s"
+  }
+ ],
+ "errors": [
+  "opengameart https://opengameart.org/api/query/ -> HTTP404 text/html (接口不可用, 跳过该源)",
+  "opengameart https://opengameart.org/oaupl/v2/assets -> HTTP404 text/html (接口不可用, 跳过该源)",
+  "opengameart https://opengameart.org/api/query/ -> HTTP404 text/html (接口不可用, 跳过该源)",
+  "opengameart https://opengameart.org/oaupl/v2/assets -> HTTP404 text/html (接口不可用, 跳过该源)",
+  "opengameart https://opengameart.org/api/query/ -> HTTP404 text/html (接口不可用, 跳过该源)",
+  "opengameart https://opengameart.org/oaupl/v2/assets -> HTTP404 text/html (接口不可用, 跳过该源)",
+  "opengameart https://opengameart.org/api/query/ -> HTTP404 text/html (接口不可用, 跳过该源)",
+  "opengameart https://opengameart.org/oaupl/v2/assets -> HTTP404 text/html (接口不可用, 跳过该源)"
+ ],
+ "per_category": {},
+ "counts": {
+  "animal": 12,
+  "electronic": 12,
+  "mechanical": 12,
+  "human": 5
+ },
+ "finished_at": "2026-09-21T01:20:09Z"
+}

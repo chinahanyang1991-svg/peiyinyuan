@@ -1,0 +1,86 @@
+// 配音员 (PeiYinYuan) 容器+模块架构图
+// 产出: system-modeler 路由 (architecture-visualization:explore)
+// 证据: 各节点均对应 peiyinyuan/ 下实际代码, 详见同名 .md 的证据清单
+// 置信标注: [H]=代码直接证据, [M]=多点部分证据, [I]=推断
+digraph peiyinyuan {
+  rankdir=TB;
+  fontname="Microsoft YaHei"; node [fontname="Microsoft YaHei", shape=box, style="rounded,filled", fillcolor="#f5f5f5"];
+  edge [fontname="Microsoft YaHei", fontsize=10];
+
+  // ---------- L1 用户与宿主 ----------
+  user [label="用户 (桌面/浏览器)", shape=ellipse];
+
+  // ---------- L2 前端容器 ----------
+  subgraph cluster_frontend {
+    label="frontend/ (React+TS+Vite)"; style=dashed;
+    spa [label="SPA 7+页面 routes/\nHome/Import/Edit/VoiceStudio/\nDubbing/Convert/Library/\nMemory/Workflow [H]"];
+    zustand [label="store/appStore.ts\nZustand 状态 [H]"];
+    apits [label="services/api.ts\naxios API封装 [H]"];
+    ws [label="hooks/useWebSocket.ts\n进度订阅 [H]"];
+    electron [label="electron/main.js+preload.js\n桌面壳(启动本地后端) [H]"];
+  }
+
+  // ---------- L2 后端容器 ----------
+  subgraph cluster_backend {
+    label="backend/ (FastAPI, uvicorn :8000)"; style=dashed;
+    main [label="main.py 应用入口\nCORS/日志/路由注册 [H]"];
+    api [label="api/ 9个路由\nbooks/voices/dubbing/cast/tasks/\nworkflows/llm/mineru_parse/memory [H]"];
+    svc [label="services/ 业务层 9 枚\nbook/voice/voice_online/voice_preview/\ncast/dubbing/task/memory/output_reconcile [H]"];
+    models [label="models/ SQLAlchemy\nBook+Chapter, VoiceProfile,\nDubbingProject+Role+VoiceAssignment,\nConversionTask, WorkflowTemplate, Memory [H]"];
+    db [(("SQLite\ndata/peiyinyuan.db [H]"))];
+    wsock [label="tasks.py WebSocket\n/{task_id}/progress\n进度实时推送 [H]"];
+  }
+
+  // ---------- L2 核心引擎模块 ----------
+  subgraph cluster_modules {
+    label="modules/ 核心功能引擎 (进程内 Python 库)"; style=dashed;
+    conv [label="workflow/conversion_workflow.py\nConversionWorkflow: 9阶段编排\nasyncio.create_task 在 API 进程内执行 [H]"];
+    pipe [label="workflow/pipeline.py\nPipeline: import→parse→clean→\nsplit→analyze→assign→synthesize→\npostprocess→package\n暂停/恢复/取消=asyncio.Event [H]"];
+    tracker [label="workflow/progress_tracker.py\n+ cast_pipeline_hooks.py\n+ workflow_service.py [H]"];
+    parser [label="book_parser/\nparser_factory + parsers/ (7 枚)\nchapter_detector, text_cleaner\nepub/mobi(含azw3)/pdf/txt/md/html/docx [H]"];
+    textp [label="text_processor/\nsentence_splitter, dialogue_detector,\ntone_detector, polyphone_corrector,\nnumber_normalizer, text_normalizer [H]"];
+    tts [label="tts_engine/\nengine_registry 单例(懒加载)\nengines/: voxcpm, kokoro, gptsovits,\nindextts, mosstts, openvoice, edgetts,\nazure, minimax + sample 回放档\n+ voxcpm/ 内置模型源码\nm4b_builder, audio_postprocess,\nstream_synthesizer [H]"];
+    voice [label="voice_manager/\nbuiltin_voices, voice_cloner,\nvoice_designer, voice_store,\nvoice_crawler(hf/github) [H]"];
+    llm [label="llm_client/\nllm_service + freellmapi_client\nLLM 智能分析 [H]"];
+    mineru [label="mineru_tools/\nmineru_api_client/subprocess,\npdf_classifier, office_parser [H]"];
+    memory [label="memory/transcript_formatter.py [H]"];
+    dubbing [label="cast_analyzer/ + mixer/\n角色抽取与音色匹配、BGM/SFX 混音\n(旧 dubbing_studio/ 空包 09-28 已删) [H]"];
+  }
+
+  // ---------- 外部/侧车服务 ----------
+  subgraph cluster_sidecars {
+    label="docker/ 侧车容器"; style=dashed;
+    redis [("redis:7\ncompose 遗留服务\n代码零调用(CELERY_* 仅 config 死变量) [H]")];
+    llmsvc [label="freellmapi 容器\n本地 LLM 网关 [H]"];
+    minerusvc [label="mineru 容器\nPDF 解析服务 [H]"];
+    gpu [label="NVIDIA GPU\n(torch.cuda auto/cpu) [H]"];
+  }
+  fs [label="本地文件存储 data/\nbooks/ voices/ output/*.wav\nmodels/voxcpm2 [H]", shape=file];
+
+  // ---------- 边 ----------
+  user -> spa;
+  spa -> apits -> main;
+  spa -> ws;
+  electron -> main [label="spawn 后端进程 [M]"];
+  main -> api -> svc -> models -> db;
+  api -> svc;
+  svc -> conv [label="POST /api/tasks/convert\nasyncio.create_task [H]"];
+  conv -> pipe;
+  conv -> tracker;
+  tracker -> wsock [label="get_progress 轮询循环→WS push [H]"];
+  wsock -> ws;
+
+  conv -> parser [label="parse/clean [H]"];
+  conv -> textp [label="split/analyze/assign [H]"];
+  conv -> voice [label="voice 映射 [M]"];
+  conv -> tts [label="synthesize (asyncio.to_thread) [H]"];
+  conv -> fs [label="读书籍/写音频 [H]"];
+  conv -> llm [label="analyze 增强 [M]"];
+  conv -> mineru [label="PDF 解析 [M]"];
+  api -> llm; api -> mineru; api -> memory;
+  llm -> llmsvc [label="HTTP [M]"];
+  mineru -> minerusvc [label="HTTP/子进程 [M]"];
+  voice -> gpu [label="克隆/设计推理 [M]"];
+  tts -> gpu [label="TTS 推理 [H]"];
+  tts -> fs [label="加载 voxcpm2 模型 [H]"];
+}

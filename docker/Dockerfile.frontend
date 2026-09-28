@@ -1,0 +1,25 @@
+# 配音员 Dockerfile - 前端服务
+FROM node:20-alpine
+
+LABEL maintainer="配音员开发团队"
+LABEL description="配音员 - 前端服务"
+
+WORKDIR /app
+
+# 安装依赖
+COPY frontend/package.json frontend/package-lock.json* ./
+RUN npm ci --only=production
+
+# 复制前端代码
+COPY frontend/ ./
+
+# 构建
+RUN npm run build
+
+# 使用 nginx 提供静态文件
+FROM nginx:alpine
+COPY --from=0 /app/dist /usr/share/nginx/html
+COPY docker/nginx.conf /etc/nginx/conf.d/default.conf
+
+EXPOSE 80
+CMD ["nginx", "-g", "daemon off;"]

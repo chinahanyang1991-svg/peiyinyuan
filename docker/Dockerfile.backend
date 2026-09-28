@@ -1,0 +1,43 @@
+# 配音员 Dockerfile - 后端服务
+FROM python:3.10-slim
+
+LABEL maintainer="配音员开发团队"
+LABEL description="配音员 - 下一代电子书转有声书整合工具"
+
+# 系统依赖
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    ffmpeg \
+    espeak-ng \
+    libsndfile1 \
+    libsndfile1-dev \
+    && rm -rf /var/lib/apt/lists/*
+
+# 工作目录
+WORKDIR /app
+
+# 安装 Python 依赖
+COPY pyproject.toml .
+RUN pip install --no-cache-dir -e ".[dev]"
+
+# 复制应用代码
+COPY backend/ ./backend/
+COPY modules/ ./modules/
+
+# 创建数据目录
+RUN mkdir -p data/voices data/output data/db
+
+# 环境变量
+ENV PYTHONPATH=/app
+# 指令#1：镜像自己钉了 voxcpm，档位就跟着钉 local，
+# 不依赖"引擎名反推档位"那条兜底逻辑（默认档今后再变也不会把这台镜像漂到在线档）。
+ENV TTS_TIER=local
+ENV TTS_ENGINE=voxcpm
+ENV TTS_DEVICE=cpu
+ENV REDIS_URL=redis://redis:6379/0
+ENV DATA_LOCAL_ONLY=true
+
+# 暴露端口
+EXPOSE 8000
+
+# 启动命令
+CMD ["uvicorn", "backend.main:app", "--host", "0.0.0.0", "--port", "8000"]

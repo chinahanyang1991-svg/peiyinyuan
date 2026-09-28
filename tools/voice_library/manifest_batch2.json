@@ -1,0 +1,962 @@
+[
+ {
+  "category": "animal",
+  "name": "动物-Hermit Thrush Yosemite National Park",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Hermit_Thrush_Yosemite_National_Park.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AHermit%20Thrush%20Yosemite%20National%20Park.ogg",
+  "license": "Public domain",
+  "attribution": "National Park Service",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\91ad8c99235745ee.ogg",
+  "duration_s": 7.083,
+  "peak": 0.3657,
+  "rms": 0.05275,
+  "source_sample_rate": 44100,
+  "source_bytes": 182918,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Hermit Thrush Yosemite National Park.ogg",
+  "tags": [
+   "画眉"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "animal",
+  "name": "动物-Small rooster crowing",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Small_rooster_crowing.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ASmall%20rooster%20crowing.ogg",
+  "license": "Public domain",
+  "attribution": "alys",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\c231de9437e74765.ogg",
+  "duration_s": 7.262,
+  "peak": 1.0,
+  "rms": 0.20399,
+  "source_sample_rate": 44100,
+  "source_bytes": 114105,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Small rooster crowing.ogg",
+  "tags": [
+   "鸡"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "animal",
+  "name": "动物-Glossy Ibis (Plegadis falcinellus) call",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Glossy_Ibis_%28Plegadis_falcinellus%29_call.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AGlossy%20Ibis%20%28Plegadis%20falcinellus%29%20call.ogg",
+  "license": "CC BY 4.0",
+  "attribution": "Pere Josa",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\3b9ec29c9d2d4018.ogg",
+  "duration_s": 7.347,
+  "peak": 1.0139,
+  "rms": 0.10214,
+  "source_sample_rate": 44100,
+  "source_bytes": 88740,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Glossy Ibis (Plegadis falcinellus) call.ogg",
+  "tags": [
+   "Sounds of birds"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "animal",
+  "name": "动物-Bee-Threat-Elicits-Alarm-Call-in-African-Elephants-pone.",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Bee-Threat-Elicits-Alarm-Call-in-African-Elephants-pone.0010346.s003.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ABee-Threat-Elicits-Alarm-Call-in-African-Elephants-pone.0010346.s003.ogg",
+  "license": "CC BY 2.5",
+  "attribution": "King L, Soltis J, Douglas-Hamilton I, Savage A, Vollrath F",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\671aef986d964d28.ogg",
+  "duration_s": 6.422,
+  "peak": 0.9988,
+  "rms": 0.18566,
+  "source_sample_rate": 44100,
+  "source_bytes": 40809,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Bee-Threat-Elicits-Alarm-Call-in-African-Elephants-pone.0010346.s003.ogg",
+  "tags": [
+   "大象"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "animal",
+  "name": "动物-Dove cooing",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Dove_cooing.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ADove%20cooing.ogg",
+  "license": "Public domain",
+  "attribution": "mary905",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\fa5aee9489bf49bf.ogg",
+  "duration_s": 7.863,
+  "peak": 0.4031,
+  "rms": 0.07371,
+  "source_sample_rate": 22050,
+  "source_bytes": 50644,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Dove cooing.ogg",
+  "tags": [
+   "鸽"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "animal",
+  "name": "动物-Oriental White Eye",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Oriental_White_Eye.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AOriental%20White%20Eye.ogg",
+  "license": "Public domain",
+  "attribution": "Gypsypkd",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\11caf12b492045a0.ogg",
+  "duration_s": 5.983,
+  "peak": 0.5866,
+  "rms": 0.12947,
+  "source_sample_rate": 44100,
+  "source_bytes": 109562,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Oriental White Eye.ogg",
+  "tags": [
+   "Sounds of birds recorded in India"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "animal",
+  "name": "动物-Guinea Pig Feeding Wheek",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Guinea_Pig_Feeding_Wheek.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AGuinea%20Pig%20Feeding%20Wheek.ogg",
+  "license": "Public domain",
+  "attribution": "myself",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\9cfee17c25cd4590.ogg",
+  "duration_s": 8.185,
+  "peak": 1.0259,
+  "rms": 0.13102,
+  "source_sample_rate": 11025,
+  "source_bytes": 38449,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Guinea Pig Feeding Wheek.ogg",
+  "tags": [
+   "豚鼠"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "animal",
+  "name": "动物-Sheep bleating",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Sheep_bleating.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ASheep%20bleating.ogg",
+  "license": "Public domain",
+  "attribution": "earthcalling",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\ca36b3c393234867.ogg",
+  "duration_s": 8.186,
+  "peak": 0.8629,
+  "rms": 0.11492,
+  "source_sample_rate": 44100,
+  "source_bytes": 159655,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Sheep bleating.ogg",
+  "tags": [
+   "绵羊"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "animal",
+  "name": "动物-Purring cat bertie",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Purring_cat_bertie.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3APurring%20cat%20bertie.ogg",
+  "license": "Public domain",
+  "attribution": "jim_mowatt",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\8427d7c6e6264cb5.ogg",
+  "duration_s": 8.725,
+  "peak": 0.5707,
+  "rms": 0.11246,
+  "source_sample_rate": 44100,
+  "source_bytes": 112983,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Purring cat bertie.ogg",
+  "tags": [
+   "猫呼噜"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "animal",
+  "name": "动物-Atlantic minke whale call",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Atlantic_minke_whale_call.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AAtlantic%20minke%20whale%20call.ogg",
+  "license": "Public domain",
+  "attribution": "NOAA",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\73ec424a109147f3.ogg",
+  "duration_s": 9.244,
+  "peak": 0.9759,
+  "rms": 0.13535,
+  "source_sample_rate": 8000,
+  "source_bytes": 45689,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Atlantic minke whale call.ogg",
+  "tags": [
+   "鲸"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "animal",
+  "name": "动物-Blue winged pitta - Pitta moluccensis",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Blue_winged_pitta_-_Pitta_moluccensis.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ABlue%20winged%20pitta%20-%20Pitta%20moluccensis.ogg",
+  "license": "CC BY 3.0",
+  "attribution": "Alasdair Forbes",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\3f60323de64d40df.ogg",
+  "duration_s": 9.383,
+  "peak": 0.9505,
+  "rms": 0.08792,
+  "source_sample_rate": 22050,
+  "source_bytes": 45631,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Blue winged pitta - Pitta moluccensis.ogg",
+  "tags": [
+   "Sounds of nature"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "animal",
+  "name": "动物-Bear growl",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bear_growl.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ABear%20growl.ogg",
+  "license": "CC BY 3.0",
+  "attribution": "Shizhao",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\5b9974248f1448f1.ogg",
+  "duration_s": 9.93,
+  "peak": 0.6284,
+  "rms": 0.05226,
+  "source_sample_rate": 11025,
+  "source_bytes": 64092,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Bear growl.ogg",
+  "tags": [
+   "熊"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "animal",
+  "name": "动物-Anaxyrus americanus - American Toad Vocalization",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Anaxyrus_americanus_-_American_Toad_Vocalization.wav",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AAnaxyrus%20americanus%20-%20American%20Toad%20Vocalization.wav",
+  "license": "CC BY 4.0",
+  "attribution": "SwampVids",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\a6c70df2d66542c3.wav",
+  "duration_s": 4.031,
+  "peak": 0.1178,
+  "rms": 0.03437,
+  "source_sample_rate": 48000,
+  "source_bytes": 779732,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Anaxyrus americanus - American Toad Vocalization.wav",
+  "tags": [
+   "蟾蜍"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "animal",
+  "name": "动物-New Zealand Cicada held in hand-audio",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/New_Zealand_Cicada_held_in_hand-audio.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ANew%20Zealand%20Cicada%20held%20in%20hand-audio.ogg",
+  "license": "Public domain",
+  "attribution": "Richard001",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\b8370bf48669463f.ogg",
+  "duration_s": 11.159,
+  "peak": 0.9038,
+  "rms": 0.15269,
+  "source_sample_rate": 44100,
+  "source_bytes": 339837,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:New Zealand Cicada held in hand-audio.ogg",
+  "tags": [
+   "蝉"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "animal",
+  "name": "动物-Rhinoceros Hornbill (Buceros rhinoceros) wing",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Rhinoceros_Hornbill_%28Buceros_rhinoceros%29_wing.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ARhinoceros%20Hornbill%20%28Buceros%20rhinoceros%29%20wing.ogg",
+  "license": "CC BY 3.0",
+  "attribution": "ERH",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\58efacc5f3b04ef0.ogg",
+  "duration_s": 1.795,
+  "peak": 0.2233,
+  "rms": 0.02897,
+  "source_sample_rate": 44100,
+  "source_bytes": 36419,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Rhinoceros Hornbill (Buceros rhinoceros) wing.ogg",
+  "tags": [
+   "犀牛"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "animal",
+  "name": "动物-Giggling call of a spotted hyena (Crocuta crocuta) - 147",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Giggling_call_of_a_spotted_hyena_%28Crocuta_crocuta%29_-_1472-6785-10-9-S3.oga",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AGiggling%20call%20of%20a%20spotted%20hyena%20%28Crocuta%20crocuta%29%20-%201472-6785-10-9-S3.oga",
+  "license": "CC BY 2.0",
+  "attribution": "Mathevon N, Koralek A, Weldele M, Glickman S, Theunissen F",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\5f3b6111eec2494d.ogg",
+  "duration_s": 1.023,
+  "peak": 0.768,
+  "rms": 0.14645,
+  "source_sample_rate": 44100,
+  "source_bytes": 12079,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Giggling call of a spotted hyena (Crocuta crocuta) - 1472-6785-10-9-S3.oga",
+  "tags": [
+   "鬣狗"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "electronic",
+  "name": "电子-Singapore Public Warning System siren",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Singapore_Public_Warning_System_siren.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ASingapore%20Public%20Warning%20System%20siren.ogg",
+  "license": "CC0",
+  "attribution": "Seloloving",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\66932f7414cc4c43.ogg",
+  "duration_s": 6.618,
+  "peak": 0.2312,
+  "rms": 0.04519,
+  "source_sample_rate": 44100,
+  "source_bytes": 272634,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Singapore Public Warning System siren.ogg",
+  "tags": [
+   "Sounds of warning sirens"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "electronic",
+  "name": "电子-Sine",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Sine.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ASine.ogg",
+  "license": "Public domain",
+  "attribution": "",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\dedc8a3fe82d4a7a.ogg",
+  "duration_s": 7.653,
+  "peak": 0.7065,
+  "rms": 0.49443,
+  "source_sample_rate": 48000,
+  "source_bytes": 107295,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Sine.ogg",
+  "tags": [
+   "正弦波"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "electronic",
+  "name": "电子-Theremin puccini high",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Theremin_puccini_high.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ATheremin%20puccini%20high.ogg",
+  "license": "Public domain",
+  "attribution": "Effebit",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\fcb1c9dab26b4a6f.ogg",
+  "duration_s": 6.0,
+  "peak": 0.1072,
+  "rms": 0.03387,
+  "source_sample_rate": 44100,
+  "source_bytes": 56454,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Theremin puccini high.ogg",
+  "tags": [
+   "特雷门"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "electronic",
+  "name": "电子-Toy phone line busy",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Toy_phone_line_busy.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AToy%20phone%20line%20busy.ogg",
+  "license": "Public domain",
+  "attribution": "stephan",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\fe700290a22c4d99.ogg",
+  "duration_s": 8.882,
+  "peak": 0.2051,
+  "rms": 0.03233,
+  "source_sample_rate": 44100,
+  "source_bytes": 261179,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Toy phone line busy.ogg",
+  "tags": [
+   "忙音"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "electronic",
+  "name": "电子-Dtmf example",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Dtmf_example.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ADtmf%20example.ogg",
+  "license": "Public domain",
+  "attribution": "Steven Smith",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\4d9c437be44142d1.ogg",
+  "duration_s": 5.1,
+  "peak": 0.5245,
+  "rms": 0.20093,
+  "source_sample_rate": 48000,
+  "source_bytes": 20666,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Dtmf example.ogg",
+  "tags": [
+   "按键音"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "electronic",
+  "name": "电子-Square wave 1000",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Square_wave_1000.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ASquare%20wave%201000.ogg",
+  "license": "Public domain",
+  "attribution": "",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\a752d540bdee4163.ogg",
+  "duration_s": 5.0,
+  "peak": 0.8411,
+  "rms": 0.715,
+  "source_sample_rate": 48000,
+  "source_bytes": 67465,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Square wave 1000.ogg",
+  "tags": [
+   "方波"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "electronic",
+  "name": "电子-Glitch by Wuzzy (Minetest) glitch logo sound",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Glitch_by_Wuzzy_%28Minetest%29_glitch_logo_sound.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AGlitch%20by%20Wuzzy%20%28Minetest%29%20glitch%20logo%20sound.ogg",
+  "license": "CC BY 4.0",
+  "attribution": "Wuzzy, Visager, ost1",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\b1e37a581a2a49bb.ogg",
+  "duration_s": 4.559,
+  "peak": 0.7852,
+  "rms": 0.0981,
+  "source_sample_rate": 44100,
+  "source_bytes": 104126,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Glitch by Wuzzy (Minetest) glitch logo sound.ogg",
+  "tags": [
+   "故障"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "electronic",
+  "name": "电子-Ring Modulation-Original sample",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Ring_Modulation-Original_sample.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ARing%20Modulation-Original%20sample.ogg",
+  "license": "Public domain",
+  "attribution": "Paulnasca at English Wikipedia",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\750d7b03d24f494b.ogg",
+  "duration_s": 4.26,
+  "peak": 0.7066,
+  "rms": 0.11032,
+  "source_sample_rate": 32000,
+  "source_bytes": 33632,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Ring Modulation-Original sample.ogg",
+  "tags": [
+   "环形调制"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "electronic",
+  "name": "电子-Gray noise",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Gray_noise.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AGray%20noise.ogg",
+  "license": "Public domain",
+  "attribution": "",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\fac68da8af434bd7.ogg",
+  "duration_s": 10.0,
+  "peak": 0.8881,
+  "rms": 0.23013,
+  "source_sample_rate": 48000,
+  "source_bytes": 161696,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Gray noise.ogg",
+  "tags": [
+   "白噪"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "electronic",
+  "name": "电子-Pink.Noise",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Pink.Noise.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3APink.Noise.ogg",
+  "license": "Public domain",
+  "attribution": "The original uploader was Bautsch at German Wikipedia .",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\88dbdd63d42b4531.ogg",
+  "duration_s": 10.0,
+  "peak": 0.9999,
+  "rms": 0.43037,
+  "source_sample_rate": 44000,
+  "source_bytes": 82554,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Pink.Noise.ogg",
+  "tags": [
+   "粉噪"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "electronic",
+  "name": "电子-Brownnoise-whitenoise with 12dB per octaive lowpass at 2",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Brownnoise-whitenoise_with_12dB_per_octaive_lowpass_at_20Hz_then_normalized.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ABrownnoise-whitenoise%20with%2012dB%20per%20octaive%20lowpass%20at%2020Hz%20then%20normalized.ogg",
+  "license": "Public domain",
+  "attribution": "Kermit2",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\13d9ba0a61444a19.ogg",
+  "duration_s": 10.0,
+  "peak": 0.9647,
+  "rms": 0.2653,
+  "source_sample_rate": 48000,
+  "source_bytes": 120623,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Brownnoise-whitenoise with 12dB per octaive lowpass at 20Hz then normalized.ogg",
+  "tags": [
+   "Sounds of noise"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "electronic",
+  "name": "电子-Waveform",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Waveform.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AWaveform.ogg",
+  "license": "Public domain",
+  "attribution": "Wyatt915",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\6c0324b7027944c3.ogg",
+  "duration_s": 3.0,
+  "peak": 1.1976,
+  "rms": 0.78613,
+  "source_sample_rate": 44100,
+  "source_bytes": 36429,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Waveform.ogg",
+  "tags": [
+   "锯齿波"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "electronic",
+  "name": "电子-Kba-bleep1",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Kba-bleep1.wav",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AKba-bleep1.wav",
+  "license": "CC0",
+  "attribution": "IOII-IOIO-IIOI",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\7f51c8e8314e46db.wav",
+  "duration_s": 1.0,
+  "peak": 0.8203,
+  "rms": 0.06828,
+  "source_sample_rate": 44100,
+  "source_bytes": 176444,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Kba-bleep1.wav",
+  "tags": [
+   "分类:Sound effects"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "electronic",
+  "name": "电子-Dial up connection (short)",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Dial_up_connection_%28short%29.oga",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ADial%20up%20connection%20%28short%29.oga",
+  "license": "CC0",
+  "attribution": "PDSounds: http://www.pdsounds.org/sounds/dial_up_connection",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\3a20d96ece9248f9.ogg",
+  "duration_s": 9.5,
+  "peak": 1.0044,
+  "rms": 0.16283,
+  "source_sample_rate": 44100,
+  "source_bytes": 135087,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Dial up connection (short).oga",
+  "tags": [
+   "调制解调器"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "electronic",
+  "name": "电子-Radiofax",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Radiofax.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ARadiofax.ogg",
+  "license": "Public domain",
+  "attribution": "National Weather Service, USA",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\92e71af6eb3c48ce.ogg",
+  "duration_s": 10.626,
+  "peak": 1.0449,
+  "rms": 0.23608,
+  "source_sample_rate": 44100,
+  "source_bytes": 91439,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Radiofax.ogg",
+  "tags": [
+   "传真"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "electronic",
+  "name": "电子-Same",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Same.wav",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ASame.wav",
+  "license": "Public domain",
+  "attribution": "National Oceanic and Atmospheric Administration",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\507f074c93a94058.wav",
+  "duration_s": 10.831,
+  "peak": 1.0,
+  "rms": 0.47224,
+  "source_sample_rate": 96000,
+  "source_bytes": 4159076,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Same.wav",
+  "tags": [
+   "时序信号"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "mechanical",
+  "name": "机械数码-Kyakusha-chime",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Kyakusha-chime.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AKyakusha-chime.ogg",
+  "license": "Public domain",
+  "attribution": "My SEIN",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\aa0b84d312f94230.ogg",
+  "duration_s": 6.664,
+  "peak": 1.0391,
+  "rms": 0.17095,
+  "source_sample_rate": 44100,
+  "source_bytes": 73025,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Kyakusha-chime.ogg",
+  "tags": [
+   "Sounds of rail transport in Japan"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "mechanical",
+  "name": "机械数码-WWS HomeIceCreamvan",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/WWS_HomeIceCreamvan.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AWWS%20HomeIceCreamvan.ogg",
+  "license": "CC BY 4.0",
+  "attribution": "Work With Sounds / Torsten Nilsson",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\5c79cde60e0a4f4f.ogg",
+  "duration_s": 5.699,
+  "peak": 0.1212,
+  "rms": 0.02228,
+  "source_sample_rate": 44100,
+  "source_bytes": 78425,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:WWS HomeIceCreamvan.ogg",
+  "tags": [
+   "Sounds of machinery"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "mechanical",
+  "name": "机械数码-Pocket camera start and shut down",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Pocket_camera_start_and_shut_down.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3APocket%20camera%20start%20and%20shut%20down.ogg",
+  "license": "Public domain",
+  "attribution": "stephan",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\07ad0949c25e4832.ogg",
+  "duration_s": 5.616,
+  "peak": 0.9857,
+  "rms": 0.0593,
+  "source_sample_rate": 44100,
+  "source_bytes": 186116,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Pocket camera start and shut down.ogg",
+  "tags": [
+   "机器人"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "mechanical",
+  "name": "机械数码-Train doors closing",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Train_doors_closing.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ATrain%20doors%20closing.ogg",
+  "license": "Public domain",
+  "attribution": "ezwa",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\3e93232cfda14f07.ogg",
+  "duration_s": 8.934,
+  "peak": 1.0,
+  "rms": 0.02849,
+  "source_sample_rate": 44100,
+  "source_bytes": 193775,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Train doors closing.ogg",
+  "tags": [
+   "Sounds of rail transport"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "mechanical",
+  "name": "机械数码-Open Corsa E model 2014 parking sensor sound",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Open_Corsa_E_model_2014_parking_sensor_sound.oga",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AOpen%20Corsa%20E%20model%202014%20parking%20sensor%20sound.oga",
+  "license": "Public domain",
+  "attribution": "MKFI",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\8ad30244ddc54682.ogg",
+  "duration_s": 4.973,
+  "peak": 0.1488,
+  "rms": 0.02901,
+  "source_sample_rate": 44100,
+  "source_bytes": 85722,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Open Corsa E model 2014 parking sensor sound.oga",
+  "tags": [
+   "Sounds of automobiles"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "mechanical",
+  "name": "机械数码-Back-up beeper",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Back-up_beeper.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ABack-up%20beeper.ogg",
+  "license": "CC0",
+  "attribution": "Ke4roh",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\b42d654986a34a26.ogg",
+  "duration_s": 4.713,
+  "peak": 1.4495,
+  "rms": 0.15567,
+  "source_sample_rate": 8000,
+  "source_bytes": 18944,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Back-up beeper.ogg",
+  "tags": [
+   "Sounds of road transport"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "mechanical",
+  "name": "机械数码-Vyatskoye - music - 2023-08-06 - v3",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Vyatskoye_-_music_-_2023-08-06_-_v3.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AVyatskoye%20-%20music%20-%202023-08-06%20-%20v3.ogg",
+  "license": "CC0",
+  "attribution": "Александр Сигачёв",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\fb6e59a2d50e474c.ogg",
+  "duration_s": 10.865,
+  "peak": 0.5636,
+  "rms": 0.10449,
+  "source_sample_rate": 44100,
+  "source_bytes": 5755839,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Vyatskoye - music - 2023-08-06 - v3.ogg",
+  "tags": [
+   "Sounds of Time museum"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "mechanical",
+  "name": "机械数码-Cash register",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Cash_register.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ACash%20register.ogg",
+  "license": "Public domain",
+  "attribution": "Me",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\8614f25fd6ef47c6.ogg",
+  "duration_s": 2.232,
+  "peak": 1.0244,
+  "rms": 0.19155,
+  "source_sample_rate": 44100,
+  "source_bytes": 27858,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Cash register.ogg",
+  "tags": [
+   "收银机"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "mechanical",
+  "name": "机械数码-USSR bicycle 2T engine D-4",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/USSR_bicycle_2T_engine_D-4.wav",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AUSSR%20bicycle%202T%20engine%20D-4.wav",
+  "license": "Public domain",
+  "attribution": "Віктор Ходєєв /Viktor Khodyeyev",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\5422c1812f684fef.wav",
+  "duration_s": 14.533,
+  "peak": 0.7081,
+  "rms": 0.07337,
+  "source_sample_rate": 44100,
+  "source_bytes": 2563636,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:USSR bicycle 2T engine D-4.wav",
+  "tags": [
+   "二冲程"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "mechanical",
+  "name": "机械数码-Train automatic inner door opening closing 02",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Train_automatic_inner_door_opening_closing_02.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ATrain%20automatic%20inner%20door%20opening%20closing%2002.ogg",
+  "license": "Public domain",
+  "attribution": "ezwa",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\bab4ef0a5792496c.ogg",
+  "duration_s": 14.629,
+  "peak": 0.5762,
+  "rms": 0.01386,
+  "source_sample_rate": 44100,
+  "source_bytes": 308624,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Train automatic inner door opening closing 02.ogg",
+  "tags": [
+   "自动门"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "mechanical",
+  "name": "机械数码-Sound in air plane 1",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Sound_in_air_plane_1.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ASound%20in%20air%20plane%201.ogg",
+  "license": "Public domain",
+  "attribution": "ezwa",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\e9e82442df734fd6.ogg",
+  "duration_s": 15.02,
+  "peak": 0.1577,
+  "rms": 0.02491,
+  "source_sample_rate": 44100,
+  "source_bytes": 212994,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Sound in air plane 1.ogg",
+  "tags": [
+   "刨木"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "mechanical",
+  "name": "机械数码-Springlocked cellar door",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Springlocked_cellar_door.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ASpringlocked%20cellar%20door.ogg",
+  "license": "Public domain",
+  "attribution": "stephan",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\5e925c2d6ad64bf3.ogg",
+  "duration_s": 18.181,
+  "peak": 0.8934,
+  "rms": 0.01872,
+  "source_sample_rate": 44100,
+  "source_bytes": 555747,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Springlocked cellar door.ogg",
+  "tags": [
+   "门锁"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "mechanical",
+  "name": "机械数码-Cinema projector PROYECSON",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Cinema_projector_PROYECSON.mp3",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ACinema%20projector%20PROYECSON.mp3",
+  "license": "CC BY 4.0",
+  "attribution": "Carlosjvives",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\8c3a837f5a8d4e59.mp3",
+  "duration_s": 22.268,
+  "peak": 0.2029,
+  "rms": 0.02262,
+  "source_sample_rate": 44100,
+  "source_bytes": 672936,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Cinema projector PROYECSON.mp3",
+  "tags": [
+   "放映机"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "mechanical",
+  "name": "机械数码-Helicopter over quiet neighbourhood",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Helicopter_over_quiet_neighbourhood.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AHelicopter%20over%20quiet%20neighbourhood.ogg",
+  "license": "Public domain",
+  "attribution": "ezwa",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\01d6a4e6d2444db7.ogg",
+  "duration_s": 21.995,
+  "peak": 0.0427,
+  "rms": 0.00698,
+  "source_sample_rate": 44100,
+  "source_bytes": 285418,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Helicopter over quiet neighbourhood.ogg",
+  "tags": [
+   "Sounds of air transport"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "mechanical",
+  "name": "机械数码-Draaiende wieken van Molen de Ster",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Draaiende_wieken_van_Molen_de_Ster.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ADraaiende%20wieken%20van%20Molen%20de%20Ster.ogg",
+  "license": "CC0",
+  "attribution": "Mayhooom",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\8fe11bdf470b4bfc.ogg",
+  "duration_s": 8.591,
+  "peak": 0.461,
+  "rms": 0.02728,
+  "source_sample_rate": 44100,
+  "source_bytes": 100883,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Draaiende wieken van Molen de Ster.ogg",
+  "tags": [
+   "铣床"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "mechanical",
+  "name": "机械数码-IBM M2 sound",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/IBM_M2_sound.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AIBM%20M2%20sound.ogg",
+  "license": "CC0",
+  "attribution": "Anonimski",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\9eb7c62c07cf49f1.ogg",
+  "duration_s": 4.272,
+  "peak": 0.7728,
+  "rms": 0.0423,
+  "source_sample_rate": 44100,
+  "source_bytes": 63414,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:IBM M2 sound.ogg",
+  "tags": [
+   "机械键盘"
+  ],
+  "age_group": null
+ }
+]

@@ -1,0 +1,13 @@
+{
+ "accepted": 0,
+ "rejected": 0,
+ "skipped": 0,
+ "updated": 41,
+ "dry_run": false,
+ "refresh_existing": true,
+ "by_category": {},
+ "reject_reasons": {},
+ "accepted_items": [],
+ "rejected_items": [],
+ "skipped_items": []
+}

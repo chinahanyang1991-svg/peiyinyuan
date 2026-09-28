@@ -1,0 +1,67 @@
+{
+ "generated_at": "2026-09-22T14:02:19",
+ "merged_from_shards": {
+  "aishell3": 265,
+  "vctk": 154,
+  "commons": 0
+ },
+ "candidates_merged": 419,
+ "verified_total": 419,
+ "rejected_in_verify": 0,
+ "by_source": {
+  "openslr_slr93_aishell3": 265,
+  "edinburgh_datashare_vctk": 154
+ },
+ "by_language": {
+  "zh-CN": 265,
+  "en-GB": 154
+ },
+ "by_gender": {
+  "female": 316,
+  "male": 103
+ },
+ "by_license": {
+  "Apache-2.0": 265,
+  "CC BY 4.0": 154
+ },
+ "distinct_speakers": 108,
+ "speakers_per_source": {
+  "openslr_slr93_aishell3": 73,
+  "edinburgh_datashare_vctk": 35
+ },
+ "max_per_speaker": 5,
+ "independent_wave_decode_ok": 419,
+ "gate_numbers_recomputed_from_disk": true,
+ "duration_s": {
+  "min": 3.009,
+  "mean": 4.673,
+  "max": 9.854,
+  "band": [
+   3.0,
+   10.0
+  ]
+ },
+ "verify_reject_reasons": {},
+ "bad_sample": [],
+ "gate_thresholds": {
+  "dur_min": 3.0,
+  "dur_max": 10.0,
+  "peak_min": 0.02,
+  "peak_max": 0.99,
+  "silence_ratio_max": 0.5,
+  "flat_max": 0.23349611472419174,
+  "zcr_min": 0.015,
+  "zcr_max": 0.28,
+  "mod_prom_min": 8.0,
+  "mod_fpeak_min": 1.9,
+  "mod_fpeak_max": 8.4,
+  "hnr_db_min": -6.1678280960348895,
+  "pitch_sal_min": 0.45577142382633173,
+  "pitch_cv_max": 1000000000.0,
+  "voiced_frac_min": 0.6102215602546729,
+  "spec_stab_max": 1000000000.0,
+  "quiet_corr_max": 0.8668322734600926,
+  "_calibrated_at": "2026-09-22T12:31:00",
+  "_basis": "pos=160 from {'aishell3': 80, 'vctk': 80}; speech_pass=138/160; negative_pass_rate={'sfx': 0.0429, 'overlap': 0.525, 'overlap6': 0.825, 'bgm_bed': 0.0, 'noisy': 0.0, 'tone': 0.0, 'blip': 0.025}"
+ }
+}

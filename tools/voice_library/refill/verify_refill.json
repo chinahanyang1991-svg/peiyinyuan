@@ -1,0 +1,61 @@
+{
+ "verified_total": 536,
+ "rejected_in_verify": 0,
+ "by_category": {
+  "animal": 108,
+  "electronic": 108,
+  "mechanical": 108,
+  "anime": 108,
+  "human": 104
+ },
+ "ge3s_by_category": {
+  "animal": 53,
+  "electronic": 72,
+  "mechanical": 57,
+  "anime": 70,
+  "human": 45
+ },
+ "bad": [],
+ "gen_stats": {
+  "animal": {
+   "attempted": 108,
+   "network_failed": 0,
+   "generated": 108,
+   "passed": 108,
+   "pass_rate": 1.0,
+   "wall_s": 52.8
+  },
+  "electronic": {
+   "attempted": 108,
+   "network_failed": 0,
+   "generated": 108,
+   "passed": 108,
+   "pass_rate": 1.0,
+   "wall_s": 74.1
+  },
+  "mechanical": {
+   "attempted": 108,
+   "network_failed": 0,
+   "generated": 108,
+   "passed": 108,
+   "pass_rate": 1.0,
+   "wall_s": 38.7
+  },
+  "anime": {
+   "attempted": 108,
+   "network_failed": 0,
+   "generated": 108,
+   "passed": 108,
+   "pass_rate": 1.0,
+   "wall_s": 44.0
+  },
+  "human": {
+   "attempted": 104,
+   "network_failed": 0,
+   "generated": 104,
+   "passed": 104,
+   "pass_rate": 1.0,
+   "wall_s": 33.8
+  }
+ }
+}

@@ -1,0 +1,818 @@
+{
+ "started_at": "2026-09-21T02:33:02Z",
+ "mode": "deep",
+ "target_per_category": 120,
+ "user_agent": "peiyinyuan-voice-library/1.0 (local desktop dubbing tool; one-shot personal-use fetch; no redistribution)",
+ "min_interval_s": 1.2,
+ "downloaded": 349,
+ "skipped": {
+  "not_free_audio_format": 0,
+  "oversize": 0,
+  "download_failed": 0,
+  "pronunciation_file": 0,
+  "same_family_cap": 22,
+  "license_not_allowed": 0,
+  "pre_qc_too_long": 130,
+  "pre_qc_silent": 2,
+  "pre_qc_undecodable": 3,
+  "pre_qc_too_short": 1
+ },
+ "rejected_licenses": {
+  "CC BY-SA 4.0": 332,
+  "CC BY-SA 3.0": 198,
+  "CC BY-SA 2.5": 5,
+  "GFDL": 2,
+  "Copyrighted free use": 3,
+  "CC BY 3.0 us": 2,
+  "Attribution": 1,
+  "CC BY-SA 3.0 nl": 1,
+  "CC BY 2.0 de": 1,
+  "CC BY-SA 2.0": 1,
+  "CC BY-SA 3.0 de": 1
+ },
+ "pre_qc_rejected": [
+  {
+   "title": "File:20190923 120744 indian wren warbler.ogg",
+   "reason": "too_long:50.59s>30.0s"
+  },
+  {
+   "title": "File:20200119 083339 chestnut hd beeeater.ogg",
+   "reason": "silent:peak=0.0165<0.02"
+  },
+  {
+   "title": "File:Bird call with so-called separated chirps.ogg",
+   "reason": "too_long:42.75s>30.0s"
+  },
+  {
+   "title": "File:Bird call with so-called separated chirps.ogg",
+   "reason": "too_long:42.75s>30.0s"
+  },
+  {
+   "title": "File:Cape Eagle Owl (Bubo capensis) (W1CDR0001437 BD2).ogg",
+   "reason": "too_long:100.55s>30.0s"
+  },
+  {
+   "title": "File:Squeaks and twangs of Barking Riverside Pier.ogg",
+   "reason": "too_long:64.32s>30.0s"
+  },
+  {
+   "title": "File:Bee Buzzing Sound - Animal Sounds.opus",
+   "reason": "too_long:38.01s>30.0s"
+  },
+  {
+   "title": "File:Bird sings in the morning with cars in the background.ogg",
+   "reason": "too_long:65.44s>30.0s"
+  },
+  {
+   "title": "File:Bird singing.ogg",
+   "reason": "too_long:62.56s>30.0s"
+  },
+  {
+   "title": "File:Pseudacris triseriata chorus.wav",
+   "reason": "too_long:30.49s>30.0s"
+  },
+  {
+   "title": "File:Robert Browning recites \"How They Brought The Good News From Ghent To Aix\".ogg",
+   "reason": "too_long:48.13s>30.0s"
+  },
+  {
+   "title": "File:Birds songs and cars passing by.ogg",
+   "reason": "too_long:58.28s>30.0s"
+  },
+  {
+   "title": "File:Birds singing in garden.ogg",
+   "reason": "too_long:49.48s>30.0s"
+  },
+  {
+   "title": "File:RainforestDawnChorus Selaliparai DM.ogg",
+   "reason": "too_long:39.16s>30.0s"
+  },
+  {
+   "title": "File:Spring Peeper (Pseudacris crucifer).ogg",
+   "reason": "too_long:34.97s>30.0s"
+  },
+  {
+   "title": "File:Common Blackbird song (Turdus merula).ogg",
+   "reason": "too_long:70.05s>30.0s"
+  },
+  {
+   "title": "File:Birdsong mild sunny day.ogg",
+   "reason": "too_long:36.55s>30.0s"
+  },
+  {
+   "title": "File:Parrots perroquets.ogg",
+   "reason": "too_long:93.62s>30.0s"
+  },
+  {
+   "title": "File:Spring Peeper Frogs (Pseudacris crucifer) singing on night of April 21 of 2019 in North Pittston PA.ogg",
+   "reason": "too_long:41.11s>30.0s"
+  },
+  {
+   "title": "File:Breeze birds and geese.ogg",
+   "reason": "too_long:62.67s>30.0s"
+  },
+  {
+   "title": "File:Reggelirigók.ogg",
+   "reason": "too_long:340.11s>30.0s"
+  },
+  {
+   "title": "File:Royal Natal National Park dawn chorus (W1CDR0001146 BD3).ogg",
+   "reason": "too_long:135.58s>30.0s"
+  },
+  {
+   "title": "File:Baby Wood Storks (Mycteria americana).ogg",
+   "reason": "too_long:30.46s>30.0s"
+  },
+  {
+   "title": "File:Common Potoo (Nyctibius griseus) (W1CDR0000523 BD1).ogg",
+   "reason": "too_long:120.97s>30.0s"
+  },
+  {
+   "title": "File:Red-breasted Goose call (Branta ruficollis).ogg",
+   "reason": "too_long:35.96s>30.0s"
+  },
+  {
+   "title": "File:Halsbandsittich.ogg",
+   "reason": "too_long:126.64s>30.0s"
+  },
+  {
+   "title": "File:Motacilla maderaspatensis.ogg",
+   "reason": "too_long:33.44s>30.0s"
+  },
+  {
+   "title": "File:BioAcoustica 568 2 Chorthippus lacustris 676r2.flac",
+   "reason": "too_long:30.04s>30.0s"
+  },
+  {
+   "title": "File:Simulating-Flying-Insects-Using-Dynamics-and-Data-Driven-Noise-Modeling-to-Generate-Diverse-pone.0155698.s027.ogv",
+   "reason": "undecodable:RuntimeError:ffmpeg 解码失败: [out#0/wav @ 000001f3d0860f00] Output file does not contain any stream\nError opening output file C:\\Users\\M"
+  },
+  {
+   "title": "File:30 Sekunden langer Sinuston mit 20 kHz.ogg",
+   "reason": "too_long:30.04s>30.0s"
+  },
+  {
+   "title": "File:Simulating-Flying-Insects-Using-Dynamics-and-Data-Driven-Noise-Modeling-to-Generate-Diverse-pone.0155698.s029.ogv",
+   "reason": "undecodable:RuntimeError:ffmpeg 解码失败: [out#0/wav @ 00000155ec604780] Output file does not contain any stream\nError opening output file C:\\Users\\M"
+  },
+  {
+   "title": "File:【無料フリーBGM】ダークメルヘンコーラス「ChoirWaltz」.opus",
+   "reason": "too_long:184.69s>30.0s"
+  },
+  {
+   "title": "File:Simulating-Flying-Insects-Using-Dynamics-and-Data-Driven-Noise-Modeling-to-Generate-Diverse-pone.0155698.s030.ogv",
+   "reason": "undecodable:RuntimeError:ffmpeg 解码失败: [out#0/wav @ 0000028a25610480] Output file does not contain any stream\nError opening output file C:\\Users\\M"
+  },
+  {
+   "title": "File:Flash flood emergency Tennessee.ogg",
+   "reason": "too_long:121.30s>30.0s"
+  },
+  {
+   "title": "File:Flash flood warning Tennessee.ogg",
+   "reason": "too_long:171.18s>30.0s"
+  },
+  {
+   "title": "File:Breathing into the feed.ogg",
+   "reason": "too_long:166.53s>30.0s"
+  },
+  {
+   "title": "File:Dissonance-a220-a440-slide-sawtooth.ogg",
+   "reason": "too_long:32.00s>30.0s"
+  },
+  {
+   "title": "File:NOAA Weather Radio MKE-KEC60 Weekly Test.ogg",
+   "reason": "too_long:105.08s>30.0s"
+  },
+  {
+   "title": "File:Dissonance-a220-a440-slide.ogg",
+   "reason": "too_long:32.00s>30.0s"
+  },
+  {
+   "title": "File:NWR audio Greensburg, Kansas tornado May 4, 2007.ogg",
+   "reason": "too_long:71.17s>30.0s"
+  },
+  {
+   "title": "File:Earthquake.ogg",
+   "reason": "too_long:160.08s>30.0s"
+  },
+  {
+   "title": "File:NWS forecast Columbus OH 2007-06-03.ogg",
+   "reason": "too_long:214.47s>30.0s"
+  },
+  {
+   "title": "File:Electronic interference 2.ogg",
+   "reason": "too_long:33.62s>30.0s"
+  },
+  {
+   "title": "File:Tornado Emergency Alabama.ogg",
+   "reason": "too_long:123.76s>30.0s"
+  },
+  {
+   "title": "File:Tornado warning Oklahoma.ogg",
+   "reason": "too_long:51.77s>30.0s"
+  },
+  {
+   "title": "File:Fog signal Bremerhaven.ogg",
+   "reason": "too_long:128.07s>30.0s"
+  },
+  {
+   "title": "File:Nctrnm - 01 - Concern.ogg",
+   "reason": "too_long:206.17s>30.0s"
+  },
+  {
+   "title": "File:Accept (Gravity Sound).wav",
+   "reason": "too_short:0.250s<0.3s"
+  },
+  {
+   "title": "File:Chainsaw 9.ogg",
+   "reason": "too_long:217.16s>30.0s"
+  },
+  {
+   "title": "File:Inkjet printer on and off.ogg",
+   "reason": "too_long:38.24s>30.0s"
+  },
+  {
+   "title": "File:WWS SewingMachine.ogg",
+   "reason": "too_long:63.08s>30.0s"
+  },
+  {
+   "title": "File:Maserati GranTurismo S Exhaust.ogg",
+   "reason": "too_long:66.18s>30.0s"
+  },
+  {
+   "title": "File:Drilling next door 2.ogg",
+   "reason": "too_long:113.08s>30.0s"
+  },
+  {
+   "title": "File:WWS SpringHammer.ogg",
+   "reason": "too_long:33.99s>30.0s"
+  },
+  {
+   "title": "File:WWS OverheadmonorailWuppertalSuspensionRailway.ogg",
+   "reason": "too_long:39.27s>30.0s"
+  },
+  {
+   "title": "File:St. Paul’s bell-ringing practice.oga",
+   "reason": "too_long:41.46s>30.0s"
+  },
+  {
+   "title": "File:WWS Shoemakerspecializinginshoeuppersfoldingleatheredges2.ogg",
+   "reason": "too_long:93.98s>30.0s"
+  },
+  {
+   "title": "File:LA2 kitchen clock.ogg",
+   "reason": "silent:peak=0.0174<0.02"
+  },
+  {
+   "title": "File:WWS Foghorn.ogg",
+   "reason": "too_long:133.20s>30.0s"
+  },
+  {
+   "title": "File:Nctrnm - 02 - Dealer.ogg",
+   "reason": "too_long:168.07s>30.0s"
+  },
+  {
+   "title": "File:609562 migfus20 background-music.ogg",
+   "reason": "too_long:227.60s>30.0s"
+  },
+  {
+   "title": "File:Chainsaw 11.ogg",
+   "reason": "too_long:50.05s>30.0s"
+  },
+  {
+   "title": "File:Melody chime of Funabashi city at 1630.opus",
+   "reason": "too_long:78.48s>30.0s"
+  },
+  {
+   "title": "File:Atm printer prints statement of account.ogg",
+   "reason": "too_long:65.38s>30.0s"
+  },
+  {
+   "title": "File:WWS TokyoJukiIndustrialSewingMachine.ogg",
+   "reason": "too_long:70.62s>30.0s"
+  },
+  {
+   "title": "File:KateChopin AnIdleFellow.ogg",
+   "reason": "too_long:187.17s>30.0s"
+  },
+  {
+   "title": "File:Drilling next door 5.ogg",
+   "reason": "too_long:59.53s>30.0s"
+  },
+  {
+   "title": "File:WWS OverheadmonorailWuppertalSuspensionRailway8211inside.ogg",
+   "reason": "too_long:96.47s>30.0s"
+  },
+  {
+   "title": "File:Motorsirene - Feuerwehralarm.ogg",
+   "reason": "too_long:49.67s>30.0s"
+  },
+  {
+   "title": "File:WWS Shoemakerhammeringwoodennails.ogg",
+   "reason": "too_long:43.92s>30.0s"
+  },
+  {
+   "title": "File:Nctrnm - 04 - La Femme.ogg",
+   "reason": "too_long:182.60s>30.0s"
+  },
+  {
+   "title": "File:Chainsaw 12.ogg",
+   "reason": "too_long:87.30s>30.0s"
+  },
+  {
+   "title": "File:Lmabert Talking Clock 1878.ogg",
+   "reason": "too_long:100.49s>30.0s"
+  },
+  {
+   "title": "File:Smith-Corona Prestige Auto 12 typing.ogg",
+   "reason": "too_long:40.41s>30.0s"
+  },
+  {
+   "title": "File:Star-LC-10-printer-01.ogg",
+   "reason": "too_long:37.04s>30.0s"
+  },
+  {
+   "title": "File:WWS PegasusThreadOverlockSergerIndustrialSewingMachine.ogg",
+   "reason": "too_long:70.38s>30.0s"
+  },
+  {
+   "title": "File:Impairment-of-Auditory-Motor-Timing-and-Compensatory-Reorganization-after-Ventral-Premotor-Cortex-pone.0021421.s007.ogg",
+   "reason": "too_long:166.36s>30.0s"
+  },
+  {
+   "title": "File:Drilling next door 4.ogg",
+   "reason": "too_long:56.03s>30.0s"
+  },
+  {
+   "title": "File:WWS Smithysteelforging2.ogg",
+   "reason": "too_long:115.82s>30.0s"
+  },
+  {
+   "title": "File:WWS SteamlocomotiveS06-0188211starting.ogg",
+   "reason": "too_long:57.33s>30.0s"
+  },
+  {
+   "title": "File:Civil-defense-siren-waver.ogg",
+   "reason": "too_long:76.32s>30.0s"
+  },
+  {
+   "title": "File:WWS Shoemakerspress.ogg",
+   "reason": "too_long:31.75s>30.0s"
+  },
+  {
+   "title": "File:Chainsaw 4.ogg",
+   "reason": "too_long:138.27s>30.0s"
+  },
+  {
+   "title": "File:Lullaby wound up clock guten abend gute nacht.ogg",
+   "reason": "too_long:46.45s>30.0s"
+  },
+  {
+   "title": "File:WWS EdmondsonTicketPrintingMachine.ogg",
+   "reason": "too_long:59.80s>30.0s"
+  },
+  {
+   "title": "File:WWS Shoemakerspecializinginshoeupperssewingazipperintotheshoe.ogg",
+   "reason": "too_long:151.13s>30.0s"
+  },
+  {
+   "title": "File:WWS Drivingforce.ogg",
+   "reason": "too_long:55.98s>30.0s"
+  },
+  {
+   "title": "File:Drilling next door 3.ogg",
+   "reason": "too_long:74.55s>30.0s"
+  },
+  {
+   "title": "File:WWS Railwayturntable.ogg",
+   "reason": "too_long:112.17s>30.0s"
+  },
+  {
+   "title": "File:Gelaeut Retzbach Wallfahrtskirche 14Uhr Sa 20240413 140026.ogg",
+   "reason": "too_long:147.03s>30.0s"
+  },
+  {
+   "title": "File:WWS ShoemakerHeelandedge8220rasping8221grinding.ogg",
+   "reason": "too_long:30.13s>30.0s"
+  },
+  {
+   "title": "File:Chainsaw 1.ogg",
+   "reason": "too_long:34.61s>30.0s"
+  },
+  {
+   "title": "File:Lullaby wound up clock.ogg",
+   "reason": "too_long:85.24s>30.0s"
+  },
+  {
+   "title": "File:Paper Radio - Typewriters.opus",
+   "reason": "too_long:60.05s>30.0s"
+  },
+  {
+   "title": "File:WWS Machineforsewingblockswithwire.ogg",
+   "reason": "too_long:48.39s>30.0s"
+  },
+  {
+   "title": "File:WWS PneumatichammerZ300.ogg",
+   "reason": "too_long:64.03s>30.0s"
+  },
+  {
+   "title": "File:Drilling next door 1.ogg",
+   "reason": "too_long:141.92s>30.0s"
+  },
+  {
+   "title": "File:Heilbronn Kilianskirche Gelaeut Sa 20241116 1509.ogg",
+   "reason": "too_long:111.36s>30.0s"
+  },
+  {
+   "title": "File:WWS Shoemakerspecializinginshoeuppersshoestretchingmachine.ogg",
+   "reason": "too_long:38.49s>30.0s"
+  },
+  {
+   "title": "File:BABS - Allgemeiner Alarm.ogg",
+   "reason": "too_long:61.95s>30.0s"
+  },
+  {
+   "title": "File:Chainsaw 8.ogg",
+   "reason": "too_long:52.11s>30.0s"
+  },
+  {
+   "title": "File:Gong numbers station.ogg",
+   "reason": "too_long:141.01s>30.0s"
+  },
+  {
+   "title": "File:Typing fast.ogg",
+   "reason": "too_long:32.57s>30.0s"
+  },
+  {
+   "title": "File:WWS Buttonsewingmachine.ogg",
+   "reason": "too_long:101.02s>30.0s"
+  },
+  {
+   "title": "File:WWS Bediadiesellocomotiveidling.ogg",
+   "reason": "too_long:62.04s>30.0s"
+  },
+  {
+   "title": "File:WWS LogsonwayoutfromDrumdebarker..ogg",
+   "reason": "too_long:47.73s>30.0s"
+  },
+  {
+   "title": "File:WWS Wheelwrightwoodchiseling.ogg",
+   "reason": "too_long:69.44s>30.0s"
+  },
+  {
+   "title": "File:Civil-defense-siren-constant.ogg",
+   "reason": "too_long:75.63s>30.0s"
+  },
+  {
+   "title": "File:WWS ShoemakerSolenailing.ogg",
+   "reason": "too_long:57.33s>30.0s"
+  },
+  {
+   "title": "File:BABS - Wasseralarm.ogg",
+   "reason": "too_long:180.05s>30.0s"
+  },
+  {
+   "title": "File:Campfire sound ambience.ogg",
+   "reason": "too_long:60.21s>30.0s"
+  },
+  {
+   "title": "File:Chainsaw 5.ogg",
+   "reason": "too_long:78.00s>30.0s"
+  },
+  {
+   "title": "File:Typing hunt and peck.ogg",
+   "reason": "too_long:59.64s>30.0s"
+  },
+  {
+   "title": "File:WWS Buttonholemachine.ogg",
+   "reason": "too_long:108.01s>30.0s"
+  },
+  {
+   "title": "File:WWS Wheelwrightwoodsaw.ogg",
+   "reason": "too_long:40.79s>30.0s"
+  },
+  {
+   "title": "File:Civil defense siren and missile explosions sounds in Israel during Iran war 2026.ogg",
+   "reason": "too_long:110.25s>30.0s"
+  },
+  {
+   "title": "File:Civil-defense-siren-constant.ogg",
+   "reason": "too_long:75.63s>30.0s"
+  },
+  {
+   "title": "File:WWS Chainsaw.ogg",
+   "reason": "too_long:55.85s>30.0s"
+  },
+  {
+   "title": "File:Typing medium speed.ogg",
+   "reason": "too_long:47.62s>30.0s"
+  },
+  {
+   "title": "File:WWS Glovemakermachinesewing2.ogg",
+   "reason": "too_long:72.91s>30.0s"
+  },
+  {
+   "title": "File:WWS Steamlocomotive.ogg",
+   "reason": "too_long:35.43s>30.0s"
+  },
+  {
+   "title": "File:Civil defense siren and missile explosions sounds.ogg",
+   "reason": "too_long:115.00s>30.0s"
+  },
+  {
+   "title": "File:WWS ShoemakerBrushing.ogg",
+   "reason": "too_long:48.22s>30.0s"
+  },
+  {
+   "title": "File:Civil-defense-siren-waver.ogg",
+   "reason": "too_long:76.32s>30.0s"
+  },
+  {
+   "title": "File:WWS Pneumaticchainsaw.ogg",
+   "reason": "too_long:45.61s>30.0s"
+  },
+  {
+   "title": "File:WWS Overlocksewingmachine.ogg",
+   "reason": "too_long:71.28s>30.0s"
+  },
+  {
+   "title": "File:WWS Shoemakersole8220rasping8221grinding.ogg",
+   "reason": "too_long:41.56s>30.0s"
+  },
+  {
+   "title": "File:Church bells playing in Astoria, Queens, New York City.ogg",
+   "reason": "too_long:107.09s>30.0s"
+  },
+  {
+   "title": "File:Pruning next door 4.ogg",
+   "reason": "too_long:74.19s>30.0s"
+  },
+  {
+   "title": "File:WWS Shoemakerspecializinginshoeuppersthinningofleather1.ogg",
+   "reason": "too_long:43.02s>30.0s"
+  },
+  {
+   "title": "File:WWS Shoemakerspecializinginshoeuppersthinningofleather1.ogg",
+   "reason": "too_long:43.02s>30.0s"
+  },
+  {
+   "title": "File:Pruning next door 2.ogg",
+   "reason": "too_long:30.64s>30.0s"
+  },
+  {
+   "title": "File:WWS Shoemakerspecializinginshoeuppersshoestretchingmachine.ogg",
+   "reason": "too_long:38.49s>30.0s"
+  },
+  {
+   "title": "File:Steve Combs - 13 - Motor-Driven Noise.ogg",
+   "reason": "too_long:105.48s>30.0s"
+  },
+  {
+   "title": "File:WWS ShoemakerStretching.ogg",
+   "reason": "too_long:56.12s>30.0s"
+  },
+  {
+   "title": "File:Motorsirene - Feuerwehralarm.ogg",
+   "reason": "too_long:49.67s>30.0s"
+  }
+ ],
+ "errors": [
+  "enum_budget:animal t>300s",
+  "download ProxyError: HTTPSConnectionPool(host='upload.wikimedia.org', port=443): Max retries exceeded with url:",
+  "enum_budget:mechanical t>300s"
+ ],
+ "per_category": {},
+ "counts": {
+  "animal": 109,
+  "electronic": 120,
+  "mechanical": 120
+ },
+ "cat_taken": {
+  "Category:Files from BioAcoustica": 36,
+  "Category:Audio files of animal sounds from the United States Fish and Wildlife Service": 25,
+  "Category:Audio files of cats purring": 4,
+  "Category:Audio files of cats hissing": 1,
+  "Category:Audio files of cats meowing": 1,
+  "Category:Sounds of birds": 12,
+  "Category:Dawn chorus": 3,
+  "search:frog": 2,
+  "search:cat": 5,
+  "search:horse": 1,
+  "search:insect": 4,
+  "Category:Unidentified birds by sound": 5,
+  "search:bee": 1,
+  "Category:Audio files of Aves": 9,
+  "Category:Sine wave tones": 27,
+  "Category:Reference tones": 26,
+  "Category:Overtones": 2,
+  "Category:Synthetic sounds": 20,
+  "Category:Binaural beats": 3,
+  "Category:Synthesized choirs": 3,
+  "Category:Colors of noise": 1,
+  "Category:Red noise": 3,
+  "Category:Sawtooth tones": 6,
+  "Category:Speech synthesis sounds": 18,
+  "Category:White noise": 3,
+  "Category:Singing synthesis sounds": 8,
+  "Category:Steam locomotive whistles": 1,
+  "Category:Sounds of ticking": 1,
+  "Category:Foghorns": 2,
+  "Category:Sounds of warning sirens": 7,
+  "Category:Sounds of warning sirens in Czechia": 7,
+  "Category:Vehicle horns": 1,
+  "Category:Automobile horns": 1,
+  "Category:Train horns": 12,
+  "Category:Horns (motor)": 1,
+  "Category:Sounds of drum machines": 1,
+  "Category:Sound effects": 12,
+  "Category:Audio files of sound effects": 12,
+  "Category:Files from Freesound.org": 9,
+  "search:clock": 1,
+  "search:typewriter": 6,
+  "search:motor": 9,
+  "search:shutter": 3,
+  "search:siren": 3,
+  "Category:Audio files by Gravity Sound": 10,
+  "search:hammer": 5,
+  "search:bell": 3,
+  "search:engine": 3,
+  "search:printer": 2,
+  "search:train": 1,
+  "search:drill": 6,
+  "search:lathe": 1
+ },
+ "pool_skipped": {
+  "dur_gate_too_long": 494,
+  "oversize": 620,
+  "license_not_allowed": 547,
+  "not_free_audio_format": 1569,
+  "no_duration_oversize": 46,
+  "pronunciation_file": 49,
+  "dur_gate_too_short": 1
+ },
+ "pool_by_source_cat": {
+  "Category:Files from BioAcoustica": 37,
+  "Category:Audio files of animal sounds from the United States Fish and Wildlife Service": 26,
+  "Category:Cat sounds": 0,
+  "Category:Audio files of cats purring": 5,
+  "Category:Hissing cats": 0,
+  "Category:Cats meowing": 0,
+  "Category:Videos of cat sounds": 0,
+  "Category:Videos of growling cats": 0,
+  "Category:Hissing cats in art": 0,
+  "Category:Audio files of cats hissing": 1,
+  "Category:Videos of hissing cats": 0,
+  "Category:Audio files of cats meowing": 7,
+  "Category:Me-ow": 0,
+  "Category:Meow (text)": 0,
+  "Category:Videos of cats purring": 0,
+  "Category:Dogs barking": 2,
+  "Category:Barking (text)": 0,
+  "Category:Sounds of birds": 15,
+  "Category:Audio files of Aves": 17,
+  "Category:Birdcalls (devices)": 0,
+  "Category:Birds calling": 0,
+  "Category:Sounds of birds in music": 0,
+  "Category:Singing birds": 3,
+  "Category:Birds talking": 0,
+  "Category:Dawn chorus": 6,
+  "Category:Unidentified birds by sound": 17,
+  "Category:Sine wave tones": 47,
+  "Category:Reference tones": 37,
+  "Category:Calibration cassettes": 0,
+  "Category:Overtones": 2,
+  "Category:Subharmonics": 0,
+  "Category:Harmonic series and overtone diagrams": 0,
+  "Category:String harmonics": 0,
+  "Category:Octaver (effects unit)": 0,
+  "Category:Subharmonic synthesis": 0,
+  "Category:Synthetic sounds": 83,
+  "Category:Binaural beats": 3,
+  "Category:Synthesized choirs": 4,
+  "Category:Colors of noise": 1,
+  "Category:Red noise": 3,
+  "Category:Sawtooth tones": 6,
+  "Category:Speech synthesis sounds": 30,
+  "Category:Blue noise": 0,
+  "Category:Brown noise": 0,
+  "Category:Brownian noise": 0,
+  "Category:Gray noise": 1,
+  "Category:Pink noise": 1,
+  "Category:Purple noise": 0,
+  "Category:Violet noise": 0,
+  "Category:White noise": 6,
+  "Category:Singing synthesis sounds": 8,
+  "Category:Steam whistles": 1,
+  "Category:Steam locomotive whistles": 2,
+  "Category:Steam locomotive whistles of Australia": 0,
+  "Category:Steam locomotive whistles of the United Kingdom": 0,
+  "Category:Steam locomotive whistles of the United States": 0,
+  "Category:Sounds of ticking": 4,
+  "Category:Foghorns": 3,
+  "Category:Diaphone (horn)": 0,
+  "Category:Foghorns in Europe": 1,
+  "Category:Foghorns in the United States": 0,
+  "Category:Souter Lighthouse foghorn": 0,
+  "Category:Foghorns in England": 0,
+  "Category:Foghorns in Greece": 0,
+  "Category:Foghorns in France": 0,
+  "Category:Foghorns in the Netherlands": 0,
+  "Category:Foghorns in Northern Ireland": 0,
+  "Category:Foghorns in Poland": 0,
+  "Category:Foghorns in Portugal": 0,
+  "Category:Foghorns in Scotland": 0,
+  "Category:Foghorns in Wales": 0,
+  "Category:Fog Signal Building": 0,
+  "Category:Fog signal building, Huron Islands": 0,
+  "Category:Sounds of warning sirens": 18,
+  "Category:Sounds of warning sirens in Austria": 0,
+  "Category:Sounds of warning sirens in Czechia": 7,
+  "Category:Sounds of warning sirens in Luxembourg": 0,
+  "Category:Sounds of warning sirens in Poland": 0,
+  "Category:Air raid sirens": 0,
+  "Category:Chrysler air raid siren": 0,
+  "Category:Air raid sirens in Austria": 0,
+  "Category:Air raid sirens in France": 0,
+  "Category:Air raid sirens in Italy": 0,
+  "Category:Air raid sirens in Kazakhstan": 0,
+  "Category:Air raid sirens in Portugal": 0,
+  "Category:Air raid sirens in Spain": 0,
+  "Category:Air raid sirens in the United States": 0,
+  "Category:School bells": 0,
+  "Category:Żaczek dwarf, Wrocław": 0,
+  "Category:School bells in Belgium": 0,
+  "Category:School bells in Canada": 0,
+  "Category:School bells in Germany": 0,
+  "Category:School bells in Italy": 0,
+  "Category:School bells in Kyrgyzstan": 0,
+  "Category:School bells in Taiwan": 0,
+  "Category:School bells in the United Kingdom": 0,
+  "Category:School bells in the United States": 0,
+  "Category:Vehicle horns": 1,
+  "Category:Automobile horns": 1,
+  "Category:Bulb horns": 0,
+  "Category:Electromagnetically operated horns": 0,
+  "Category:Horns regulatory road signs": 0,
+  "Category:Train horns": 14,
+  "Category:Horns (motor)": 1,
+  "Category:Signs related to automobile horns": 0,
+  "Category:Diagrams of horn mandatory road signs": 0,
+  "Category:End of horns forbidden road signs": 0,
+  "Category:Horns forbidden road signs": 0,
+  "Category:Horns regulatory road signs in Japan": 0,
+  "Category:Locomotive horns": 0,
+  "Category:Railroad crossing quiet zones": 0,
+  "Category:Whistle boards": 0,
+  "Category:Blow Horn signs": 0,
+  "Category:Horn Ok Please signs": 0,
+  "Category:Sounds of drum machines": 1,
+  "Category:Thunder sheets": 0,
+  "Category:Sound effects": 13,
+  "Category:Audio files of sound effects": 14,
+  "Category:Foley studios": 0,
+  "Category:Sound archives": 0,
+  "Category:360 Systems Instant Replay": 0,
+  "Category:Aeoliphones": 0,
+  "Category:BBC Radiophonic Workshop": 0,
+  "Category:Dummy of cannons as musical instruments": 0,
+  "Category:Electronic music": 0,
+  "Category:Foley (sound effects)": 0,
+  "Category:Lenkwil organ (1939) of Synchron Stage Vienna": 0,
+  "Category:Mellotron FX": 0,
+  "Category:SN76477": 0,
+  "Category:SN76489": 0,
+  "Category:Theatrical sound production": 0,
+  "Category:Sound effects from Free Music Archive": 3,
+  "Category:Files from Freesound.org": 43,
+  "Category:Audio files by Gravity Sound": 40
+ },
+ "pool_deep": [
+  {
+   "category": "animal",
+   "pool": 173,
+   "downloads": 137,
+   "kept": 109
+  },
+  {
+   "category": "electronic",
+   "pool": 232,
+   "downloads": 137,
+   "kept": 120
+  },
+  {
+   "category": "mechanical",
+   "pool": 326,
+   "downloads": 211,
+   "kept": 120
+  }
+ ],
+ "deep_max_depth": 2,
+ "cap_per_cat": 1000,
+ "per_cat_ingest_cap": 100,
+ "family_cap": 2,
+ "per_query_cap": 100,
+ "deep_subcat_cap": 60,
+ "enum_budget_hit": true,
+ "pool_from_categories": 167,
+ "finished_at": "2026-09-21T03:08:27Z"
+}

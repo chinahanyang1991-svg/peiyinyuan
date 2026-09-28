@@ -1,0 +1,73 @@
+# ============================================================
+# MinerU 子进程 Docker 镜像
+# ============================================================
+# 基于 MinerU 官方 Dockerfile 精简，仅保留 API 服务所需组件
+# ============================================================
+
+FROM python:3.10-slim AS builder
+
+LABEL maintainer="peiyinyuan-dev"
+LABEL description="MinerU PDF/Office 解析引擎 - 子进程部署"
+
+ENV DEBIAN_FRONTEND=noninteractive
+ENV PYTHONUNBUFFERED=1
+
+# 系统依赖
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential \
+    wget \
+    git \
+    libgl1-mesa-glx \
+    libglib2.0-0 \
+    libsm6 \
+    libxext6 \
+    libxrender-dev \
+    libgomp1 \
+    libssl-dev \
+    libffi-dev \
+    && rm -rf /var/lib/apt/lists/*
+
+WORKDIR /app
+
+# 克隆 MinerU（使用固定版本）
+RUN git clone https://github.com/opendatalab/MinerU.git /app/MinerU \
+    && cd /app/MinerU && git checkout main
+
+WORKDIR /app/MinerU
+
+# 安装 Python 依赖（忽略 torch 等由官方 Docker 处理的部分）
+RUN pip install --no-cache-dir -r docs/requirements.txt \
+    && pip install --no-cache-dir \
+        "uvicorn[standard]>=0.29.0" \
+        "python-multipart>=0.0.9" \
+        fastapi
+
+# ============================================================
+# 运行阶段
+# ============================================================
+FROM python:3.10-slim
+
+ENV DEBIAN_FRONTEND=noninteractive
+ENV PYTHONUNBUFFERED=1
+
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    libgl1-mesa-glx \
+    libglib2.0-0 \
+    libsm6 \
+    libxext6 \
+    libxrender-dev \
+    libgomp1 \
+    && rm -rf /var/lib/apt/lists/*
+
+# 从构建阶段复制 MinerU
+COPY --from=builder /usr/local/lib/python3.10/site-packages /usr/local/lib/python3.10/site-packages
+COPY --from=builder /app/MinerU /app/MinerU
+
+WORKDIR /app/MinerU
+
+# 默认启动 API 服务（端口 8001）
+EXPOSE 8001
+
+ENV MINERU_BACKEND=pipeline
+
+CMD ["python", "-m", "mineru.cli.fast_api", "--host", "0.0.0.0", "--port", "8001"]

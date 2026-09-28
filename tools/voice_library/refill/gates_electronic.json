@@ -1,0 +1,1730 @@
+[
+ {
+  "slug": "electronic-nav-000",
+  "features": {
+   "dur": 3.2382,
+   "peak": 0.8,
+   "rms": 0.0769,
+   "sil_ratio": 0.1377,
+   "flat": 0.0622,
+   "zcr": 0.0778,
+   "mod_prom": 77.0858,
+   "mod_f": 3.0571,
+   "n_act": 238
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-servo-005",
+  "features": {
+   "dur": 3.3123,
+   "peak": 0.8,
+   "rms": 0.1182,
+   "sil_ratio": 0.1021,
+   "flat": 0.0053,
+   "zcr": 0.05,
+   "mod_prom": 20.629,
+   "mod_f": 2.3107,
+   "n_act": 255
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-holo-003",
+  "features": {
+   "dur": 3.271,
+   "peak": 0.8,
+   "rms": 0.1346,
+   "sil_ratio": 0.0975,
+   "flat": 0.0763,
+   "zcr": 0.0845,
+   "mod_prom": 178.3149,
+   "mod_f": 5.7536,
+   "n_act": 250
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-modem-002",
+  "features": {
+   "dur": 2.6709,
+   "peak": 0.8,
+   "rms": 0.1044,
+   "sil_ratio": 0.2534,
+   "flat": 0.0003,
+   "zcr": 0.0586,
+   "mod_prom": 39.8619,
+   "mod_f": 4.2421,
+   "n_act": 165
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-arc-004",
+  "features": {
+   "dur": 3.086,
+   "peak": 0.8,
+   "rms": 0.1113,
+   "sil_ratio": 0.1521,
+   "flat": 0.0021,
+   "zcr": 0.1283,
+   "mod_prom": 158.6986,
+   "mod_f": 4.9905,
+   "n_act": 223
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-pad-001",
+  "features": {
+   "dur": 3.7171,
+   "peak": 0.8,
+   "rms": 0.1217,
+   "sil_ratio": 0.1006,
+   "flat": 0.1071,
+   "zcr": 0.0868,
+   "mod_prom": 73.1058,
+   "mod_f": 6.4858,
+   "n_act": 286
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-drone-007",
+  "features": {
+   "dur": 2.75,
+   "peak": 0.8,
+   "rms": 0.0688,
+   "sil_ratio": 0.1897,
+   "flat": 0.063,
+   "zcr": 0.0577,
+   "mod_prom": 73.4686,
+   "mod_f": 5.6573,
+   "n_act": 188
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-pad-009",
+  "features": {
+   "dur": 3.3939,
+   "peak": 0.8,
+   "rms": 0.1389,
+   "sil_ratio": 0.0993,
+   "flat": 0.1107,
+   "zcr": 0.0891,
+   "mod_prom": 147.5673,
+   "mod_f": 3.5317,
+   "n_act": 263
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-nav-008",
+  "features": {
+   "dur": 3.0874,
+   "peak": 0.8,
+   "rms": 0.0594,
+   "sil_ratio": 0.1544,
+   "flat": 0.0634,
+   "zcr": 0.0768,
+   "mod_prom": 67.0653,
+   "mod_f": 4.7056,
+   "n_act": 219
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-sat-006",
+  "features": {
+   "dur": 4.2695,
+   "peak": 0.8,
+   "rms": 0.157,
+   "sil_ratio": 0.185,
+   "flat": 0.0459,
+   "zcr": 0.0461,
+   "mod_prom": 189.8072,
+   "mod_f": 2.7647,
+   "n_act": 304
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-holo-011",
+  "features": {
+   "dur": 3.07,
+   "peak": 0.8,
+   "rms": 0.1245,
+   "sil_ratio": 0.082,
+   "flat": 0.0838,
+   "zcr": 0.0859,
+   "mod_prom": 171.2404,
+   "mod_f": 2.9297,
+   "n_act": 235
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-arc-012",
+  "features": {
+   "dur": 2.7369,
+   "peak": 0.8,
+   "rms": 0.1197,
+   "sil_ratio": 0.0823,
+   "flat": 0.002,
+   "zcr": 0.132,
+   "mod_prom": 42.702,
+   "mod_f": 6.0877,
+   "n_act": 212
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-modem-010",
+  "features": {
+   "dur": 2.4053,
+   "peak": 0.8,
+   "rms": 0.1168,
+   "sil_ratio": 0.2602,
+   "flat": 0.0003,
+   "zcr": 0.0729,
+   "mod_prom": 30.9221,
+   "mod_f": 5.2615,
+   "n_act": 145
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-sat-014",
+  "features": {
+   "dur": 4.316,
+   "peak": 0.8,
+   "rms": 0.1484,
+   "sil_ratio": 0.109,
+   "flat": 0.0477,
+   "zcr": 0.0586,
+   "mod_prom": 178.2424,
+   "mod_f": 4.2387,
+   "n_act": 335
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-servo-013",
+  "features": {
+   "dur": 3.5126,
+   "peak": 0.8,
+   "rms": 0.1062,
+   "sil_ratio": 0.1196,
+   "flat": 0.0058,
+   "zcr": 0.0487,
+   "mod_prom": 57.615,
+   "mod_f": 2.8032,
+   "n_act": 265
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-drone-015",
+  "features": {
+   "dur": 2.9619,
+   "peak": 0.8,
+   "rms": 0.0723,
+   "sil_ratio": 0.1619,
+   "flat": 0.0583,
+   "zcr": 0.0506,
+   "mod_prom": 76.7974,
+   "mod_f": 2.2773,
+   "n_act": 207
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-nav-016",
+  "features": {
+   "dur": 2.8262,
+   "peak": 0.8,
+   "rms": 0.0739,
+   "sil_ratio": 0.1466,
+   "flat": 0.0527,
+   "zcr": 0.0636,
+   "mod_prom": 127.3022,
+   "mod_f": 2.0205,
+   "n_act": 198
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-pad-017",
+  "features": {
+   "dur": 3.1521,
+   "peak": 0.8,
+   "rms": 0.128,
+   "sil_ratio": 0.1015,
+   "flat": 0.0897,
+   "zcr": 0.0633,
+   "mod_prom": 116.1483,
+   "mod_f": 2.4671,
+   "n_act": 239
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-servo-021",
+  "features": {
+   "dur": 3.1666,
+   "peak": 0.8,
+   "rms": 0.1374,
+   "sil_ratio": 0.0967,
+   "flat": 0.0077,
+   "zcr": 0.074,
+   "mod_prom": 139.3745,
+   "mod_f": 2.0911,
+   "n_act": 243
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-arc-020",
+  "features": {
+   "dur": 3.0461,
+   "peak": 0.8,
+   "rms": 0.1514,
+   "sil_ratio": 0.124,
+   "flat": 0.002,
+   "zcr": 0.1377,
+   "mod_prom": 72.2999,
+   "mod_f": 2.907,
+   "n_act": 226
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-holo-019",
+  "features": {
+   "dur": 3.0205,
+   "peak": 0.8,
+   "rms": 0.1579,
+   "sil_ratio": 0.1085,
+   "flat": 0.0747,
+   "zcr": 0.0649,
+   "mod_prom": 107.1627,
+   "mod_f": 2.907,
+   "n_act": 230
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-sat-022",
+  "features": {
+   "dur": 4.8311,
+   "peak": 0.8,
+   "rms": 0.1084,
+   "sil_ratio": 0.1338,
+   "flat": 0.0539,
+   "zcr": 0.066,
+   "mod_prom": 83.6867,
+   "mod_f": 4.1813,
+   "n_act": 369
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-drone-023",
+  "features": {
+   "dur": 2.946,
+   "peak": 0.8,
+   "rms": 0.0672,
+   "sil_ratio": 0.2137,
+   "flat": 0.0553,
+   "zcr": 0.0516,
+   "mod_prom": 365.2133,
+   "mod_f": 2.2681,
+   "n_act": 195
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-pad-025",
+  "features": {
+   "dur": 3.3896,
+   "peak": 0.8,
+   "rms": 0.1141,
+   "sil_ratio": 0.2595,
+   "flat": 0.111,
+   "zcr": 0.0997,
+   "mod_prom": 205.652,
+   "mod_f": 4.2171,
+   "n_act": 214
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-nav-024",
+  "features": {
+   "dur": 3.3084,
+   "peak": 0.8,
+   "rms": 0.0675,
+   "sil_ratio": 0.117,
+   "flat": 0.0593,
+   "zcr": 0.0682,
+   "mod_prom": 133.9535,
+   "mod_f": 2.3271,
+   "n_act": 249
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-servo-028",
+  "features": {
+   "dur": 3.8354,
+   "peak": 0.8,
+   "rms": 0.1433,
+   "sil_ratio": 0.1394,
+   "flat": 0.0095,
+   "zcr": 0.0639,
+   "mod_prom": 59.0863,
+   "mod_f": 4.8295,
+   "n_act": 284
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-holo-027",
+  "features": {
+   "dur": 3.8008,
+   "peak": 0.8,
+   "rms": 0.1373,
+   "sil_ratio": 0.0732,
+   "flat": 0.0883,
+   "zcr": 0.0957,
+   "mod_prom": 159.916,
+   "mod_f": 2.5724,
+   "n_act": 304
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-sat-029",
+  "features": {
+   "dur": 4.3288,
+   "peak": 0.8,
+   "rms": 0.1346,
+   "sil_ratio": 0.1032,
+   "flat": 0.0553,
+   "zcr": 0.0727,
+   "mod_prom": 243.642,
+   "mod_f": 3.2242,
+   "n_act": 339
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-drone-030",
+  "features": {
+   "dur": 3.1138,
+   "peak": 0.8,
+   "rms": 0.0901,
+   "sil_ratio": 0.1369,
+   "flat": 0.0616,
+   "zcr": 0.0535,
+   "mod_prom": 38.0521,
+   "mod_f": 4.2776,
+   "n_act": 227
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-nav-031",
+  "features": {
+   "dur": 2.6703,
+   "peak": 0.8,
+   "rms": 0.0738,
+   "sil_ratio": 0.1403,
+   "flat": 0.0619,
+   "zcr": 0.0719,
+   "mod_prom": 98.0128,
+   "mod_f": 2.9695,
+   "n_act": 190
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-holo-034",
+  "features": {
+   "dur": 3.2327,
+   "peak": 0.8,
+   "rms": 0.1682,
+   "sil_ratio": 0.0903,
+   "flat": 0.064,
+   "zcr": 0.0499,
+   "mod_prom": 39.2148,
+   "mod_f": 5.7536,
+   "n_act": 252
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-pad-032",
+  "features": {
+   "dur": 3.5257,
+   "peak": 0.8,
+   "rms": 0.1397,
+   "sil_ratio": 0.1854,
+   "flat": 0.1255,
+   "zcr": 0.1039,
+   "mod_prom": 132.0152,
+   "mod_f": 4.346,
+   "n_act": 246
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-arc-035",
+  "features": {
+   "dur": 2.7203,
+   "peak": 0.8,
+   "rms": 0.1309,
+   "sil_ratio": 0.1041,
+   "flat": 0.002,
+   "zcr": 0.1305,
+   "mod_prom": 119.9216,
+   "mod_f": 2.5452,
+   "n_act": 198
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-servo-036",
+  "features": {
+   "dur": 3.6287,
+   "peak": 0.8,
+   "rms": 0.1103,
+   "sil_ratio": 0.1122,
+   "flat": 0.0073,
+   "zcr": 0.0598,
+   "mod_prom": 21.4339,
+   "mod_f": 3.6058,
+   "n_act": 277
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-sat-037",
+  "features": {
+   "dur": 4.401,
+   "peak": 0.8,
+   "rms": 0.1378,
+   "sil_ratio": 0.1395,
+   "flat": 0.0414,
+   "zcr": 0.0429,
+   "mod_prom": 99.4007,
+   "mod_f": 2.6647,
+   "n_act": 333
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-modem-033",
+  "features": {
+   "dur": 2.7763,
+   "peak": 0.8,
+   "rms": 0.0756,
+   "sil_ratio": 0.3219,
+   "flat": 0.0003,
+   "zcr": 0.0488,
+   "mod_prom": 15.7105,
+   "mod_f": 2.0118,
+   "n_act": 158
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-drone-038",
+  "features": {
+   "dur": 2.6522,
+   "peak": 0.8,
+   "rms": 0.103,
+   "sil_ratio": 0.1045,
+   "flat": 0.0673,
+   "zcr": 0.0673,
+   "mod_prom": 125.5109,
+   "mod_f": 5.5398,
+   "n_act": 197
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-nav-039",
+  "features": {
+   "dur": 2.7957,
+   "peak": 0.8,
+   "rms": 0.0655,
+   "sil_ratio": 0.1416,
+   "flat": 0.0578,
+   "zcr": 0.0686,
+   "mod_prom": 143.9539,
+   "mod_f": 2.4142,
+   "n_act": 200
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-modem-018",
+  "features": {
+   "dur": 2.7436,
+   "peak": 0.8,
+   "rms": 0.0998,
+   "sil_ratio": 0.2424,
+   "flat": 0.0004,
+   "zcr": 0.0674,
+   "mod_prom": 76.9588,
+   "mod_f": 2.8409,
+   "n_act": 175
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-modem-026",
+  "features": {
+   "dur": 2.7756,
+   "peak": 0.8,
+   "rms": 0.0935,
+   "sil_ratio": 0.2578,
+   "flat": 0.0003,
+   "zcr": 0.0459,
+   "mod_prom": 106.3101,
+   "mod_f": 2.0833,
+   "n_act": 167
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-holo-042",
+  "features": {
+   "dur": 3.4124,
+   "peak": 0.8,
+   "rms": 0.159,
+   "sil_ratio": 0.0922,
+   "flat": 0.084,
+   "zcr": 0.0866,
+   "mod_prom": 146.6548,
+   "mod_f": 2.2398,
+   "n_act": 266
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-arc-043",
+  "features": {
+   "dur": 2.6092,
+   "peak": 0.8,
+   "rms": 0.1618,
+   "sil_ratio": 0.1065,
+   "flat": 0.002,
+   "zcr": 0.1216,
+   "mod_prom": 22.8852,
+   "mod_f": 6.0764,
+   "n_act": 193
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-pad-040",
+  "features": {
+   "dur": 3.0134,
+   "peak": 0.8,
+   "rms": 0.1282,
+   "sil_ratio": 0.0934,
+   "flat": 0.1128,
+   "zcr": 0.0958,
+   "mod_prom": 43.1737,
+   "mod_f": 2.1887,
+   "n_act": 233
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-servo-044",
+  "features": {
+   "dur": 3.0401,
+   "peak": 0.8,
+   "rms": 0.1163,
+   "sil_ratio": 0.1051,
+   "flat": 0.0063,
+   "zcr": 0.0547,
+   "mod_prom": 100.3475,
+   "mod_f": 2.1887,
+   "n_act": 230
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-sat-045",
+  "features": {
+   "dur": 4.2934,
+   "peak": 0.8,
+   "rms": 0.158,
+   "sil_ratio": 0.1463,
+   "flat": 0.0414,
+   "zcr": 0.0406,
+   "mod_prom": 61.9139,
+   "mod_f": 2.244,
+   "n_act": 321
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-nav-047",
+  "features": {
+   "dur": 2.5771,
+   "peak": 0.8,
+   "rms": 0.0658,
+   "sil_ratio": 0.1362,
+   "flat": 0.045,
+   "zcr": 0.0449,
+   "mod_prom": 250.5901,
+   "mod_f": 2.2007,
+   "n_act": 184
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-modem-049",
+  "features": {
+   "dur": 2.5822,
+   "peak": 0.8,
+   "rms": 0.0993,
+   "sil_ratio": 0.2279,
+   "flat": 0.0004,
+   "zcr": 0.0738,
+   "mod_prom": 22.9571,
+   "mod_f": 6.1047,
+   "n_act": 166
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-pad-048",
+  "features": {
+   "dur": 3.5003,
+   "peak": 0.8,
+   "rms": 0.1327,
+   "sil_ratio": 0.1405,
+   "flat": 0.0994,
+   "zcr": 0.0893,
+   "mod_prom": 33.255,
+   "mod_f": 4.3896,
+   "n_act": 257
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-drone-046",
+  "features": {
+   "dur": 3.0597,
+   "peak": 0.8,
+   "rms": 0.0736,
+   "sil_ratio": 0.2016,
+   "flat": 0.0609,
+   "zcr": 0.0606,
+   "mod_prom": 43.5555,
+   "mod_f": 5.0872,
+   "n_act": 206
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-holo-050",
+  "features": {
+   "dur": 3.855,
+   "peak": 0.8,
+   "rms": 0.1457,
+   "sil_ratio": 0.0689,
+   "flat": 0.0828,
+   "zcr": 0.0864,
+   "mod_prom": 70.0092,
+   "mod_f": 2.5262,
+   "n_act": 311
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-arc-051",
+  "features": {
+   "dur": 2.767,
+   "peak": 0.8,
+   "rms": 0.1202,
+   "sil_ratio": 0.103,
+   "flat": 0.002,
+   "zcr": 0.1214,
+   "mod_prom": 103.1084,
+   "mod_f": 2.8165,
+   "n_act": 209
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-servo-052",
+  "features": {
+   "dur": 3.6959,
+   "peak": 0.8,
+   "rms": 0.1397,
+   "sil_ratio": 0.1171,
+   "flat": 0.0077,
+   "zcr": 0.056,
+   "mod_prom": 254.6131,
+   "mod_f": 2.0767,
+   "n_act": 279
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-sat-053",
+  "features": {
+   "dur": 3.7022,
+   "peak": 0.8,
+   "rms": 0.1408,
+   "sil_ratio": 0.1599,
+   "flat": 0.0602,
+   "zcr": 0.0795,
+   "mod_prom": 28.5781,
+   "mod_f": 3.2328,
+   "n_act": 268
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-nav-055",
+  "features": {
+   "dur": 3.4437,
+   "peak": 0.8,
+   "rms": 0.0569,
+   "sil_ratio": 0.1419,
+   "flat": 0.0535,
+   "zcr": 0.0645,
+   "mod_prom": 46.9606,
+   "mod_f": 5.0676,
+   "n_act": 254
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-drone-054",
+  "features": {
+   "dur": 3.1937,
+   "peak": 0.8,
+   "rms": 0.0647,
+   "sil_ratio": 0.1875,
+   "flat": 0.0569,
+   "zcr": 0.0506,
+   "mod_prom": 200.0951,
+   "mod_f": 2.7574,
+   "n_act": 221
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-modem-056",
+  "features": {
+   "dur": 3.0599,
+   "peak": 0.8,
+   "rms": 0.0952,
+   "sil_ratio": 0.2016,
+   "flat": 0.0004,
+   "zcr": 0.0818,
+   "mod_prom": 17.3479,
+   "mod_f": 5.814,
+   "n_act": 206
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-holo-057",
+  "features": {
+   "dur": 3.6237,
+   "peak": 0.8,
+   "rms": 0.1533,
+   "sil_ratio": 0.0224,
+   "flat": 0.0814,
+   "zcr": 0.0781,
+   "mod_prom": 69.1369,
+   "mod_f": 5.1082,
+   "n_act": 305
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-arc-058",
+  "features": {
+   "dur": 2.8219,
+   "peak": 0.8,
+   "rms": 0.1118,
+   "sil_ratio": 0.0753,
+   "flat": 0.0019,
+   "zcr": 0.1104,
+   "mod_prom": 119.8284,
+   "mod_f": 2.3536,
+   "n_act": 221
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-servo-059",
+  "features": {
+   "dur": 2.9257,
+   "peak": 0.8,
+   "rms": 0.0959,
+   "sil_ratio": 0.1193,
+   "flat": 0.0062,
+   "zcr": 0.0579,
+   "mod_prom": 259.1706,
+   "mod_f": 2.7006,
+   "n_act": 214
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-sat-060",
+  "features": {
+   "dur": 4.4772,
+   "peak": 0.8,
+   "rms": 0.1295,
+   "sil_ratio": 0.1298,
+   "flat": 0.0502,
+   "zcr": 0.0526,
+   "mod_prom": 68.8849,
+   "mod_f": 3.1011,
+   "n_act": 342
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-nav-062",
+  "features": {
+   "dur": 2.6139,
+   "peak": 0.8,
+   "rms": 0.0811,
+   "sil_ratio": 0.0955,
+   "flat": 0.0425,
+   "zcr": 0.0443,
+   "mod_prom": 84.0658,
+   "mod_f": 2.5568,
+   "n_act": 199
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-drone-061",
+  "features": {
+   "dur": 2.9818,
+   "peak": 0.8,
+   "rms": 0.0506,
+   "sil_ratio": 0.1753,
+   "flat": 0.0592,
+   "zcr": 0.0526,
+   "mod_prom": 22.1138,
+   "mod_f": 6.7231,
+   "n_act": 207
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-pad-063",
+  "features": {
+   "dur": 3.0654,
+   "peak": 0.8,
+   "rms": 0.1196,
+   "sil_ratio": 0.1211,
+   "flat": 0.1153,
+   "zcr": 0.1044,
+   "mod_prom": 100.3832,
+   "mod_f": 2.1973,
+   "n_act": 225
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-servo-067",
+  "features": {
+   "dur": 3.1577,
+   "peak": 0.8,
+   "rms": 0.1147,
+   "sil_ratio": 0.1241,
+   "flat": 0.0059,
+   "zcr": 0.0653,
+   "mod_prom": 49.5708,
+   "mod_f": 2.8195,
+   "n_act": 233
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-arc-066",
+  "features": {
+   "dur": 2.4576,
+   "peak": 0.8,
+   "rms": 0.1391,
+   "sil_ratio": 0.099,
+   "flat": 0.002,
+   "zcr": 0.1562,
+   "mod_prom": 390.2404,
+   "mod_f": 2.3205,
+   "n_act": 182
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-holo-065",
+  "features": {
+   "dur": 3.5403,
+   "peak": 0.8,
+   "rms": 0.1537,
+   "sil_ratio": 0.085,
+   "flat": 0.0804,
+   "zcr": 0.0802,
+   "mod_prom": 45.5583,
+   "mod_f": 3.3701,
+   "n_act": 280
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-sat-068",
+  "features": {
+   "dur": 4.0361,
+   "peak": 0.8,
+   "rms": 0.1458,
+   "sil_ratio": 0.1108,
+   "flat": 0.0533,
+   "zcr": 0.0687,
+   "mod_prom": 37.8438,
+   "mod_f": 3.7287,
+   "n_act": 313
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-drone-069",
+  "features": {
+   "dur": 3.15,
+   "peak": 0.8,
+   "rms": 0.0808,
+   "sil_ratio": 0.1553,
+   "flat": 0.0626,
+   "zcr": 0.0559,
+   "mod_prom": 76.2587,
+   "mod_f": 3.196,
+   "n_act": 223
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-nav-070",
+  "features": {
+   "dur": 3.0609,
+   "peak": 0.8,
+   "rms": 0.0703,
+   "sil_ratio": 0.1434,
+   "flat": 0.0552,
+   "zcr": 0.0664,
+   "mod_prom": 65.3328,
+   "mod_f": 2.1802,
+   "n_act": 221
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-holo-073",
+  "features": {
+   "dur": 3.3926,
+   "peak": 0.8,
+   "rms": 0.1463,
+   "sil_ratio": 0.0997,
+   "flat": 0.0674,
+   "zcr": 0.0594,
+   "mod_prom": 36.6483,
+   "mod_f": 2.2552,
+   "n_act": 262
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-pad-071",
+  "features": {
+   "dur": 3.0527,
+   "peak": 0.8,
+   "rms": 0.1233,
+   "sil_ratio": 0.1479,
+   "flat": 0.091,
+   "zcr": 0.0769,
+   "mod_prom": 39.024,
+   "mod_f": 4.0126,
+   "n_act": 219
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-arc-074",
+  "features": {
+   "dur": 2.8164,
+   "peak": 0.8,
+   "rms": 0.096,
+   "sil_ratio": 0.1213,
+   "flat": 0.0019,
+   "zcr": 0.1138,
+   "mod_prom": 106.77,
+   "mod_f": 2.3536,
+   "n_act": 210
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-servo-075",
+  "features": {
+   "dur": 2.9986,
+   "peak": 0.8,
+   "rms": 0.1651,
+   "sil_ratio": 0.1055,
+   "flat": 0.0045,
+   "zcr": 0.0388,
+   "mod_prom": 45.5358,
+   "mod_f": 2.769,
+   "n_act": 212
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-nav-078",
+  "features": {
+   "dur": 3.4775,
+   "peak": 0.8,
+   "rms": 0.0641,
+   "sil_ratio": 0.122,
+   "flat": 0.0544,
+   "zcr": 0.0593,
+   "mod_prom": 132.1536,
+   "mod_f": 5.4025,
+   "n_act": 259
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-sat-076",
+  "features": {
+   "dur": 4.603,
+   "peak": 0.8,
+   "rms": 0.103,
+   "sil_ratio": 0.1556,
+   "flat": 0.0531,
+   "zcr": 0.0649,
+   "mod_prom": 356.0242,
+   "mod_f": 2.0833,
+   "n_act": 342
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-pad-079",
+  "features": {
+   "dur": 2.9921,
+   "peak": 0.8,
+   "rms": 0.1146,
+   "sil_ratio": 0.1186,
+   "flat": 0.0947,
+   "zcr": 0.0781,
+   "mod_prom": 65.3455,
+   "mod_f": 2.2233,
+   "n_act": 223
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-drone-077",
+  "features": {
+   "dur": 3.0329,
+   "peak": 0.8,
+   "rms": 0.0616,
+   "sil_ratio": 0.1882,
+   "flat": 0.0748,
+   "zcr": 0.0771,
+   "mod_prom": 247.1054,
+   "mod_f": 2.9412,
+   "n_act": 207
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-modem-072",
+  "features": {
+   "dur": 2.6207,
+   "peak": 0.8,
+   "rms": 0.0804,
+   "sil_ratio": 0.2925,
+   "flat": 0.0003,
+   "zcr": 0.0631,
+   "mod_prom": 53.6396,
+   "mod_f": 3.98,
+   "n_act": 150
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-modem-041",
+  "features": {
+   "dur": 2.7887,
+   "peak": 0.8,
+   "rms": 0.126,
+   "sil_ratio": 0.2478,
+   "flat": 0.0003,
+   "zcr": 0.054,
+   "mod_prom": 71.2321,
+   "mod_f": 4.1482,
+   "n_act": 170
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-modem-064",
+  "features": {
+   "dur": 2.6877,
+   "peak": 0.8,
+   "rms": 0.093,
+   "sil_ratio": 0.1982,
+   "flat": 0.0004,
+   "zcr": 0.0708,
+   "mod_prom": 74.4573,
+   "mod_f": 5.4899,
+   "n_act": 178
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-arc-082",
+  "features": {
+   "dur": 3.0129,
+   "peak": 0.8,
+   "rms": 0.1242,
+   "sil_ratio": 0.0977,
+   "flat": 0.0019,
+   "zcr": 0.0878,
+   "mod_prom": 121.4329,
+   "mod_f": 6.2256,
+   "n_act": 231
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-holo-081",
+  "features": {
+   "dur": 3.456,
+   "peak": 0.8,
+   "rms": 0.1216,
+   "sil_ratio": 0.2492,
+   "flat": 0.076,
+   "zcr": 0.0782,
+   "mod_prom": 143.1157,
+   "mod_f": 3.7879,
+   "n_act": 223
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-nav-085",
+  "features": {
+   "dur": 3.46,
+   "peak": 0.8,
+   "rms": 0.0731,
+   "sil_ratio": 0.2095,
+   "flat": 0.056,
+   "zcr": 0.0568,
+   "mod_prom": 154.8375,
+   "mod_f": 3.8007,
+   "n_act": 234
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-servo-083",
+  "features": {
+   "dur": 3.5887,
+   "peak": 0.8,
+   "rms": 0.1153,
+   "sil_ratio": 0.1036,
+   "flat": 0.0072,
+   "zcr": 0.06,
+   "mod_prom": 36.7063,
+   "mod_f": 5.1578,
+   "n_act": 277
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-drone-084",
+  "features": {
+   "dur": 3.2955,
+   "peak": 0.8,
+   "rms": 0.0646,
+   "sil_ratio": 0.1348,
+   "flat": 0.0757,
+   "zcr": 0.0751,
+   "mod_prom": 123.3919,
+   "mod_f": 2.992,
+   "n_act": 244
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-modem-080",
+  "features": {
+   "dur": 2.8638,
+   "peak": 0.8,
+   "rms": 0.1069,
+   "sil_ratio": 0.1561,
+   "flat": 0.0004,
+   "zcr": 0.0723,
+   "mod_prom": 71.4789,
+   "mod_f": 2.769,
+   "n_act": 200
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-arc-089",
+  "features": {
+   "dur": 3.0004,
+   "peak": 0.8,
+   "rms": 0.1424,
+   "sil_ratio": 0.1211,
+   "flat": 0.0019,
+   "zcr": 0.1022,
+   "mod_prom": 24.2587,
+   "mod_f": 2.5635,
+   "n_act": 225
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-servo-090",
+  "features": {
+   "dur": 3.086,
+   "peak": 0.8,
+   "rms": 0.1397,
+   "sil_ratio": 0.1559,
+   "flat": 0.0027,
+   "zcr": 0.0323,
+   "mod_prom": 33.8398,
+   "mod_f": 4.2776,
+   "n_act": 222
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-sat-091",
+  "features": {
+   "dur": 3.853,
+   "peak": 0.8,
+   "rms": 0.103,
+   "sil_ratio": 0.139,
+   "flat": 0.0516,
+   "zcr": 0.0677,
+   "mod_prom": 99.4209,
+   "mod_f": 3.682,
+   "n_act": 285
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-holo-088",
+  "features": {
+   "dur": 3.3933,
+   "peak": 0.8,
+   "rms": 0.1442,
+   "sil_ratio": 0.0828,
+   "flat": 0.0837,
+   "zcr": 0.085,
+   "mod_prom": 208.2776,
+   "mod_f": 4.5259,
+   "n_act": 266
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-pad-086",
+  "features": {
+   "dur": 3.2447,
+   "peak": 0.8,
+   "rms": 0.1629,
+   "sil_ratio": 0.0939,
+   "flat": 0.0972,
+   "zcr": 0.0781,
+   "mod_prom": 53.8198,
+   "mod_f": 4.0614,
+   "n_act": 251
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-drone-092",
+  "features": {
+   "dur": 3.1291,
+   "peak": 0.8,
+   "rms": 0.0651,
+   "sil_ratio": 0.178,
+   "flat": 0.0723,
+   "zcr": 0.0724,
+   "mod_prom": 149.4224,
+   "mod_f": 4.6165,
+   "n_act": 217
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-nav-093",
+  "features": {
+   "dur": 3.3641,
+   "peak": 0.8,
+   "rms": 0.0789,
+   "sil_ratio": 0.1315,
+   "flat": 0.0556,
+   "zcr": 0.0597,
+   "mod_prom": 39.6186,
+   "mod_f": 2.9196,
+   "n_act": 251
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-pad-094",
+  "features": {
+   "dur": 2.8976,
+   "peak": 0.8,
+   "rms": 0.1302,
+   "sil_ratio": 0.102,
+   "flat": 0.1101,
+   "zcr": 0.1026,
+   "mod_prom": 49.4343,
+   "mod_f": 4.9745,
+   "n_act": 220
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-holo-096",
+  "features": {
+   "dur": 3.2409,
+   "peak": 0.8,
+   "rms": 0.1415,
+   "sil_ratio": 0.0899,
+   "flat": 0.0855,
+   "zcr": 0.0925,
+   "mod_prom": 66.1364,
+   "mod_f": 2.3606,
+   "n_act": 253
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-arc-097",
+  "features": {
+   "dur": 3.0981,
+   "peak": 0.8,
+   "rms": 0.1385,
+   "sil_ratio": 0.0962,
+   "flat": 0.0019,
+   "zcr": 0.1022,
+   "mod_prom": 263.1532,
+   "mod_f": 2.524,
+   "n_act": 235
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-sat-099",
+  "features": {
+   "dur": 4.2307,
+   "peak": 0.8,
+   "rms": 0.1413,
+   "sil_ratio": 0.1027,
+   "flat": 0.0459,
+   "zcr": 0.0585,
+   "mod_prom": 122.3858,
+   "mod_f": 2.7872,
+   "n_act": 332
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-drone-100",
+  "features": {
+   "dur": 2.8856,
+   "peak": 0.8,
+   "rms": 0.0748,
+   "sil_ratio": 0.234,
+   "flat": 0.0616,
+   "zcr": 0.0607,
+   "mod_prom": 52.4411,
+   "mod_f": 2.3936,
+   "n_act": 180
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-nav-101",
+  "features": {
+   "dur": 3.0104,
+   "peak": 0.8,
+   "rms": 0.0689,
+   "sil_ratio": 0.1211,
+   "flat": 0.0429,
+   "zcr": 0.0529,
+   "mod_prom": 70.4436,
+   "mod_f": 5.127,
+   "n_act": 225
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-servo-098",
+  "features": {
+   "dur": 3.3803,
+   "peak": 0.8,
+   "rms": 0.136,
+   "sil_ratio": 0.125,
+   "flat": 0.0057,
+   "zcr": 0.0512,
+   "mod_prom": 116.5272,
+   "mod_f": 4.2318,
+   "n_act": 252
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-pad-102",
+  "features": {
+   "dur": 3.1827,
+   "peak": 0.8,
+   "rms": 0.1502,
+   "sil_ratio": 0.1319,
+   "flat": 0.1076,
+   "zcr": 0.0877,
+   "mod_prom": 110.551,
+   "mod_f": 2.0604,
+   "n_act": 237
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-holo-104",
+  "features": {
+   "dur": 3.6797,
+   "peak": 0.8,
+   "rms": 0.1512,
+   "sil_ratio": 0.0946,
+   "flat": 0.0833,
+   "zcr": 0.0985,
+   "mod_prom": 57.6461,
+   "mod_f": 3.5489,
+   "n_act": 287
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-servo-106",
+  "features": {
+   "dur": 3.6315,
+   "peak": 0.8,
+   "rms": 0.108,
+   "sil_ratio": 0.0825,
+   "flat": 0.0053,
+   "zcr": 0.0524,
+   "mod_prom": 27.2279,
+   "mod_f": 5.5693,
+   "n_act": 278
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-sat-107",
+  "features": {
+   "dur": 3.5937,
+   "peak": 0.8,
+   "rms": 0.1242,
+   "sil_ratio": 0.2039,
+   "flat": 0.0578,
+   "zcr": 0.0814,
+   "mod_prom": 195.311,
+   "mod_f": 4.8544,
+   "n_act": 246
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-arc-105",
+  "features": {
+   "dur": 2.9278,
+   "peak": 0.8,
+   "rms": 0.1132,
+   "sil_ratio": 0.1048,
+   "flat": 0.002,
+   "zcr": 0.1342,
+   "mod_prom": 72.9082,
+   "mod_f": 2.2681,
+   "n_act": 222
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-modem-103",
+  "features": {
+   "dur": 2.2845,
+   "peak": 0.8,
+   "rms": 0.1008,
+   "sil_ratio": 0.189,
+   "flat": 0.0003,
+   "zcr": 0.0425,
+   "mod_prom": 85.4033,
+   "mod_f": 2.2866,
+   "n_act": 133
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-modem-087",
+  "features": {
+   "dur": 2.2381,
+   "peak": 0.8,
+   "rms": 0.0889,
+   "sil_ratio": 0.2346,
+   "flat": 0.0003,
+   "zcr": 0.0735,
+   "mod_prom": 16.2794,
+   "mod_f": 4.1899,
+   "n_act": 137
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "electronic-modem-095",
+  "features": {
+   "dur": 2.3773,
+   "peak": 0.8,
+   "rms": 0.087,
+   "sil_ratio": 0.2591,
+   "flat": 0.0003,
+   "zcr": 0.0524,
+   "mod_prom": 107.6593,
+   "mod_f": 2.4288,
+   "n_act": 143
+  },
+  "pass": true,
+  "reasons": []
+ }
+]

@@ -1,0 +1,13 @@
+{
+ "category": "human",
+ "attempted": 104,
+ "network_failed": 0,
+ "decoded_failed": 0,
+ "generated": 104,
+ "passed": 104,
+ "reject_reasons": {},
+ "network_errors": {},
+ "pass_rate": 1.0,
+ "total_passed_in_shard": 104,
+ "wall_s": 33.8
+}

@@ -1,0 +1,89 @@
+{
+ "_note": "ASR 终判(2026-09-22 15:31, faster-whisper small/int8)：source=sample 老数据 30 条逐条转录，12 条零字符=原始音效，按用户口径(三类必须是能说话的人声变体)判 BAD。名称独立佐证:Sheep bleating/WWS SteamWhistle/Toy phone line busy/Drill-Concert Band 等。",
+ "records": [
+  {
+   "id": "12b4a6f7-eecd-59b2-a6fb-ce65866a24e4",
+   "bucket": "VERDICT-BAD",
+   "category": "animal",
+   "name": "动物-Mares-Prefer-the-Voices-of-Highly-Fertile-Stallions-pone",
+   "asr_chars": 0
+  },
+  {
+   "id": "b2969fc6-fe21-5429-bf84-abcbdef3f9be",
+   "bucket": "VERDICT-BAD",
+   "category": "mechanical",
+   "name": "机械数码-WWS SteamWhistle",
+   "asr_chars": 0
+  },
+  {
+   "id": "acd11469-2635-519c-a5b0-9a9f8a63994a",
+   "bucket": "VERDICT-BAD",
+   "category": "animal",
+   "name": "动物-Sheep bleating",
+   "asr_chars": 0
+  },
+  {
+   "id": "fb77416c-f9a0-535a-b2ce-30e158d1fc9e",
+   "bucket": "VERDICT-BAD",
+   "category": "electronic",
+   "name": "电子-Toy phone line busy",
+   "asr_chars": 0
+  },
+  {
+   "id": "e4f90568-6fdb-535d-8033-df64d1bbfa47",
+   "bucket": "VERDICT-BAD",
+   "category": "animal",
+   "name": "动物-Elkbellow",
+   "asr_chars": 0
+  },
+  {
+   "id": "6c261d41-95fd-5c9f-af56-b0e79c0e40a2",
+   "bucket": "VERDICT-BAD",
+   "category": "animal",
+   "name": "动物-Geese Honking (loud)",
+   "asr_chars": 0
+  },
+  {
+   "id": "cf6e6ccd-6454-51f2-90c1-50b9183ee837",
+   "bucket": "VERDICT-BAD",
+   "category": "animal",
+   "name": "动物-BioAcoustica 570 31 Chorthippus 717r21",
+   "asr_chars": 0
+  },
+  {
+   "id": "5a41db56-a844-5c4c-858d-9c48c0bdde07",
+   "bucket": "VERDICT-BAD",
+   "category": "electronic",
+   "name": "电子-Echo samples",
+   "asr_chars": 0
+  },
+  {
+   "id": "e7da68ed-f3b4-55b2-8256-dca71c7175e3",
+   "bucket": "VERDICT-BAD",
+   "category": "electronic",
+   "name": "电子-Espeak sampel ms",
+   "asr_chars": 0
+  },
+  {
+   "id": "bd59935e-947b-5bf6-b214-f451dc4f2501",
+   "bucket": "VERDICT-BAD",
+   "category": "mechanical",
+   "name": "机械数码-Boing raw",
+   "asr_chars": 0
+  },
+  {
+   "id": "0fe0021b-b91d-5e8c-91e6-78bcc0f81d08",
+   "bucket": "VERDICT-BAD",
+   "category": "mechanical",
+   "name": "机械数码-Mini Crescente Finale",
+   "asr_chars": 0
+  },
+  {
+   "id": "afcd7208-a900-54d2-8067-b28e693257a5",
+   "bucket": "VERDICT-BAD",
+   "category": "mechanical",
+   "name": "机械数码-Drill - Concert Band - United States Air Force Heritage ",
+   "asr_chars": 0
+  }
+ ]
+}

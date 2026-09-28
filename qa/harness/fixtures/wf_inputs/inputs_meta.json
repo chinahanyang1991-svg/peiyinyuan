@@ -1,0 +1,19 @@
+{
+  "title": "雨夜药铺",
+  "expected_chapters": 4,
+  "expected_chapter_titles": [
+    "第一章 雨夜来客",
+    "第二章 后院竹筐",
+    "第三章 半行小楷",
+    "第四章 子时开门"
+  ],
+  "plain_char_count": 699,
+  "plain_text_len": 760,
+  "chapters_chars": {
+    "第一章 雨夜来客": 170,
+    "第二章 后院竹筐": 171,
+    "第三章 半行小楷": 161,
+    "第四章 子时开门": 165
+  },
+  "real_mobi_fixture_exists": true
+}

@@ -1,0 +1,4 @@
+{
+  "_note": "纯补录用的空审计清单：apply_purge_refill.py 需要一个 --verdicts 文件，本文件让 purge 集合为空。",
+  "records": []
+}

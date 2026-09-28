@@ -1,0 +1,822 @@
+[
+ {
+  "category": "animal",
+  "name": "动物-Meow of a pleading cat",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Meow_of_a_pleading_cat.oga",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AMeow%20of%20a%20pleading%20cat.oga",
+  "license": "Public domain",
+  "attribution": "Heismark",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\df313d63c377453f.oga",
+  "duration_s": 11.852,
+  "peak": 0.7022,
+  "rms": 0.0807,
+  "source_sample_rate": 8000,
+  "source_bytes": 33297,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Meow of a pleading cat.oga",
+  "tags": [
+   "猫叫"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "animal",
+  "name": "动物-Meow of a Siamese cat - freemaster2",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Meow_of_a_Siamese_cat_-_freemaster2.wav",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AMeow%20of%20a%20Siamese%20cat%20-%20freemaster2.wav",
+  "license": "CC0",
+  "attribution": "freemaster2",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\7c023deac4e8422c.wav",
+  "duration_s": 1.517,
+  "peak": 1.0,
+  "rms": 0.17199,
+  "source_sample_rate": 44100,
+  "source_bytes": 133814,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Meow of a Siamese cat - freemaster2.wav",
+  "tags": [
+   "猫叫"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "animal",
+  "name": "动物-2015-11-24.νιαούρισμα.Νιάου.noise reduced",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/2015-11-24.%CE%BD%CE%B9%CE%B1%CE%BF%CF%8D%CF%81%CE%B9%CF%83%CE%BC%CE%B1.%CE%9D%CE%B9%CE%AC%CE%BF%CF%85.noise_reduced.flac",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3A2015-11-24.%CE%BD%CE%B9%CE%B1%CE%BF%CF%8D%CF%81%CE%B9%CF%83%CE%BC%CE%B1.%CE%9D%CE%B9%CE%AC%CE%BF%CF%85.noise%20reduced.flac",
+  "license": "CC0",
+  "attribution": "Tsester",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\9af24bea7a594dbc.flac",
+  "duration_s": 1.155,
+  "peak": 0.1168,
+  "rms": 0.0196,
+  "source_sample_rate": 48000,
+  "source_bytes": 31346,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:2015-11-24.νιαούρισμα.Νιάου.noise reduced.flac",
+  "tags": [
+   "猫叫"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "animal",
+  "name": "动物-Maullido de gata hembra joven",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Maullido_de_gata_hembra_joven.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AMaullido%20de%20gata%20hembra%20joven.ogg",
+  "license": "CC0",
+  "attribution": "George Miquilena",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\86e1c1402d614e94.ogg",
+  "duration_s": 1.152,
+  "peak": 0.5907,
+  "rms": 0.20396,
+  "source_sample_rate": 44100,
+  "source_bytes": 26917,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Maullido de gata hembra joven.ogg",
+  "tags": [
+   "猫叫"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "animal",
+  "name": "动物-Cynomys ludovicianus barking-audio",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Cynomys_ludovicianus_barking-audio.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ACynomys%20ludovicianus%20barking-audio.ogg",
+  "license": "Public domain",
+  "attribution": "W0lfie",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\43e6b2728c074ab5.ogg",
+  "duration_s": 4.0,
+  "peak": 0.4528,
+  "rms": 0.09806,
+  "source_sample_rate": 8000,
+  "source_bytes": 18375,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Cynomys ludovicianus barking-audio.ogg",
+  "tags": [
+   "狗叫"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "animal",
+  "name": "动物-Personality-of-Wild-Male-Crested-Macaques-(Macaca-nigra)",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Personality-of-Wild-Male-Crested-Macaques-%28Macaca-nigra%29-pone.0069383.s001.oga",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3APersonality-of-Wild-Male-Crested-Macaques-%28Macaca-nigra%29-pone.0069383.s001.oga",
+  "license": "CC BY 2.5",
+  "attribution": "Neumann C, Agil M, Widdig A, Engelhardt A",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\f9f283ffd38048ca.oga",
+  "duration_s": 2.93,
+  "peak": 0.8792,
+  "rms": 0.10192,
+  "source_sample_rate": 44100,
+  "source_bytes": 16199,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Personality-of-Wild-Male-Crested-Macaques-(Macaca-nigra)-pone.0069383.s001.oga",
+  "tags": [
+   "狗叫"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "animal",
+  "name": "动物-Voice Test Error",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Voice_Test_Error.wav",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AVoice%20Test%20Error.wav",
+  "license": "CC0",
+  "attribution": "Kineticsquid",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\2bc238f4ce944da9.wav",
+  "duration_s": 19.371,
+  "peak": 0.9807,
+  "rms": 0.07953,
+  "source_sample_rate": 8000,
+  "source_bytes": 310016,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Voice Test Error.wav",
+  "tags": [
+   "狗叫"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "animal",
+  "name": "动物-Bark (avk)",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Bark_%28avk%29.wav",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ABark%20%28avk%29.wav",
+  "license": "CC0",
+  "attribution": "Luce VERGNEAUX",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\cf218d8eec8b49a6.wav",
+  "duration_s": 0.9,
+  "peak": 0.5154,
+  "rms": 0.04767,
+  "source_sample_rate": 16000,
+  "source_bytes": 28844,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Bark (avk).wav",
+  "tags": [
+   "狗叫"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "animal",
+  "name": "动物-Guira guira 340477",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Guira_guira_340477.wav",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AGuira%20guira%20340477.wav",
+  "license": "CC0",
+  "attribution": "Tiago Lubiana",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\2c4ed8886b894ed2.wav",
+  "duration_s": 6.125,
+  "peak": 0.3662,
+  "rms": 0.02253,
+  "source_sample_rate": 48000,
+  "source_bytes": 588044,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Guira guira 340477.wav",
+  "tags": [
+   "鸟鸣"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "animal",
+  "name": "动物-Wiehern",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Wiehern.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AWiehern.ogg",
+  "license": "Public domain",
+  "attribution": "Hü .",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\96d016ec1bbf4ca3.ogg",
+  "duration_s": 2.273,
+  "peak": 0.2323,
+  "rms": 0.03513,
+  "source_sample_rate": 44100,
+  "source_bytes": 17541,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Wiehern.ogg",
+  "tags": [
+   "马嘶"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "animal",
+  "name": "动物-Mares-Prefer-the-Voices-of-Highly-Fertile-Stallions-pone",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Mares-Prefer-the-Voices-of-Highly-Fertile-Stallions-pone.0118468.s003.oga",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AMares-Prefer-the-Voices-of-Highly-Fertile-Stallions-pone.0118468.s003.oga",
+  "license": "CC BY 4.0",
+  "attribution": "Lemasson A, Remeuf K, Trabalon M, Cuir F, Hausberger M",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\1f93e3b24c924035.oga",
+  "duration_s": 3.992,
+  "peak": 0.7664,
+  "rms": 0.11386,
+  "source_sample_rate": 44100,
+  "source_bytes": 37923,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Mares-Prefer-the-Voices-of-Highly-Fertile-Stallions-pone.0118468.s003.oga",
+  "tags": [
+   "马嘶"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "animal",
+  "name": "动物-Mares-Prefer-the-Voices-of-Highly-Fertile-Stallions-pone",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Mares-Prefer-the-Voices-of-Highly-Fertile-Stallions-pone.0118468.s004.oga",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AMares-Prefer-the-Voices-of-Highly-Fertile-Stallions-pone.0118468.s004.oga",
+  "license": "CC BY 4.0",
+  "attribution": "Lemasson A, Remeuf K, Trabalon M, Cuir F, Hausberger M",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\46b59d4f38224c38.oga",
+  "duration_s": 3.357,
+  "peak": 0.4455,
+  "rms": 0.08046,
+  "source_sample_rate": 44100,
+  "source_bytes": 31100,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Mares-Prefer-the-Voices-of-Highly-Fertile-Stallions-pone.0118468.s004.oga",
+  "tags": [
+   "马嘶"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "electronic",
+  "name": "电子-Laser (Gravity Sound)",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Laser_%28Gravity_Sound%29.mp3",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ALaser%20%28Gravity%20Sound%29.mp3",
+  "license": "CC BY 4.0",
+  "attribution": "Gravity Sound",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\766784079d734e53.mp3",
+  "duration_s": 4.075,
+  "peak": 0.5857,
+  "rms": 0.06234,
+  "source_sample_rate": 44100,
+  "source_bytes": 61148,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Laser (Gravity Sound).mp3",
+  "tags": [
+   "激光"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "electronic",
+  "name": "电子-Laser 8 (Gravity Sound)",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Laser_8_%28Gravity_Sound%29.wav",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ALaser%208%20%28Gravity%20Sound%29.wav",
+  "license": "CC BY 4.0",
+  "attribution": "Gravity Sound",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\eeda2a6095364efe.wav",
+  "duration_s": 5.0,
+  "peak": 0.2333,
+  "rms": 0.05416,
+  "source_sample_rate": 44100,
+  "source_bytes": 1325840,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Laser 8 (Gravity Sound).wav",
+  "tags": [
+   "激光"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "electronic",
+  "name": "电子-Laser 7 (Gravity Sound)",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Laser_7_%28Gravity_Sound%29.wav",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ALaser%207%20%28Gravity%20Sound%29.wav",
+  "license": "CC BY 4.0",
+  "attribution": "Gravity Sound",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\7583858a61774640.wav",
+  "duration_s": 1.5,
+  "peak": 0.7219,
+  "rms": 0.17842,
+  "source_sample_rate": 44100,
+  "source_bytes": 398514,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Laser 7 (Gravity Sound).wav",
+  "tags": [
+   "激光"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "electronic",
+  "name": "电子-Laser 1 (Gravity Sound)",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Laser_1_%28Gravity_Sound%29.wav",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ALaser%201%20%28Gravity%20Sound%29.wav",
+  "license": "CC BY 4.0",
+  "attribution": "Gravity Sound",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\c62894ba098c4da3.wav",
+  "duration_s": 1.0,
+  "peak": 0.2283,
+  "rms": 0.06752,
+  "source_sample_rate": 44100,
+  "source_bytes": 266036,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Laser 1 (Gravity Sound).wav",
+  "tags": [
+   "激光"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "electronic",
+  "name": "电子-Heart Monitor Beep--freesound.org",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Heart_Monitor_Beep--freesound.org.oga",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AHeart%20Monitor%20Beep--freesound.org.oga",
+  "license": "CC0",
+  "attribution": "samfk360",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\8d5c2765094c45b5.oga",
+  "duration_s": 27.96,
+  "peak": 0.1289,
+  "rms": 0.04633,
+  "source_sample_rate": 44100,
+  "source_bytes": 161621,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Heart Monitor Beep--freesound.org.oga",
+  "tags": [
+   "电子提示音"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "electronic",
+  "name": "电子-Heart Monitor Beep--freesound.org",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Heart_Monitor_Beep--freesound.org.mp3",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AHeart%20Monitor%20Beep--freesound.org.mp3",
+  "license": "CC0",
+  "attribution": "samfk360",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\6cff6dec7bcb4292.mp3",
+  "duration_s": 27.899,
+  "peak": 0.1149,
+  "rms": 0.04849,
+  "source_sample_rate": 44100,
+  "source_bytes": 1114992,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Heart Monitor Beep--freesound.org.mp3",
+  "tags": [
+   "电子提示音"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "electronic",
+  "name": "电子-Beep example",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Beep_example.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ABeep%20example.ogg",
+  "license": "Public domain",
+  "attribution": "",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\3413bdd6f2804d18.ogg",
+  "duration_s": 2.0,
+  "peak": 0.5052,
+  "rms": 0.35356,
+  "source_sample_rate": 44100,
+  "source_bytes": 15336,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Beep example.ogg",
+  "tags": [
+   "电子提示音"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "electronic",
+  "name": "电子-NEC PC-9801VX ITF beep sound",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/NEC_PC-9801VX_ITF_beep_sound.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ANEC%20PC-9801VX%20ITF%20beep%20sound.ogg",
+  "license": "CC0",
+  "attribution": "Darklanlan",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\a6dc968833364cd5.ogg",
+  "duration_s": 0.64,
+  "peak": 0.0679,
+  "rms": 0.04115,
+  "source_sample_rate": 44100,
+  "source_bytes": 11729,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:NEC PC-9801VX ITF beep sound.ogg",
+  "tags": [
+   "电子提示音"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "electronic",
+  "name": "电子-Jump Arcade (Gravity Sound)",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Jump_Arcade_%28Gravity_Sound%29.mp3",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AJump%20Arcade%20%28Gravity%20Sound%29.mp3",
+  "license": "CC BY 4.0",
+  "attribution": "Gravity Sound",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\aad8fc3c1ed04131.mp3",
+  "duration_s": 0.575,
+  "peak": 0.5562,
+  "rms": 0.18436,
+  "source_sample_rate": 44100,
+  "source_bytes": 12142,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Jump Arcade (Gravity Sound).mp3",
+  "tags": [
+   "街机"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "electronic",
+  "name": "电子-Lo-Res Legend",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Lo-Res_Legend.wav",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ALo-Res%20Legend.wav",
+  "license": "CC0",
+  "attribution": "NenhumaFênix",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\f3b42ac9c97446a5.wav",
+  "duration_s": 27.429,
+  "peak": 0.7365,
+  "rms": 0.15011,
+  "source_sample_rate": 44100,
+  "source_bytes": 7257644,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Lo-Res Legend.wav",
+  "tags": [
+   "芯片音"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "electronic",
+  "name": "电子-Melody vibrating synth",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Melody_vibrating_synth.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AMelody%20vibrating%20synth.ogg",
+  "license": "Public domain",
+  "attribution": "stephan",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\7e3665da7f2d42e4.ogg",
+  "duration_s": 10.815,
+  "peak": 0.8332,
+  "rms": 0.11521,
+  "source_sample_rate": 44100,
+  "source_bytes": 360730,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Melody vibrating synth.ogg",
+  "tags": [
+   "合成器"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "electronic",
+  "name": "电子-Synth filter sweeps",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Synth_filter_sweeps.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ASynth%20filter%20sweeps.ogg",
+  "license": "Public domain",
+  "attribution": "No machine-readable author provided. Syblex~commonswiki assumed (based on copyright claims).",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\33210a7ac8424b4e.ogg",
+  "duration_s": 10.221,
+  "peak": 0.5999,
+  "rms": 0.11051,
+  "source_sample_rate": 44100,
+  "source_bytes": 75139,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Synth filter sweeps.ogg",
+  "tags": [
+   "合成器"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "mechanical",
+  "name": "机械数码-1997AccordSE enginestart",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/1997AccordSE_enginestart.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3A1997AccordSE%20enginestart.ogg",
+  "license": "CC0",
+  "attribution": "X5DragonFire",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\f9fcacf320fc437f.ogg",
+  "duration_s": 8.0,
+  "peak": 0.7978,
+  "rms": 0.07769,
+  "source_sample_rate": 48000,
+  "source_bytes": 112368,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:1997AccordSE enginestart.ogg",
+  "tags": [
+   "引擎启动"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "mechanical",
+  "name": "机械数码-Open Corsa E model 2014 engine startup sound",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Open_Corsa_E_model_2014_engine_startup_sound.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AOpen%20Corsa%20E%20model%202014%20engine%20startup%20sound.ogg",
+  "license": "Public domain",
+  "attribution": "MKFI",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\06dc7a4f23ce4235.ogg",
+  "duration_s": 3.958,
+  "peak": 0.3271,
+  "rms": 0.04246,
+  "source_sample_rate": 44100,
+  "source_bytes": 68675,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Open Corsa E model 2014 engine startup sound.ogg",
+  "tags": [
+   "引擎启动"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "mechanical",
+  "name": "机械数码-Clock ticking",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Clock_ticking.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AClock%20ticking.ogg",
+  "license": "Public domain",
+  "attribution": "natalie",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\f54680496ae848f4.ogg",
+  "duration_s": 18.051,
+  "peak": 0.3618,
+  "rms": 0.01991,
+  "source_sample_rate": 44100,
+  "source_bytes": 504069,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Clock ticking.ogg",
+  "tags": [
+   "钟表滴答"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "mechanical",
+  "name": "机械数码-Alarm clock ticking",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Alarm_clock_ticking.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AAlarm%20clock%20ticking.ogg",
+  "license": "Public domain",
+  "attribution": "ezwa",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\3461d8ac59dc4515.ogg",
+  "duration_s": 20.271,
+  "peak": 0.052,
+  "rms": 0.00161,
+  "source_sample_rate": 44100,
+  "source_bytes": 273711,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Alarm clock ticking.ogg",
+  "tags": [
+   "钟表滴答"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "mechanical",
+  "name": "机械数码-RAVAG-Pausenzeichen",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/RAVAG-Pausenzeichen.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ARAVAG-Pausenzeichen.ogg",
+  "license": "Public domain",
+  "attribution": "none",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\e8c8130db4ec4165.ogg",
+  "duration_s": 28.709,
+  "peak": 0.7145,
+  "rms": 0.06151,
+  "source_sample_rate": 44100,
+  "source_bytes": 321407,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:RAVAG-Pausenzeichen.ogg",
+  "tags": [
+   "钟表滴答"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "mechanical",
+  "name": "机械数码-Chainsaw 10",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Chainsaw_10.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AChainsaw%2010.ogg",
+  "license": "Public domain",
+  "attribution": "ezwa",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\158e688c194f476b.ogg",
+  "duration_s": 9.822,
+  "peak": 0.0982,
+  "rms": 0.00988,
+  "source_sample_rate": 44100,
+  "source_bytes": 137278,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Chainsaw 10.ogg",
+  "tags": [
+   "链锯"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "mechanical",
+  "name": "机械数码-Chainsaw 3",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Chainsaw_3.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AChainsaw%203.ogg",
+  "license": "Public domain",
+  "attribution": "ezwa",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\53d38fea9b424e27.ogg",
+  "duration_s": 13.218,
+  "peak": 0.1982,
+  "rms": 0.01994,
+  "source_sample_rate": 44100,
+  "source_bytes": 183902,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Chainsaw 3.ogg",
+  "tags": [
+   "链锯"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "mechanical",
+  "name": "机械数码-Chainsaw 2",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Chainsaw_2.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AChainsaw%202.ogg",
+  "license": "Public domain",
+  "attribution": "ezwa",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\ba27d229ff1d4dc2.ogg",
+  "duration_s": 20.402,
+  "peak": 0.1624,
+  "rms": 0.00868,
+  "source_sample_rate": 44100,
+  "source_bytes": 280694,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Chainsaw 2.ogg",
+  "tags": [
+   "链锯"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "mechanical",
+  "name": "机械数码-Chainsaw 6",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Chainsaw_6.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AChainsaw%206.ogg",
+  "license": "Public domain",
+  "attribution": "ezwa",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\899e3976f9b342b7.ogg",
+  "duration_s": 15.83,
+  "peak": 0.1747,
+  "rms": 0.01606,
+  "source_sample_rate": 44100,
+  "source_bytes": 218732,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Chainsaw 6.ogg",
+  "tags": [
+   "链锯"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "mechanical",
+  "name": "机械数码-Steam Whistle at Georgia Tech",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Steam_Whistle_at_Georgia_Tech.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3ASteam%20Whistle%20at%20Georgia%20Tech.ogg",
+  "license": "CC0",
+  "attribution": "Zeroping",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\33ceed7ab20945e0.ogg",
+  "duration_s": 19.925,
+  "peak": 0.9624,
+  "rms": 0.14278,
+  "source_sample_rate": 48000,
+  "source_bytes": 397712,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Steam Whistle at Georgia Tech.ogg",
+  "tags": [
+   "汽笛"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "mechanical",
+  "name": "机械数码-WWS SteamWhistle",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/WWS_SteamWhistle.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AWWS%20SteamWhistle.ogg",
+  "license": "CC BY 4.0",
+  "attribution": "Work With Sounds / Konrad Gutkowski",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\b0f9f102650a44f3.ogg",
+  "duration_s": 11.019,
+  "peak": 0.3639,
+  "rms": 0.06189,
+  "source_sample_rate": 44100,
+  "source_bytes": 134484,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:WWS SteamWhistle.ogg",
+  "tags": [
+   "汽笛"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "mechanical",
+  "name": "机械数码-WWS TractionEngineWhistle",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/WWS_TractionEngineWhistle.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AWWS%20TractionEngineWhistle.ogg",
+  "license": "CC BY 4.0",
+  "attribution": "Work With Sounds / Technical Museum of Slovenia",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\8634a1125e0746cb.ogg",
+  "duration_s": 18.647,
+  "peak": 0.9499,
+  "rms": 0.36076,
+  "source_sample_rate": 48000,
+  "source_bytes": 206642,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:WWS TractionEngineWhistle.ogg",
+  "tags": [
+   "汽笛"
+  ],
+  "age_group": null
+ },
+ {
+  "category": "human",
+  "name": "人声-Child-implant-users-imitation-of-happy--and-sad-sounding",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Child-implant-users-imitation-of-happy--and-sad-sounding-speech-Audio6.oga",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AChild-implant-users-imitation-of-happy--and-sad-sounding-speech-Audio6.oga",
+  "license": "CC BY 3.0",
+  "attribution": "Wang D, Trehub S, Volkova A, van Lieshout P",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\505ecf07dfe74c18.oga",
+  "duration_s": 2.561,
+  "peak": 1.0351,
+  "rms": 0.24691,
+  "source_sample_rate": 44100,
+  "source_bytes": 18823,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Child-implant-users-imitation-of-happy--and-sad-sounding-speech-Audio6.oga",
+  "tags": [
+   "儿童声"
+  ],
+  "age_group": "child"
+ },
+ {
+  "category": "human",
+  "name": "人声-Child-implant-users-imitation-of-happy--and-sad-sounding",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Child-implant-users-imitation-of-happy--and-sad-sounding-speech-Audio4.oga",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AChild-implant-users-imitation-of-happy--and-sad-sounding-speech-Audio4.oga",
+  "license": "CC BY 3.0",
+  "attribution": "Wang D, Trehub S, Volkova A, van Lieshout P",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\4b640948d6ba423d.oga",
+  "duration_s": 2.556,
+  "peak": 0.4638,
+  "rms": 0.07503,
+  "source_sample_rate": 44100,
+  "source_bytes": 25724,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Child-implant-users-imitation-of-happy--and-sad-sounding-speech-Audio4.oga",
+  "tags": [
+   "儿童声"
+  ],
+  "age_group": "child"
+ },
+ {
+  "category": "human",
+  "name": "人声-Auditory-Motor-Learning-during-Speech-Production-in-9-11",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Auditory-Motor-Learning-during-Speech-Production-in-9-11-Year-Old-Children-pone.0012975.s002.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AAuditory-Motor-Learning-during-Speech-Production-in-9-11-Year-Old-Children-pone.0012975.s002.ogg",
+  "license": "CC BY 2.5",
+  "attribution": "Shiller D, Gracco V, Rvachew S",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\3e83824bcdd6484f.ogg",
+  "duration_s": 7.513,
+  "peak": 0.1712,
+  "rms": 0.01661,
+  "source_sample_rate": 44100,
+  "source_bytes": 60283,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Auditory-Motor-Learning-during-Speech-Production-in-9-11-Year-Old-Children-pone.0012975.s002.ogg",
+  "tags": [
+   "儿童声"
+  ],
+  "age_group": "child"
+ },
+ {
+  "category": "human",
+  "name": "人声-Auditory-Motor-Learning-during-Speech-Production-in-9-11",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Auditory-Motor-Learning-during-Speech-Production-in-9-11-Year-Old-Children-pone.0012975.s001.ogg",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AAuditory-Motor-Learning-during-Speech-Production-in-9-11-Year-Old-Children-pone.0012975.s001.ogg",
+  "license": "CC BY 2.5",
+  "attribution": "Shiller D, Gracco V, Rvachew S",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\0f7dc2332c6f46ed.ogg",
+  "duration_s": 7.504,
+  "peak": 0.2711,
+  "rms": 0.02498,
+  "source_sample_rate": 44100,
+  "source_bytes": 61782,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Auditory-Motor-Learning-during-Speech-Production-in-9-11-Year-Old-Children-pone.0012975.s001.ogg",
+  "tags": [
+   "儿童声"
+  ],
+  "age_group": "child"
+ },
+ {
+  "category": "human",
+  "name": "人声-Korky Paul audio intro",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Korky_Paul_audio_intro.mp3",
+  "page_url": "https://commons.wikimedia.org/wiki/File%3AKorky%20Paul%20audio%20intro.mp3",
+  "license": "CC0",
+  "attribution": "Mvolz",
+  "local_file": "D:\\程序开发\\PYY\\peiyinyuan\\data\\voices\\library\\incoming\\7432e0d9c2ee4dcc.mp3",
+  "duration_s": 19.104,
+  "peak": 0.985,
+  "rms": 0.20637,
+  "source_sample_rate": 48000,
+  "source_bytes": 130686,
+  "source_site": "wikimedia_commons",
+  "upstream_title": "File:Korky Paul audio intro.mp3",
+  "tags": [
+   "童声样张"
+  ],
+  "age_group": null
+ }
+]

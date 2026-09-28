@@ -1,0 +1,20 @@
+{
+ "source": "vctk",
+ "candidates": 210,
+ "accepted": 154,
+ "rejected_records": 56,
+ "reason_hist": {
+  "under_3s": 4,
+  "weak_pitch_saliency": 14,
+  "too_little_voiced_speech": 11,
+  "speaker_cap_5": 15,
+  "spectral_flatness_high": 11,
+  "over_10s_no_cutting": 6,
+  "low_harmonicity(no_voice)": 9,
+  "steady_bed_in_gaps(music_suspect)": 1
+ },
+ "speakers_accepted": 35,
+ "per_speaker_max": 5,
+ "mean_dur": 5.227,
+ "wall_s": 127.9
+}

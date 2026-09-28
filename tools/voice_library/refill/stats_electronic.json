@@ -1,0 +1,13 @@
+{
+ "category": "electronic",
+ "attempted": 108,
+ "network_failed": 0,
+ "decoded_failed": 0,
+ "generated": 108,
+ "passed": 108,
+ "reject_reasons": {},
+ "network_errors": {},
+ "pass_rate": 1.0,
+ "total_passed_in_shard": 108,
+ "wall_s": 74.1
+}

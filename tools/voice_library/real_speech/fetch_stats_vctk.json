@@ -1,0 +1,24 @@
+{
+ "source": "vctk",
+ "started_at": "2026-09-22T12:02:07",
+ "errors": [],
+ "blocked": null,
+ "audio_kind": "FLAC 44.1kHz mono (silence trimmed)",
+ "zip_bytes": 11747302977,
+ "url": "https://datashare.ed.ac.uk/server/api/core/bitstreams/535f4286-e54c-4038-838c-a02285e32cb2/content",
+ "central_directory": "cached(133135 entries)",
+ "demographics_file": "speaker-info.txt",
+ "demographics_n": 109,
+ "flac_bytes_per_second_used": 48500.0,
+ "ratio_measured_from": 0,
+ "speakers_with_candidates": 109,
+ "candidates": 210,
+ "http": {
+  "requests": 257,
+  "bytes": 79317116,
+  "retries": 0,
+  "http_4xx": {},
+  "blocked": null
+ },
+ "finished_at": "2026-09-22T12:13:08"
+}

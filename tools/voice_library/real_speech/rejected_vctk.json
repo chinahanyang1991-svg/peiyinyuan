@@ -1,0 +1,921 @@
+[
+ {
+  "slug": "vctk-p225-017",
+  "reasons": [
+   "under_3s"
+  ],
+  "dur": 2.898
+ },
+ {
+  "slug": "vctk-p226-002",
+  "reasons": [
+   "under_3s"
+  ],
+  "dur": 2.938
+ },
+ {
+  "slug": "vctk-p227-131",
+  "reasons": [
+   "weak_pitch_saliency",
+   "too_little_voiced_speech"
+  ],
+  "gate": {
+   "dur": 4.659,
+   "peak": 0.7,
+   "rms": 0.0684,
+   "sil_ratio": 0.2448,
+   "flat": 0.1761,
+   "zcr": 0.068,
+   "mod_prom": 599.1593,
+   "mod_f": 3.6621,
+   "n_act": 290,
+   "hnr_db": -2.9456,
+   "pitch_sal": 0.426,
+   "pitch_cv": 0.449,
+   "voiced_frac": 0.5345,
+   "spec_stab": 0.8876,
+   "quiet_corr": 0.7702,
+   "f0_med": 119.7
+  }
+ },
+ {
+  "slug": "vctk-p227-177",
+  "reasons": [
+   "weak_pitch_saliency",
+   "too_little_voiced_speech"
+  ],
+  "gate": {
+   "dur": 3.6381,
+   "peak": 0.7,
+   "rms": 0.059,
+   "sil_ratio": 0.1486,
+   "flat": 0.1894,
+   "zcr": 0.0705,
+   "mod_prom": 148.2881,
+   "mod_f": 2.3777,
+   "n_act": 235,
+   "hnr_db": -5.153,
+   "pitch_sal": 0.4437,
+   "pitch_cv": 0.4487,
+   "voiced_frac": 0.5872,
+   "spec_stab": 0.8897,
+   "quiet_corr": 0.7445,
+   "f0_med": 115.8
+  }
+ },
+ {
+  "slug": "vctk-p228-217",
+  "reasons": [
+   "speaker_cap_5"
+  ]
+ },
+ {
+  "slug": "vctk-p229-242",
+  "reasons": [
+   "spectral_flatness_high"
+  ],
+  "gate": {
+   "dur": 3.6318,
+   "peak": 0.7,
+   "rms": 0.0872,
+   "sil_ratio": 0.0777,
+   "flat": 0.2444,
+   "zcr": 0.1055,
+   "mod_prom": 237.1321,
+   "mod_f": 3.3127,
+   "n_act": 261,
+   "hnr_db": -0.5311,
+   "pitch_sal": 0.5635,
+   "pitch_cv": 0.4528,
+   "voiced_frac": 0.7241,
+   "spec_stab": 0.8969,
+   "quiet_corr": 0.7713,
+   "f0_med": 183.9
+  }
+ },
+ {
+  "slug": "vctk-p230-386",
+  "reasons": [
+   "speaker_cap_5"
+  ]
+ },
+ {
+  "slug": "vctk-p231-013",
+  "reasons": [
+   "speaker_cap_5"
+  ]
+ },
+ {
+  "slug": "vctk-p232-221",
+  "reasons": [
+   "speaker_cap_5"
+  ]
+ },
+ {
+  "slug": "vctk-p233-138",
+  "reasons": [
+   "spectral_flatness_high"
+  ],
+  "gate": {
+   "dur": 3.9378,
+   "peak": 0.7984,
+   "rms": 0.0702,
+   "sil_ratio": 0.1132,
+   "flat": 0.2366,
+   "zcr": 0.0854,
+   "mod_prom": 76.9989,
+   "mod_f": 4.2453,
+   "n_act": 235,
+   "hnr_db": 0.9864,
+   "pitch_sal": 0.6061,
+   "pitch_cv": 0.2023,
+   "voiced_frac": 0.766,
+   "spec_stab": 0.8885,
+   "quiet_corr": 0.7172,
+   "f0_med": 211.9
+  }
+ },
+ {
+  "slug": "vctk-p233-280",
+  "reasons": [
+   "spectral_flatness_high"
+  ],
+  "gate": {
+   "dur": 3.7725,
+   "peak": 0.582,
+   "rms": 0.0686,
+   "sil_ratio": 0.0528,
+   "flat": 0.2647,
+   "zcr": 0.0948,
+   "mod_prom": 49.5359,
+   "mod_f": 2.2866,
+   "n_act": 233,
+   "hnr_db": -0.8516,
+   "pitch_sal": 0.6128,
+   "pitch_cv": 0.1474,
+   "voiced_frac": 0.7425,
+   "spec_stab": 0.9007,
+   "quiet_corr": 0.7161,
+   "f0_med": 200.0
+  }
+ },
+ {
+  "slug": "vctk-p234-240",
+  "reasons": [
+   "speaker_cap_5"
+  ]
+ },
+ {
+  "slug": "vctk-p236-023",
+  "reasons": [
+   "over_10s_no_cutting"
+  ],
+  "dur": 10.361
+ },
+ {
+  "slug": "vctk-p236-003",
+  "reasons": [
+   "low_harmonicity(no_voice)"
+  ],
+  "gate": {
+   "dur": 6.148,
+   "peak": 0.7,
+   "rms": 0.0723,
+   "sil_ratio": 0.0908,
+   "flat": 0.2277,
+   "zcr": 0.0702,
+   "mod_prom": 153.6205,
+   "mod_f": 2.2035,
+   "n_act": 521,
+   "hnr_db": -11.0261,
+   "pitch_sal": 0.5926,
+   "pitch_cv": 0.2579,
+   "voiced_frac": 0.8234,
+   "spec_stab": 0.7413,
+   "quiet_corr": 0.5619,
+   "f0_med": 301.9
+  }
+ },
+ {
+  "slug": "vctk-p236-065",
+  "reasons": [
+   "low_harmonicity(no_voice)"
+  ],
+  "gate": {
+   "dur": 4.3563,
+   "peak": 0.7,
+   "rms": 0.0874,
+   "sil_ratio": 0.0162,
+   "flat": 0.1911,
+   "zcr": 0.0481,
+   "mod_prom": 250.4195,
+   "mod_f": 4.5608,
+   "n_act": 364,
+   "hnr_db": -9.485,
+   "pitch_sal": 0.6075,
+   "pitch_cv": 0.2505,
+   "voiced_frac": 0.8956,
+   "spec_stab": 0.8849,
+   "quiet_corr": 0.6721,
+   "f0_med": 301.9
+  }
+ },
+ {
+  "slug": "vctk-p237-023",
+  "reasons": [
+   "over_10s_no_cutting"
+  ],
+  "dur": 10.489
+ },
+ {
+  "slug": "vctk-p237-068",
+  "reasons": [
+   "weak_pitch_saliency",
+   "too_little_voiced_speech"
+  ],
+  "gate": {
+   "dur": 4.8067,
+   "peak": 0.7,
+   "rms": 0.0894,
+   "sil_ratio": 0.278,
+   "flat": 0.1492,
+   "zcr": 0.0418,
+   "mod_prom": 121.9642,
+   "mod_f": 4.7923,
+   "n_act": 226,
+   "hnr_db": -1.4145,
+   "pitch_sal": 0.4267,
+   "pitch_cv": 1.043,
+   "voiced_frac": 0.5487,
+   "spec_stab": 0.9046,
+   "quiet_corr": 0.7556,
+   "f0_med": 84.5
+  }
+ },
+ {
+  "slug": "vctk-p237-139",
+  "reasons": [
+   "weak_pitch_saliency",
+   "too_little_voiced_speech"
+  ],
+  "gate": {
+   "dur": 4.4056,
+   "peak": 0.7,
+   "rms": 0.0653,
+   "sil_ratio": 0.4015,
+   "flat": 0.1943,
+   "zcr": 0.0574,
+   "mod_prom": 138.098,
+   "mod_f": 4.8491,
+   "n_act": 243,
+   "hnr_db": -2.4542,
+   "pitch_sal": 0.4117,
+   "pitch_cv": 1.4436,
+   "voiced_frac": 0.5432,
+   "spec_stab": 0.8896,
+   "quiet_corr": 0.7647,
+   "f0_med": 85.5
+  }
+ },
+ {
+  "slug": "vctk-p237-017",
+  "reasons": [
+   "low_harmonicity(no_voice)"
+  ],
+  "gate": {
+   "dur": 4.24,
+   "peak": 0.7,
+   "rms": 0.0862,
+   "sil_ratio": 0.0553,
+   "flat": 0.1759,
+   "zcr": 0.0493,
+   "mod_prom": 160.1939,
+   "mod_f": 3.4562,
+   "n_act": 205,
+   "hnr_db": -7.1841,
+   "pitch_sal": 0.4604,
+   "pitch_cv": 0.7525,
+   "voiced_frac": 0.678,
+   "spec_stab": 0.9078,
+   "quiet_corr": 0.7661,
+   "f0_med": 80.7
+  }
+ },
+ {
+  "slug": "vctk-p238-271",
+  "reasons": [
+   "spectral_flatness_high"
+  ],
+  "gate": {
+   "dur": 3.5777,
+   "peak": 0.8588,
+   "rms": 0.0702,
+   "sil_ratio": 0.126,
+   "flat": 0.2411,
+   "zcr": 0.1114,
+   "mod_prom": 75.4773,
+   "mod_f": 5.0095,
+   "n_act": 229,
+   "hnr_db": -4.0596,
+   "pitch_sal": 0.6106,
+   "pitch_cv": 0.2742,
+   "voiced_frac": 0.7642,
+   "spec_stab": 0.8987,
+   "quiet_corr": 0.7532,
+   "f0_med": 205.1
+  }
+ },
+ {
+  "slug": "vctk-p238-236",
+  "reasons": [
+   "under_3s"
+  ],
+  "dur": 2.909
+ },
+ {
+  "slug": "vctk-p239-281",
+  "reasons": [
+   "spectral_flatness_high"
+  ],
+  "gate": {
+   "dur": 4.696,
+   "peak": 0.5544,
+   "rms": 0.0751,
+   "sil_ratio": 0.1425,
+   "flat": 0.2542,
+   "zcr": 0.0852,
+   "mod_prom": 337.4843,
+   "mod_f": 2.095,
+   "n_act": 307,
+   "hnr_db": -1.4021,
+   "pitch_sal": 0.5807,
+   "pitch_cv": 0.2402,
+   "voiced_frac": 0.7134,
+   "spec_stab": 0.8931,
+   "quiet_corr": 0.7655,
+   "f0_med": 195.1
+  }
+ },
+ {
+  "slug": "vctk-p239-048",
+  "reasons": [
+   "spectral_flatness_high"
+  ],
+  "gate": {
+   "dur": 4.2041,
+   "peak": 0.5866,
+   "rms": 0.0575,
+   "sil_ratio": 0.2808,
+   "flat": 0.2641,
+   "zcr": 0.0966,
+   "mod_prom": 87.9423,
+   "mod_f": 5.9097,
+   "n_act": 251,
+   "hnr_db": -4.4393,
+   "pitch_sal": 0.5926,
+   "pitch_cv": 0.3882,
+   "voiced_frac": 0.757,
+   "spec_stab": 0.8941,
+   "quiet_corr": 0.7551,
+   "f0_med": 188.2
+  }
+ },
+ {
+  "slug": "vctk-p239-136",
+  "reasons": [
+   "low_harmonicity(no_voice)"
+  ],
+  "gate": {
+   "dur": 4.3528,
+   "peak": 0.7,
+   "rms": 0.0709,
+   "sil_ratio": 0.1309,
+   "flat": 0.1864,
+   "zcr": 0.0381,
+   "mod_prom": 91.6061,
+   "mod_f": 2.0833,
+   "n_act": 352,
+   "hnr_db": -13.8602,
+   "pitch_sal": 0.6665,
+   "pitch_cv": 0.2705,
+   "voiced_frac": 0.8295,
+   "spec_stab": 0.8923,
+   "quiet_corr": 0.7697,
+   "f0_med": 400.0
+  }
+ },
+ {
+  "slug": "vctk-p240-027",
+  "reasons": [
+   "spectral_flatness_high"
+  ],
+  "gate": {
+   "dur": 4.6522,
+   "peak": 0.7163,
+   "rms": 0.061,
+   "sil_ratio": 0.106,
+   "flat": 0.243,
+   "zcr": 0.0907,
+   "mod_prom": 190.1511,
+   "mod_f": 4.5666,
+   "n_act": 312,
+   "hnr_db": -2.485,
+   "pitch_sal": 0.5763,
+   "pitch_cv": 0.2127,
+   "voiced_frac": 0.7083,
+   "spec_stab": 0.8773,
+   "quiet_corr": 0.7183,
+   "f0_med": 219.2
+  }
+ },
+ {
+  "slug": "vctk-p240-052",
+  "reasons": [
+   "spectral_flatness_high"
+  ],
+  "gate": {
+   "dur": 4.4457,
+   "peak": 0.7,
+   "rms": 0.0923,
+   "sil_ratio": 0.2506,
+   "flat": 0.2397,
+   "zcr": 0.0709,
+   "mod_prom": 48.8784,
+   "mod_f": 3.9547,
+   "n_act": 302,
+   "hnr_db": -2.0285,
+   "pitch_sal": 0.6022,
+   "pitch_cv": 0.214,
+   "voiced_frac": 0.745,
+   "spec_stab": 0.8897,
+   "quiet_corr": 0.7646,
+   "f0_med": 228.6
+  }
+ },
+ {
+  "slug": "vctk-p241-023",
+  "reasons": [
+   "over_10s_no_cutting"
+  ],
+  "dur": 10.314
+ },
+ {
+  "slug": "vctk-p241-304",
+  "reasons": [
+   "weak_pitch_saliency",
+   "too_little_voiced_speech"
+  ],
+  "gate": {
+   "dur": 4.4156,
+   "peak": 0.7,
+   "rms": 0.112,
+   "sil_ratio": 0.0478,
+   "flat": 0.2247,
+   "zcr": 0.0829,
+   "mod_prom": 47.7628,
+   "mod_f": 2.068,
+   "n_act": 259,
+   "hnr_db": -5.5195,
+   "pitch_sal": 0.4492,
+   "pitch_cv": 0.4558,
+   "voiced_frac": 0.6023,
+   "spec_stab": 0.8867,
+   "quiet_corr": 0.7464,
+   "f0_med": 118.8
+  }
+ },
+ {
+  "slug": "vctk-p241-093",
+  "reasons": [
+   "weak_pitch_saliency",
+   "too_little_voiced_speech"
+  ],
+  "gate": {
+   "dur": 3.7874,
+   "peak": 0.6374,
+   "rms": 0.0608,
+   "sil_ratio": 0.2257,
+   "flat": 0.193,
+   "zcr": 0.0612,
+   "mod_prom": 147.8187,
+   "mod_f": 4.4083,
+   "n_act": 247,
+   "hnr_db": -5.1289,
+   "pitch_sal": 0.4387,
+   "pitch_cv": 0.7049,
+   "voiced_frac": 0.6032,
+   "spec_stab": 0.8825,
+   "quiet_corr": 0.7636,
+   "f0_med": 113.7
+  }
+ },
+ {
+  "slug": "vctk-p243-035",
+  "reasons": [
+   "over_10s_no_cutting"
+  ],
+  "dur": 13.672
+ },
+ {
+  "slug": "vctk-p243-367",
+  "reasons": [
+   "steady_bed_in_gaps(music_suspect)"
+  ],
+  "gate": {
+   "dur": 4.351,
+   "peak": 0.5014,
+   "rms": 0.0542,
+   "sil_ratio": 0.2461,
+   "flat": 0.0863,
+   "zcr": 0.0218,
+   "mod_prom": 229.1865,
+   "mod_f": 2.0444,
+   "n_act": 242,
+   "hnr_db": 0.9532,
+   "pitch_sal": 0.683,
+   "pitch_cv": 0.1736,
+   "voiced_frac": 0.9545,
+   "spec_stab": 0.9516,
+   "quiet_corr": 0.8775,
+   "f0_med": 118.2
+  }
+ },
+ {
+  "slug": "vctk-p244-103",
+  "reasons": [
+   "speaker_cap_5"
+  ]
+ },
+ {
+  "slug": "vctk-p245-021",
+  "reasons": [
+   "over_10s_no_cutting"
+  ],
+  "dur": 10.098
+ },
+ {
+  "slug": "vctk-p246-176",
+  "reasons": [
+   "weak_pitch_saliency"
+  ],
+  "gate": {
+   "dur": 5.1447,
+   "peak": 0.7,
+   "rms": 0.0909,
+   "sil_ratio": 0.2176,
+   "flat": 0.2274,
+   "zcr": 0.0946,
+   "mod_prom": 421.586,
+   "mod_f": 2.2059,
+   "n_act": 266,
+   "hnr_db": -3.5514,
+   "pitch_sal": 0.4512,
+   "pitch_cv": 0.3651,
+   "voiced_frac": 0.6165,
+   "spec_stab": 0.8823,
+   "quiet_corr": 0.7654,
+   "f0_med": 104.3
+  }
+ },
+ {
+  "slug": "vctk-p247-037",
+  "reasons": [
+   "speaker_cap_5"
+  ]
+ },
+ {
+  "slug": "vctk-p248-026",
+  "reasons": [
+   "low_harmonicity(no_voice)"
+  ],
+  "gate": {
+   "dur": 3.9892,
+   "peak": 0.9265,
+   "rms": 0.068,
+   "sil_ratio": 0.1384,
+   "flat": 0.2042,
+   "zcr": 0.0644,
+   "mod_prom": 520.8112,
+   "mod_f": 3.2439,
+   "n_act": 249,
+   "hnr_db": -6.5071,
+   "pitch_sal": 0.6991,
+   "pitch_cv": 0.2338,
+   "voiced_frac": 0.9036,
+   "spec_stab": 0.9079,
+   "quiet_corr": 0.7958,
+   "f0_med": 242.4
+  }
+ },
+ {
+  "slug": "vctk-p249-110",
+  "reasons": [
+   "speaker_cap_5"
+  ]
+ },
+ {
+  "slug": "vctk-p250-050",
+  "reasons": [
+   "speaker_cap_5"
+  ]
+ },
+ {
+  "slug": "vctk-p251-230",
+  "reasons": [
+   "speaker_cap_5"
+  ]
+ },
+ {
+  "slug": "vctk-p252-375",
+  "reasons": [
+   "speaker_cap_5"
+  ]
+ },
+ {
+  "slug": "vctk-p253-260",
+  "reasons": [
+   "speaker_cap_5"
+  ]
+ },
+ {
+  "slug": "vctk-p254-023",
+  "reasons": [
+   "low_harmonicity(no_voice)",
+   "weak_pitch_saliency"
+  ],
+  "gate": {
+   "dur": 9.1278,
+   "peak": 0.7231,
+   "rms": 0.079,
+   "sil_ratio": 0.1947,
+   "flat": 0.1551,
+   "zcr": 0.041,
+   "mod_prom": 135.3059,
+   "mod_f": 2.8045,
+   "n_act": 674,
+   "hnr_db": -7.449,
+   "pitch_sal": 0.4324,
+   "pitch_cv": 0.6484,
+   "voiced_frac": 0.632,
+   "spec_stab": 0.7517,
+   "quiet_corr": 0.6011,
+   "f0_med": 80.7
+  }
+ },
+ {
+  "slug": "vctk-p254-268",
+  "reasons": [
+   "low_harmonicity(no_voice)",
+   "weak_pitch_saliency",
+   "too_little_voiced_speech"
+  ],
+  "gate": {
+   "dur": 4.4418,
+   "peak": 0.7,
+   "rms": 0.0943,
+   "sil_ratio": 0.2437,
+   "flat": 0.2097,
+   "zcr": 0.0557,
+   "mod_prom": 166.2304,
+   "mod_f": 3.8071,
+   "n_act": 298,
+   "hnr_db": -11.2025,
+   "pitch_sal": 0.3521,
+   "pitch_cv": 1.1409,
+   "voiced_frac": 0.406,
+   "spec_stab": 0.8865,
+   "quiet_corr": 0.7485,
+   "f0_med": 83.5
+  }
+ },
+ {
+  "slug": "vctk-p254-118",
+  "reasons": [
+   "weak_pitch_saliency",
+   "too_little_voiced_speech"
+  ],
+  "gate": {
+   "dur": 4.0926,
+   "peak": 0.5187,
+   "rms": 0.0738,
+   "sil_ratio": 0.0459,
+   "flat": 0.2204,
+   "zcr": 0.0683,
+   "mod_prom": 60.77,
+   "mod_f": 5.9629,
+   "n_act": 270,
+   "hnr_db": -4.4739,
+   "pitch_sal": 0.3863,
+   "pitch_cv": 0.4911,
+   "voiced_frac": 0.5148,
+   "spec_stab": 0.8937,
+   "quiet_corr": 0.7827,
+   "f0_med": 79.6
+  }
+ },
+ {
+  "slug": "vctk-p254-239",
+  "reasons": [
+   "weak_pitch_saliency",
+   "too_little_voiced_speech"
+  ],
+  "gate": {
+   "dur": 3.9264,
+   "peak": 0.7067,
+   "rms": 0.0818,
+   "sil_ratio": 0.1195,
+   "flat": 0.1793,
+   "zcr": 0.0464,
+   "mod_prom": 132.589,
+   "mod_f": 3.7351,
+   "n_act": 221,
+   "hnr_db": -4.1034,
+   "pitch_sal": 0.3938,
+   "pitch_cv": 0.7358,
+   "voiced_frac": 0.5747,
+   "spec_stab": 0.8994,
+   "quiet_corr": 0.7636,
+   "f0_med": 79.2
+  }
+ },
+ {
+  "slug": "vctk-p254-017",
+  "reasons": [
+   "spectral_flatness_high",
+   "low_harmonicity(no_voice)",
+   "weak_pitch_saliency",
+   "too_little_voiced_speech"
+  ],
+  "gate": {
+   "dur": 3.6475,
+   "peak": 0.5695,
+   "rms": 0.08,
+   "sil_ratio": 0.0975,
+   "flat": 0.234,
+   "zcr": 0.0722,
+   "mod_prom": 30.935,
+   "mod_f": 3.178,
+   "n_act": 213,
+   "hnr_db": -10.1198,
+   "pitch_sal": 0.4231,
+   "pitch_cv": 0.65,
+   "voiced_frac": 0.6056,
+   "spec_stab": 0.8916,
+   "quiet_corr": 0.7738,
+   "f0_med": 83.2
+  }
+ },
+ {
+  "slug": "vctk-p255-183",
+  "reasons": [
+   "spectral_flatness_high"
+  ],
+  "gate": {
+   "dur": 4.4,
+   "peak": 0.6602,
+   "rms": 0.0697,
+   "sil_ratio": 0.209,
+   "flat": 0.2714,
+   "zcr": 0.0823,
+   "mod_prom": 118.7703,
+   "mod_f": 6.0289,
+   "n_act": 246,
+   "hnr_db": -1.8786,
+   "pitch_sal": 0.4822,
+   "pitch_cv": 0.1684,
+   "voiced_frac": 0.6463,
+   "spec_stab": 0.8789,
+   "quiet_corr": 0.7463,
+   "f0_med": 151.4
+  }
+ },
+ {
+  "slug": "vctk-p255-317",
+  "reasons": [
+   "spectral_flatness_high"
+  ],
+  "gate": {
+   "dur": 4.312,
+   "peak": 0.5808,
+   "rms": 0.0725,
+   "sil_ratio": 0.1493,
+   "flat": 0.2398,
+   "zcr": 0.0709,
+   "mod_prom": 120.0019,
+   "mod_f": 6.5104,
+   "n_act": 245,
+   "hnr_db": -1.2269,
+   "pitch_sal": 0.5093,
+   "pitch_cv": 0.1327,
+   "voiced_frac": 0.6898,
+   "spec_stab": 0.8827,
+   "quiet_corr": 0.7055,
+   "f0_med": 151.4
+  }
+ },
+ {
+  "slug": "vctk-p256-021",
+  "reasons": [
+   "over_10s_no_cutting"
+  ],
+  "dur": 10.036
+ },
+ {
+  "slug": "vctk-p256-059",
+  "reasons": [
+   "weak_pitch_saliency"
+  ],
+  "gate": {
+   "dur": 3.2302,
+   "peak": 0.9,
+   "rms": 0.0836,
+   "sil_ratio": 0.1014,
+   "flat": 0.1648,
+   "zcr": 0.0566,
+   "mod_prom": 151.7162,
+   "mod_f": 3.7364,
+   "n_act": 248,
+   "hnr_db": -4.0068,
+   "pitch_sal": 0.431,
+   "pitch_cv": 0.7921,
+   "voiced_frac": 0.6331,
+   "spec_stab": 0.8765,
+   "quiet_corr": 0.7058,
+   "f0_med": 86.3
+  }
+ },
+ {
+  "slug": "vctk-p257-358",
+  "reasons": [
+   "speaker_cap_5"
+  ]
+ },
+ {
+  "slug": "vctk-p258-410",
+  "reasons": [
+   "weak_pitch_saliency",
+   "too_little_voiced_speech"
+  ],
+  "gate": {
+   "dur": 3.5097,
+   "peak": 0.6408,
+   "rms": 0.0613,
+   "sil_ratio": 0.1595,
+   "flat": 0.1658,
+   "zcr": 0.0512,
+   "mod_prom": 127.9691,
+   "mod_f": 3.6479,
+   "n_act": 216,
+   "hnr_db": -3.8112,
+   "pitch_sal": 0.4472,
+   "pitch_cv": 0.1894,
+   "voiced_frac": 0.5694,
+   "spec_stab": 0.8988,
+   "quiet_corr": 0.7787,
+   "f0_med": 114.8
+  }
+ },
+ {
+  "slug": "vctk-p259-095",
+  "reasons": [
+   "speaker_cap_5"
+  ]
+ },
+ {
+  "slug": "vctk-p260-103",
+  "reasons": [
+   "low_harmonicity(no_voice)"
+  ],
+  "gate": {
+   "dur": 4.7323,
+   "peak": 0.5927,
+   "rms": 0.0636,
+   "sil_ratio": 0.2017,
+   "flat": 0.1487,
+   "zcr": 0.0563,
+   "mod_prom": 73.9956,
+   "mod_f": 2.1307,
+   "n_act": 281,
+   "hnr_db": -7.0556,
+   "pitch_sal": 0.4996,
+   "pitch_cv": 0.6175,
+   "voiced_frac": 0.7295,
+   "spec_stab": 0.8904,
+   "quiet_corr": 0.7345,
+   "f0_med": 110.9
+  }
+ },
+ {
+  "slug": "vctk-p260-074",
+  "reasons": [
+   "under_3s"
+  ],
+  "dur": 2.949
+ },
+ {
+  "slug": "vctk-p261-079",
+  "reasons": [
+   "speaker_cap_5"
+  ]
+ }
+]

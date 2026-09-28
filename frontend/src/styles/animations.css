@@ -1,0 +1,101 @@
+/* ========================================
+   动画系统（参考 anime-master + react-bits）
+   ======================================== */
+
+/* 页面进入 */
+.page-enter {
+  opacity: 0;
+  transform: translateY(20px);
+}
+
+/* 交错列表项 */
+.stagger-item {
+  opacity: 0;
+  transform: translateX(-10px);
+}
+
+/* 淡入 */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* 上滑 */
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(16px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* 缩放进入 */
+@keyframes scaleIn {
+  from { opacity: 0; transform: scale(0.95); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+/* 脉冲 */
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+
+/* 闪光（骨架屏） */
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+/* 打字机光标 */
+@keyframes blink {
+  0%, 100% { border-color: transparent; }
+  50% { border-color: var(--color-primary); }
+}
+
+/* 应用动画的工具类 */
+.animate-fade-in {
+  animation: fadeIn var(--duration-normal) var(--ease-out) forwards;
+}
+
+.animate-slide-up {
+  animation: slideUp var(--duration-normal) var(--ease-out) forwards;
+}
+
+.animate-scale-in {
+  animation: scaleIn var(--duration-normal) var(--ease-out) forwards;
+}
+
+.animate-pulse {
+  animation: pulse 2s ease-in-out infinite;
+}
+
+.animate-shimmer {
+  background: linear-gradient(90deg, var(--color-bg) 25%, var(--color-border) 50%, var(--color-bg) 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.5s infinite;
+}
+
+.typewriter {
+  border-right: 2px solid var(--color-primary);
+  animation: blink 0.7s step-end infinite;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+/* 按钮 hover 提升 */
+.btn-lift {
+  transition: transform var(--duration-fast) var(--ease-out),
+              box-shadow var(--duration-fast) var(--ease-out);
+}
+.btn-lift:hover {
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-md);
+}
+
+/* 卡片 hover 提升 */
+.card-lift {
+  transition: transform var(--duration-fast) var(--ease-out),
+              box-shadow var(--duration-fast) var(--ease-out);
+}
+.card-lift:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+}

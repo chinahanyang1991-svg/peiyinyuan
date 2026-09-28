@@ -1,0 +1,1730 @@
+[
+ {
+  "slug": "mechanical-diesel-000",
+  "features": {
+   "dur": 3.2135,
+   "peak": 0.8,
+   "rms": 0.1436,
+   "sil_ratio": 0.1144,
+   "flat": 0.0028,
+   "zcr": 0.0353,
+   "mod_prom": 83.7155,
+   "mod_f": 2.0756,
+   "n_act": 240
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-hydra-002",
+  "features": {
+   "dur": 2.648,
+   "peak": 0.8,
+   "rms": 0.0723,
+   "sil_ratio": 0.2172,
+   "flat": 0.0307,
+   "zcr": 0.0455,
+   "mod_prom": 182.2322,
+   "mod_f": 3.8179,
+   "n_act": 173
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-chain-003",
+  "features": {
+   "dur": 3.0382,
+   "peak": 0.8,
+   "rms": 0.153,
+   "sil_ratio": 0.1804,
+   "flat": 0.0195,
+   "zcr": 0.0523,
+   "mod_prom": 145.1009,
+   "mod_f": 4.0441,
+   "n_act": 209
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-gear-005",
+  "features": {
+   "dur": 3.472,
+   "peak": 0.8,
+   "rms": 0.1214,
+   "sil_ratio": 0.1633,
+   "flat": 0.0058,
+   "zcr": 0.0453,
+   "mod_prom": 32.4132,
+   "mod_f": 2.2321,
+   "n_act": 246
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-clock-004",
+  "features": {
+   "dur": 3.3003,
+   "peak": 0.8,
+   "rms": 0.1485,
+   "sil_ratio": 0.1103,
+   "flat": 0.0004,
+   "zcr": 0.0891,
+   "mod_prom": 33.2862,
+   "mod_f": 6.339,
+   "n_act": 250
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-piston-001",
+  "features": {
+   "dur": 2.4251,
+   "peak": 0.8,
+   "rms": 0.1077,
+   "sil_ratio": 0.206,
+   "flat": 0.0003,
+   "zcr": 0.048,
+   "mod_prom": 298.6066,
+   "mod_f": 2.8266,
+   "n_act": 158
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-hinge-007",
+  "features": {
+   "dur": 2.7134,
+   "peak": 0.8,
+   "rms": 0.1307,
+   "sil_ratio": 0.0877,
+   "flat": 0.0005,
+   "zcr": 0.1094,
+   "mod_prom": 117.9609,
+   "mod_f": 5.7566,
+   "n_act": 208
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-turbo-006",
+  "features": {
+   "dur": 2.7156,
+   "peak": 0.8,
+   "rms": 0.1364,
+   "sil_ratio": 0.1071,
+   "flat": 0.0539,
+   "zcr": 0.048,
+   "mod_prom": 68.2953,
+   "mod_f": 4.1853,
+   "n_act": 200
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-hydra-010",
+  "features": {
+   "dur": 2.9992,
+   "peak": 0.8,
+   "rms": 0.0569,
+   "sil_ratio": 0.1935,
+   "flat": 0.0376,
+   "zcr": 0.0632,
+   "mod_prom": 103.0646,
+   "mod_f": 4.5363,
+   "n_act": 200
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-diesel-008",
+  "features": {
+   "dur": 3.3645,
+   "peak": 0.8,
+   "rms": 0.1623,
+   "sil_ratio": 0.1626,
+   "flat": 0.0032,
+   "zcr": 0.0321,
+   "mod_prom": 29.1695,
+   "mod_f": 3.5683,
+   "n_act": 242
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-chain-011",
+  "features": {
+   "dur": 2.8734,
+   "peak": 0.8,
+   "rms": 0.1482,
+   "sil_ratio": 0.195,
+   "flat": 0.025,
+   "zcr": 0.0945,
+   "mod_prom": 135.0315,
+   "mod_f": 4.279,
+   "n_act": 194
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-turbo-014",
+  "features": {
+   "dur": 2.7721,
+   "peak": 0.8,
+   "rms": 0.1402,
+   "sil_ratio": 0.1522,
+   "flat": 0.0398,
+   "zcr": 0.0357,
+   "mod_prom": 36.6313,
+   "mod_f": 2.8533,
+   "n_act": 195
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-clock-012",
+  "features": {
+   "dur": 3.3531,
+   "peak": 0.8,
+   "rms": 0.105,
+   "sil_ratio": 0.0697,
+   "flat": 0.0003,
+   "zcr": 0.0822,
+   "mod_prom": 54.0586,
+   "mod_f": 2.2866,
+   "n_act": 267
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-gear-013",
+  "features": {
+   "dur": 3.7798,
+   "peak": 0.8,
+   "rms": 0.1119,
+   "sil_ratio": 0.1687,
+   "flat": 0.0098,
+   "zcr": 0.0618,
+   "mod_prom": 111.1948,
+   "mod_f": 2.3438,
+   "n_act": 266
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-diesel-016",
+  "features": {
+   "dur": 3.3617,
+   "peak": 0.8,
+   "rms": 0.1439,
+   "sil_ratio": 0.115,
+   "flat": 0.0022,
+   "zcr": 0.0295,
+   "mod_prom": 46.056,
+   "mod_f": 3.9199,
+   "n_act": 254
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-hinge-015",
+  "features": {
+   "dur": 2.9242,
+   "peak": 0.8,
+   "rms": 0.1334,
+   "sil_ratio": 0.1107,
+   "flat": 0.0005,
+   "zcr": 0.1021,
+   "mod_prom": 293.2175,
+   "mod_f": 5.3791,
+   "n_act": 217
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-piston-009",
+  "features": {
+   "dur": 3.1221,
+   "peak": 0.8,
+   "rms": 0.0898,
+   "sil_ratio": 0.251,
+   "flat": 0.0003,
+   "zcr": 0.0389,
+   "mod_prom": 46.3157,
+   "mod_f": 3.2082,
+   "n_act": 197
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-piston-017",
+  "features": {
+   "dur": 3.0572,
+   "peak": 0.8,
+   "rms": 0.0693,
+   "sil_ratio": 0.2756,
+   "flat": 0.0003,
+   "zcr": 0.0416,
+   "mod_prom": 273.5079,
+   "mod_f": 3.3219,
+   "n_act": 184
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-hydra-018",
+  "features": {
+   "dur": 2.7836,
+   "peak": 0.8,
+   "rms": 0.064,
+   "sil_ratio": 0.1617,
+   "flat": 0.0315,
+   "zcr": 0.0435,
+   "mod_prom": 211.1954,
+   "mod_f": 2.7926,
+   "n_act": 197
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-gear-021",
+  "features": {
+   "dur": 3.6665,
+   "peak": 0.8,
+   "rms": 0.1167,
+   "sil_ratio": 0.1565,
+   "flat": 0.0083,
+   "zcr": 0.0574,
+   "mod_prom": 175.5516,
+   "mod_f": 2.3962,
+   "n_act": 264
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-chain-019",
+  "features": {
+   "dur": 2.5403,
+   "peak": 0.8,
+   "rms": 0.1538,
+   "sil_ratio": 0.1374,
+   "flat": 0.0217,
+   "zcr": 0.0721,
+   "mod_prom": 41.9186,
+   "mod_f": 2.2216,
+   "n_act": 182
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-turbo-022",
+  "features": {
+   "dur": 2.4882,
+   "peak": 0.8,
+   "rms": 0.111,
+   "sil_ratio": 0.1208,
+   "flat": 0.0534,
+   "zcr": 0.0501,
+   "mod_prom": 20.5318,
+   "mod_f": 2.2645,
+   "n_act": 182
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-hinge-023",
+  "features": {
+   "dur": 3.3251,
+   "peak": 0.8,
+   "rms": 0.1096,
+   "sil_ratio": 0.1263,
+   "flat": 0.0006,
+   "zcr": 0.121,
+   "mod_prom": 35.0993,
+   "mod_f": 4.2763,
+   "n_act": 249
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-clock-020",
+  "features": {
+   "dur": 3.2121,
+   "peak": 0.8,
+   "rms": 0.1085,
+   "sil_ratio": 0.0839,
+   "flat": 0.0004,
+   "zcr": 0.083,
+   "mod_prom": 85.4447,
+   "mod_f": 2.0529,
+   "n_act": 251
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-hydra-026",
+  "features": {
+   "dur": 2.6987,
+   "peak": 0.8,
+   "rms": 0.0657,
+   "sil_ratio": 0.1843,
+   "flat": 0.0315,
+   "zcr": 0.047,
+   "mod_prom": 184.5676,
+   "mod_f": 2.1601,
+   "n_act": 177
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-piston-025",
+  "features": {
+   "dur": 3.0631,
+   "peak": 0.8,
+   "rms": 0.0719,
+   "sil_ratio": 0.2966,
+   "flat": 0.0003,
+   "zcr": 0.0551,
+   "mod_prom": 69.4593,
+   "mod_f": 4.7669,
+   "n_act": 166
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-diesel-024",
+  "features": {
+   "dur": 2.933,
+   "peak": 0.8,
+   "rms": 0.1321,
+   "sil_ratio": 0.1245,
+   "flat": 0.0036,
+   "zcr": 0.0371,
+   "mod_prom": 178.8226,
+   "mod_f": 3.3886,
+   "n_act": 218
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-gear-028",
+  "features": {
+   "dur": 3.1843,
+   "peak": 0.8,
+   "rms": 0.1378,
+   "sil_ratio": 0.1343,
+   "flat": 0.006,
+   "zcr": 0.0457,
+   "mod_prom": 215.4401,
+   "mod_f": 2.4487,
+   "n_act": 232
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-hinge-030",
+  "features": {
+   "dur": 2.9156,
+   "peak": 0.8,
+   "rms": 0.1195,
+   "sil_ratio": 0.2,
+   "flat": 0.0005,
+   "zcr": 0.0714,
+   "mod_prom": 170.3497,
+   "mod_f": 4.9745,
+   "n_act": 196
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-diesel-031",
+  "features": {
+   "dur": 3.3423,
+   "peak": 0.8,
+   "rms": 0.1584,
+   "sil_ratio": 0.1084,
+   "flat": 0.0017,
+   "zcr": 0.0296,
+   "mod_prom": 59.0247,
+   "mod_f": 2.9502,
+   "n_act": 255
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-turbo-029",
+  "features": {
+   "dur": 2.1191,
+   "peak": 0.8,
+   "rms": 0.115,
+   "sil_ratio": 0.0,
+   "flat": 0.0508,
+   "zcr": 0.0476,
+   "mod_prom": 39.3909,
+   "mod_f": 7.6308,
+   "n_act": 172
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-piston-032",
+  "features": {
+   "dur": 2.9355,
+   "peak": 0.8,
+   "rms": 0.0991,
+   "sil_ratio": 0.3266,
+   "flat": 0.0003,
+   "zcr": 0.0426,
+   "mod_prom": 80.6046,
+   "mod_f": 2.2681,
+   "n_act": 167
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-hydra-033",
+  "features": {
+   "dur": 2.911,
+   "peak": 0.8,
+   "rms": 0.0694,
+   "sil_ratio": 0.1457,
+   "flat": 0.0361,
+   "zcr": 0.057,
+   "mod_prom": 61.4873,
+   "mod_f": 5.6933,
+   "n_act": 211
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-chain-027",
+  "features": {
+   "dur": 3.0872,
+   "peak": 0.8,
+   "rms": 0.1529,
+   "sil_ratio": 0.1985,
+   "flat": 0.0205,
+   "zcr": 0.0623,
+   "mod_prom": 54.0815,
+   "mod_f": 2.5048,
+   "n_act": 210
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-clock-035",
+  "features": {
+   "dur": 2.6782,
+   "peak": 0.8,
+   "rms": 0.1179,
+   "sil_ratio": 0.009,
+   "flat": 0.0004,
+   "zcr": 0.092,
+   "mod_prom": 55.8196,
+   "mod_f": 2.5224,
+   "n_act": 221
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-chain-034",
+  "features": {
+   "dur": 2.8422,
+   "peak": 0.8,
+   "rms": 0.1596,
+   "sil_ratio": 0.2008,
+   "flat": 0.0271,
+   "zcr": 0.0695,
+   "mod_prom": 58.1261,
+   "mod_f": 2.7458,
+   "n_act": 191
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-gear-036",
+  "features": {
+   "dur": 3.5604,
+   "peak": 0.8,
+   "rms": 0.1139,
+   "sil_ratio": 0.2054,
+   "flat": 0.0064,
+   "zcr": 0.0482,
+   "mod_prom": 389.9464,
+   "mod_f": 3.1566,
+   "n_act": 236
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-hinge-038",
+  "features": {
+   "dur": 3.1022,
+   "peak": 0.8,
+   "rms": 0.1316,
+   "sil_ratio": 0.1103,
+   "flat": 0.0006,
+   "zcr": 0.1095,
+   "mod_prom": 285.9714,
+   "mod_f": 2.1388,
+   "n_act": 234
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-turbo-037",
+  "features": {
+   "dur": 3.1587,
+   "peak": 0.8,
+   "rms": 0.1213,
+   "sil_ratio": 0.1353,
+   "flat": 0.0439,
+   "zcr": 0.0372,
+   "mod_prom": 42.5333,
+   "mod_f": 3.172,
+   "n_act": 230
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-diesel-039",
+  "features": {
+   "dur": 3.0829,
+   "peak": 0.8,
+   "rms": 0.1545,
+   "sil_ratio": 0.1128,
+   "flat": 0.0045,
+   "zcr": 0.0445,
+   "mod_prom": 56.231,
+   "mod_f": 3.2831,
+   "n_act": 228
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-chain-042",
+  "features": {
+   "dur": 2.9468,
+   "peak": 0.8,
+   "rms": 0.1585,
+   "sil_ratio": 0.1774,
+   "flat": 0.0209,
+   "zcr": 0.0638,
+   "mod_prom": 29.446,
+   "mod_f": 6.4264,
+   "n_act": 204
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-hydra-041",
+  "features": {
+   "dur": 3.0003,
+   "peak": 0.8,
+   "rms": 0.0741,
+   "sil_ratio": 0.1383,
+   "flat": 0.0402,
+   "zcr": 0.0641,
+   "mod_prom": 57.6972,
+   "mod_f": 3.335,
+   "n_act": 218
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-gear-044",
+  "features": {
+   "dur": 3.405,
+   "peak": 0.8,
+   "rms": 0.1237,
+   "sil_ratio": 0.1712,
+   "flat": 0.0068,
+   "zcr": 0.0509,
+   "mod_prom": 190.9925,
+   "mod_f": 3.2106,
+   "n_act": 242
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-piston-040",
+  "features": {
+   "dur": 2.693,
+   "peak": 0.8,
+   "rms": 0.0875,
+   "sil_ratio": 0.1964,
+   "flat": 0.0003,
+   "zcr": 0.0548,
+   "mod_prom": 106.1653,
+   "mod_f": 2.0926,
+   "n_act": 180
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-turbo-045",
+  "features": {
+   "dur": 2.6588,
+   "peak": 0.8,
+   "rms": 0.1277,
+   "sil_ratio": 0.1622,
+   "flat": 0.0439,
+   "zcr": 0.0414,
+   "mod_prom": 65.7051,
+   "mod_f": 3.3784,
+   "n_act": 186
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-clock-043",
+  "features": {
+   "dur": 2.9751,
+   "peak": 0.8,
+   "rms": 0.1037,
+   "sil_ratio": 0.0916,
+   "flat": 0.0003,
+   "zcr": 0.0791,
+   "mod_prom": 460.1465,
+   "mod_f": 2.241,
+   "n_act": 228
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-hinge-046",
+  "features": {
+   "dur": 3.1109,
+   "peak": 0.8,
+   "rms": 0.1449,
+   "sil_ratio": 0.1283,
+   "flat": 0.0005,
+   "zcr": 0.0713,
+   "mod_prom": 37.0831,
+   "mod_f": 5.3066,
+   "n_act": 231
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-hydra-049",
+  "features": {
+   "dur": 3.2833,
+   "peak": 0.8,
+   "rms": 0.0655,
+   "sil_ratio": 0.2688,
+   "flat": 0.034,
+   "zcr": 0.0576,
+   "mod_prom": 134.8589,
+   "mod_f": 2.0161,
+   "n_act": 204
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-diesel-047",
+  "features": {
+   "dur": 2.8516,
+   "peak": 0.8,
+   "rms": 0.137,
+   "sil_ratio": 0.1417,
+   "flat": 0.003,
+   "zcr": 0.0356,
+   "mod_prom": 139.8843,
+   "mod_f": 2.3438,
+   "n_act": 206
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-chain-050",
+  "features": {
+   "dur": 2.7888,
+   "peak": 0.8,
+   "rms": 0.1345,
+   "sil_ratio": 0.2076,
+   "flat": 0.0214,
+   "zcr": 0.078,
+   "mod_prom": 51.4736,
+   "mod_f": 3.9725,
+   "n_act": 187
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-gear-052",
+  "features": {
+   "dur": 2.8026,
+   "peak": 0.8,
+   "rms": 0.1246,
+   "sil_ratio": 0.2069,
+   "flat": 0.006,
+   "zcr": 0.0496,
+   "mod_prom": 156.4837,
+   "mod_f": 2.4246,
+   "n_act": 184
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-clock-051",
+  "features": {
+   "dur": 3.4148,
+   "peak": 0.8,
+   "rms": 0.0969,
+   "sil_ratio": 0.0859,
+   "flat": 0.0004,
+   "zcr": 0.0787,
+   "mod_prom": 46.4546,
+   "mod_f": 4.5103,
+   "n_act": 266
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-hinge-054",
+  "features": {
+   "dur": 2.8251,
+   "peak": 0.8,
+   "rms": 0.1597,
+   "sil_ratio": 0.1646,
+   "flat": 0.0005,
+   "zcr": 0.0677,
+   "mod_prom": 69.7908,
+   "mod_f": 4.3513,
+   "n_act": 198
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-turbo-053",
+  "features": {
+   "dur": 2.9637,
+   "peak": 0.8,
+   "rms": 0.142,
+   "sil_ratio": 0.132,
+   "flat": 0.052,
+   "zcr": 0.0536,
+   "mod_prom": 29.3839,
+   "mod_f": 3.375,
+   "n_act": 217
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-diesel-055",
+  "features": {
+   "dur": 3.2162,
+   "peak": 0.8,
+   "rms": 0.1499,
+   "sil_ratio": 0.146,
+   "flat": 0.003,
+   "zcr": 0.0324,
+   "mod_prom": 176.172,
+   "mod_f": 2.0529,
+   "n_act": 234
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-piston-048",
+  "features": {
+   "dur": 2.781,
+   "peak": 0.8,
+   "rms": 0.092,
+   "sil_ratio": 0.181,
+   "flat": 0.0003,
+   "zcr": 0.0521,
+   "mod_prom": 111.2533,
+   "mod_f": 6.3631,
+   "n_act": 181
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-hydra-056",
+  "features": {
+   "dur": 2.8802,
+   "peak": 0.8,
+   "rms": 0.0644,
+   "sil_ratio": 0.2222,
+   "flat": 0.0345,
+   "zcr": 0.0574,
+   "mod_prom": 406.3187,
+   "mod_f": 2.3148,
+   "n_act": 189
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-chain-057",
+  "features": {
+   "dur": 2.527,
+   "peak": 0.8,
+   "rms": 0.143,
+   "sil_ratio": 0.1429,
+   "flat": 0.0215,
+   "zcr": 0.0677,
+   "mod_prom": 179.6599,
+   "mod_f": 4.0179,
+   "n_act": 180
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-gear-059",
+  "features": {
+   "dur": 3.3753,
+   "peak": 0.8,
+   "rms": 0.1362,
+   "sil_ratio": 0.1678,
+   "flat": 0.0054,
+   "zcr": 0.04,
+   "mod_prom": 261.9424,
+   "mod_f": 3.6058,
+   "n_act": 238
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-clock-058",
+  "features": {
+   "dur": 2.9158,
+   "peak": 0.8,
+   "rms": 0.1182,
+   "sil_ratio": 0.1107,
+   "flat": 0.0003,
+   "zcr": 0.0567,
+   "mod_prom": 42.0376,
+   "mod_f": 2.3053,
+   "n_act": 217
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-hinge-061",
+  "features": {
+   "dur": 3.2598,
+   "peak": 0.8,
+   "rms": 0.144,
+   "sil_ratio": 0.0919,
+   "flat": 0.0006,
+   "zcr": 0.1002,
+   "mod_prom": 64.3905,
+   "mod_f": 2.4127,
+   "n_act": 247
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-turbo-060",
+  "features": {
+   "dur": 3.0769,
+   "peak": 0.8,
+   "rms": 0.1331,
+   "sil_ratio": 0.1192,
+   "flat": 0.0525,
+   "zcr": 0.052,
+   "mod_prom": 26.9123,
+   "mod_f": 6.4904,
+   "n_act": 229
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-diesel-062",
+  "features": {
+   "dur": 2.9953,
+   "peak": 0.8,
+   "rms": 0.1454,
+   "sil_ratio": 0.119,
+   "flat": 0.0042,
+   "zcr": 0.0372,
+   "mod_prom": 25.7275,
+   "mod_f": 3.7202,
+   "n_act": 222
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-hydra-064",
+  "features": {
+   "dur": 3.0353,
+   "peak": 0.8,
+   "rms": 0.0514,
+   "sil_ratio": 0.2374,
+   "flat": 0.0359,
+   "zcr": 0.0578,
+   "mod_prom": 87.4771,
+   "mod_f": 4.7422,
+   "n_act": 196
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-piston-063",
+  "features": {
+   "dur": 2.5798,
+   "peak": 0.8,
+   "rms": 0.0818,
+   "sil_ratio": 0.2404,
+   "flat": 0.0003,
+   "zcr": 0.0546,
+   "mod_prom": 211.4899,
+   "mod_f": 2.7043,
+   "n_act": 158
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-chain-065",
+  "features": {
+   "dur": 3.2864,
+   "peak": 0.8,
+   "rms": 0.1366,
+   "sil_ratio": 0.21,
+   "flat": 0.0212,
+   "zcr": 0.0601,
+   "mod_prom": 27.7319,
+   "mod_f": 3.0027,
+   "n_act": 222
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-gear-067",
+  "features": {
+   "dur": 3.166,
+   "peak": 0.8,
+   "rms": 0.1495,
+   "sil_ratio": 0.1948,
+   "flat": 0.0101,
+   "zcr": 0.0552,
+   "mod_prom": 167.1369,
+   "mod_f": 3.5112,
+   "n_act": 215
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-clock-066",
+  "features": {
+   "dur": 3.25,
+   "peak": 0.8,
+   "rms": 0.1071,
+   "sil_ratio": 0.1367,
+   "flat": 0.0003,
+   "zcr": 0.0803,
+   "mod_prom": 67.5929,
+   "mod_f": 2.0234,
+   "n_act": 240
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-turbo-068",
+  "features": {
+   "dur": 2.9901,
+   "peak": 0.8,
+   "rms": 0.1209,
+   "sil_ratio": 0.119,
+   "flat": 0.0548,
+   "zcr": 0.0555,
+   "mod_prom": 117.7951,
+   "mod_f": 4.0923,
+   "n_act": 222
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-hinge-069",
+  "features": {
+   "dur": 3.3283,
+   "peak": 0.8,
+   "rms": 0.1294,
+   "sil_ratio": 0.1408,
+   "flat": 0.0006,
+   "zcr": 0.1348,
+   "mod_prom": 84.022,
+   "mod_f": 4.6215,
+   "n_act": 244
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-diesel-070",
+  "features": {
+   "dur": 3.4014,
+   "peak": 0.8,
+   "rms": 0.1655,
+   "sil_ratio": 0.1197,
+   "flat": 0.0032,
+   "zcr": 0.0277,
+   "mod_prom": 29.1281,
+   "mod_f": 4.6215,
+   "n_act": 250
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-hydra-072",
+  "features": {
+   "dur": 2.9462,
+   "peak": 0.8,
+   "rms": 0.0812,
+   "sil_ratio": 0.1116,
+   "flat": 0.0328,
+   "zcr": 0.05,
+   "mod_prom": 84.646,
+   "mod_f": 2.241,
+   "n_act": 223
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-chain-073",
+  "features": {
+   "dur": 2.8546,
+   "peak": 0.8,
+   "rms": 0.1349,
+   "sil_ratio": 0.2,
+   "flat": 0.0232,
+   "zcr": 0.063,
+   "mod_prom": 210.3939,
+   "mod_f": 3.9062,
+   "n_act": 192
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-clock-074",
+  "features": {
+   "dur": 3.1009,
+   "peak": 0.8,
+   "rms": 0.1192,
+   "sil_ratio": 0.1434,
+   "flat": 0.0003,
+   "zcr": 0.0628,
+   "mod_prom": 72.377,
+   "mod_f": 6.0142,
+   "n_act": 227
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-piston-071",
+  "features": {
+   "dur": 2.6457,
+   "peak": 0.8,
+   "rms": 0.125,
+   "sil_ratio": 0.1991,
+   "flat": 0.0003,
+   "zcr": 0.0515,
+   "mod_prom": 151.1175,
+   "mod_f": 2.2216,
+   "n_act": 169
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-gear-075",
+  "features": {
+   "dur": 2.7924,
+   "peak": 0.8,
+   "rms": 0.1235,
+   "sil_ratio": 0.1897,
+   "flat": 0.006,
+   "zcr": 0.0437,
+   "mod_prom": 70.9272,
+   "mod_f": 6.4655,
+   "n_act": 188
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-turbo-076",
+  "features": {
+   "dur": 2.7562,
+   "peak": 0.8,
+   "rms": 0.1264,
+   "sil_ratio": 0.1266,
+   "flat": 0.0507,
+   "zcr": 0.0502,
+   "mod_prom": 109.2859,
+   "mod_f": 6.9596,
+   "n_act": 200
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-hinge-077",
+  "features": {
+   "dur": 3.2749,
+   "peak": 0.8,
+   "rms": 0.1401,
+   "sil_ratio": 0.1174,
+   "flat": 0.0006,
+   "zcr": 0.1305,
+   "mod_prom": 155.8885,
+   "mod_f": 2.3354,
+   "n_act": 248
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-diesel-078",
+  "features": {
+   "dur": 2.8499,
+   "peak": 0.8,
+   "rms": 0.1497,
+   "sil_ratio": 0.1328,
+   "flat": 0.0046,
+   "zcr": 0.0394,
+   "mod_prom": 51.7598,
+   "mod_f": 3.112,
+   "n_act": 209
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-piston-079",
+  "features": {
+   "dur": 3.0871,
+   "peak": 0.8,
+   "rms": 0.0623,
+   "sil_ratio": 0.3077,
+   "flat": 0.0003,
+   "zcr": 0.0642,
+   "mod_prom": 88.1394,
+   "mod_f": 3.9663,
+   "n_act": 180
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-gear-083",
+  "features": {
+   "dur": 3.8508,
+   "peak": 0.8,
+   "rms": 0.137,
+   "sil_ratio": 0.1777,
+   "flat": 0.0059,
+   "zcr": 0.0422,
+   "mod_prom": 290.9864,
+   "mod_f": 3.9533,
+   "n_act": 273
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-hydra-080",
+  "features": {
+   "dur": 2.4176,
+   "peak": 0.8,
+   "rms": 0.0657,
+   "sil_ratio": 0.2,
+   "flat": 0.0309,
+   "zcr": 0.0567,
+   "mod_prom": 50.0728,
+   "mod_f": 2.4038,
+   "n_act": 156
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-hinge-084",
+  "features": {
+   "dur": 3.0762,
+   "peak": 0.8,
+   "rms": 0.1265,
+   "sil_ratio": 0.1308,
+   "flat": 0.0005,
+   "zcr": 0.0932,
+   "mod_prom": 396.8281,
+   "mod_f": 2.1635,
+   "n_act": 226
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-diesel-085",
+  "features": {
+   "dur": 2.7225,
+   "peak": 0.8,
+   "rms": 0.1385,
+   "sil_ratio": 0.1048,
+   "flat": 0.0021,
+   "zcr": 0.0354,
+   "mod_prom": 61.2959,
+   "mod_f": 2.8657,
+   "n_act": 205
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-clock-082",
+  "features": {
+   "dur": 3.0374,
+   "peak": 0.8,
+   "rms": 0.1142,
+   "sil_ratio": 0.1051,
+   "flat": 0.0004,
+   "zcr": 0.0732,
+   "mod_prom": 102.2533,
+   "mod_f": 3.2831,
+   "n_act": 230
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-chain-081",
+  "features": {
+   "dur": 3.154,
+   "peak": 0.8,
+   "rms": 0.1425,
+   "sil_ratio": 0.1778,
+   "flat": 0.0239,
+   "zcr": 0.0792,
+   "mod_prom": 46.7345,
+   "mod_f": 2.7778,
+   "n_act": 222
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-hydra-087",
+  "features": {
+   "dur": 2.9691,
+   "peak": 0.8,
+   "rms": 0.0753,
+   "sil_ratio": 0.1215,
+   "flat": 0.0289,
+   "zcr": 0.0465,
+   "mod_prom": 51.0746,
+   "mod_f": 3.416,
+   "n_act": 217
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-piston-086",
+  "features": {
+   "dur": 2.6094,
+   "peak": 0.8,
+   "rms": 0.0946,
+   "sil_ratio": 0.2752,
+   "flat": 0.0003,
+   "zcr": 0.0316,
+   "mod_prom": 258.3491,
+   "mod_f": 2.1502,
+   "n_act": 158
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-clock-089",
+  "features": {
+   "dur": 3.4438,
+   "peak": 0.8,
+   "rms": 0.1001,
+   "sil_ratio": 0.1322,
+   "flat": 0.0004,
+   "zcr": 0.0845,
+   "mod_prom": 78.0103,
+   "mod_f": 5.7203,
+   "n_act": 256
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-chain-088",
+  "features": {
+   "dur": 3.2156,
+   "peak": 0.8,
+   "rms": 0.1494,
+   "sil_ratio": 0.2022,
+   "flat": 0.0201,
+   "zcr": 0.0845,
+   "mod_prom": 121.7199,
+   "mod_f": 2.068,
+   "n_act": 217
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-gear-090",
+  "features": {
+   "dur": 3.4651,
+   "peak": 0.8,
+   "rms": 0.1516,
+   "sil_ratio": 0.1351,
+   "flat": 0.0089,
+   "zcr": 0.0587,
+   "mod_prom": 330.5983,
+   "mod_f": 4.4341,
+   "n_act": 256
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-turbo-091",
+  "features": {
+   "dur": 2.4033,
+   "peak": 0.8,
+   "rms": 0.1232,
+   "sil_ratio": 0.0,
+   "flat": 0.0526,
+   "zcr": 0.0505,
+   "mod_prom": 97.6954,
+   "mod_f": 6.1865,
+   "n_act": 197
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-hinge-092",
+  "features": {
+   "dur": 3.1399,
+   "peak": 0.8,
+   "rms": 0.1438,
+   "sil_ratio": 0.1236,
+   "flat": 0.0006,
+   "zcr": 0.1004,
+   "mod_prom": 15.9365,
+   "mod_f": 6.3202,
+   "n_act": 234
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-hydra-095",
+  "features": {
+   "dur": 2.515,
+   "peak": 0.8,
+   "rms": 0.0648,
+   "sil_ratio": 0.1905,
+   "flat": 0.0358,
+   "zcr": 0.0636,
+   "mod_prom": 163.3013,
+   "mod_f": 4.0179,
+   "n_act": 170
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-diesel-093",
+  "features": {
+   "dur": 3.5808,
+   "peak": 0.8,
+   "rms": 0.1331,
+   "sil_ratio": 0.1526,
+   "flat": 0.0025,
+   "zcr": 0.0329,
+   "mod_prom": 93.889,
+   "mod_f": 2.1307,
+   "n_act": 261
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-piston-094",
+  "features": {
+   "dur": 2.85,
+   "peak": 0.8,
+   "rms": 0.0882,
+   "sil_ratio": 0.205,
+   "flat": 0.0003,
+   "zcr": 0.0536,
+   "mod_prom": 54.2967,
+   "mod_f": 2.3536,
+   "n_act": 190
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-chain-096",
+  "features": {
+   "dur": 3.056,
+   "peak": 0.8,
+   "rms": 0.1463,
+   "sil_ratio": 0.1731,
+   "flat": 0.0283,
+   "zcr": 0.0711,
+   "mod_prom": 80.276,
+   "mod_f": 3.6058,
+   "n_act": 215
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-gear-098",
+  "features": {
+   "dur": 3.6509,
+   "peak": 0.8,
+   "rms": 0.1484,
+   "sil_ratio": 0.1571,
+   "flat": 0.0059,
+   "zcr": 0.0445,
+   "mod_prom": 394.6284,
+   "mod_f": 2.7043,
+   "n_act": 263
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-clock-097",
+  "features": {
+   "dur": 3.3485,
+   "peak": 0.8,
+   "rms": 0.1257,
+   "sil_ratio": 0.1018,
+   "flat": 0.0003,
+   "zcr": 0.0749,
+   "mod_prom": 343.5426,
+   "mod_f": 4.6053,
+   "n_act": 256
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-hinge-100",
+  "features": {
+   "dur": 3.1233,
+   "peak": 0.8,
+   "rms": 0.1501,
+   "sil_ratio": 0.1128,
+   "flat": 0.0005,
+   "zcr": 0.0921,
+   "mod_prom": 109.3859,
+   "mod_f": 2.1147,
+   "n_act": 236
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-turbo-099",
+  "features": {
+   "dur": 2.6844,
+   "peak": 0.8,
+   "rms": 0.1369,
+   "sil_ratio": 0.1538,
+   "flat": 0.053,
+   "zcr": 0.0557,
+   "mod_prom": 76.9091,
+   "mod_f": 3.3937,
+   "n_act": 187
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-diesel-101",
+  "features": {
+   "dur": 3.3241,
+   "peak": 0.8,
+   "rms": 0.1377,
+   "sil_ratio": 0.1287,
+   "flat": 0.0024,
+   "zcr": 0.0331,
+   "mod_prom": 130.352,
+   "mod_f": 4.136,
+   "n_act": 237
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-hydra-103",
+  "features": {
+   "dur": 2.4172,
+   "peak": 0.8,
+   "rms": 0.0705,
+   "sil_ratio": 0.2296,
+   "flat": 0.0316,
+   "zcr": 0.0533,
+   "mod_prom": 59.5703,
+   "mod_f": 2.3916,
+   "n_act": 151
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-piston-102",
+  "features": {
+   "dur": 2.6958,
+   "peak": 0.8,
+   "rms": 0.1046,
+   "sil_ratio": 0.1814,
+   "flat": 0.0003,
+   "zcr": 0.0377,
+   "mod_prom": 135.0202,
+   "mod_f": 2.0741,
+   "n_act": 185
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-clock-105",
+  "features": {
+   "dur": 3.4498,
+   "peak": 0.8,
+   "rms": 0.1074,
+   "sil_ratio": 0.139,
+   "flat": 0.0004,
+   "zcr": 0.1026,
+   "mod_prom": 16.7522,
+   "mod_f": 2.5424,
+   "n_act": 254
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-chain-104",
+  "features": {
+   "dur": 3.0265,
+   "peak": 0.8,
+   "rms": 0.1561,
+   "sil_ratio": 0.2126,
+   "flat": 0.0237,
+   "zcr": 0.0684,
+   "mod_prom": 118.4109,
+   "mod_f": 3.6909,
+   "n_act": 200
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-gear-106",
+  "features": {
+   "dur": 3.402,
+   "peak": 0.8,
+   "rms": 0.1426,
+   "sil_ratio": 0.1333,
+   "flat": 0.0058,
+   "zcr": 0.0534,
+   "mod_prom": 193.7247,
+   "mod_f": 4.6053,
+   "n_act": 247
+  },
+  "pass": true,
+  "reasons": []
+ },
+ {
+  "slug": "mechanical-turbo-107",
+  "features": {
+   "dur": 3.0335,
+   "peak": 0.8,
+   "rms": 0.1271,
+   "sil_ratio": 0.1333,
+   "flat": 0.0562,
+   "zcr": 0.0602,
+   "mod_prom": 42.4199,
+   "mod_f": 3.3088,
+   "n_act": 221
+  },
+  "pass": true,
+  "reasons": []
+ }
+]

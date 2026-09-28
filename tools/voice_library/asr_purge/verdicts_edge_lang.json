@@ -1,0 +1,2126 @@
+{
+ "_note": "本窗误灌的全目录 Edge 非中文音色：产品是中文有声书，这些嗓音喂中文必 NoAudioReceived，UI 能选到=缺陷，回退。保留 14 枚 zh。",
+ "records": [
+  {
+   "id": "c7df7c03-a82a-5a28-aae2-c15cf4d010a2",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-af-ZA-AdriNeural",
+   "language": "af",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "b99f0562-e3cf-56f4-bd36-35a51157ea9a",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-af-ZA-WillemNeural",
+   "language": "af",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "50ff96e2-e591-572f-81ac-0ef6caa30b30",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-sq-AL-AnilaNeural",
+   "language": "sq",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "3c833758-7dc3-566c-87b2-44fee2341bbb",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-sq-AL-IlirNeural",
+   "language": "sq",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "bf451fe5-962b-570f-95ba-d55ffe45de69",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-am-ET-AmehaNeural",
+   "language": "am",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "9bb2735f-56a8-597e-8a6a-c80dd3560830",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-am-ET-MekdesNeural",
+   "language": "am",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "dc4bed85-543b-53a5-8cf3-5576605ce9a7",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ar-DZ-AminaNeural",
+   "language": "ar",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "8fc30113-dde5-5623-98c2-8a2c27b87bb8",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ar-DZ-IsmaelNeural",
+   "language": "ar",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "925813c5-68f4-5a4b-a301-55e6bb1d84a1",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ar-BH-AliNeural",
+   "language": "ar",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "a6b93fb9-ccde-5dc4-bf25-013ac750ab95",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ar-BH-LailaNeural",
+   "language": "ar",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "2ec139de-ad36-5448-8941-15584989f996",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ar-EG-SalmaNeural",
+   "language": "ar",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "99001af3-1092-57a9-8586-0767e42016c9",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ar-EG-ShakirNeural",
+   "language": "ar",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "94f606e2-4149-508a-b25f-a8a16b1058c4",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ar-IQ-BasselNeural",
+   "language": "ar",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "5fceb06c-695d-5a7c-b3dc-19a058634f27",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ar-IQ-RanaNeural",
+   "language": "ar",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "cfa72959-17a4-5a27-a9d4-99cce332172f",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ar-JO-SanaNeural",
+   "language": "ar",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "eb9e3e31-1f2b-5c0a-ac1c-a71d69ddde05",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ar-JO-TaimNeural",
+   "language": "ar",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "d7d6c8cd-fb9b-5a85-8262-27d282547d7c",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ar-KW-FahedNeural",
+   "language": "ar",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "4ffb3a70-f7c2-5805-9a0c-261dcce5ee18",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ar-KW-NouraNeural",
+   "language": "ar",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "2fd4fd67-f3af-58e3-82ea-0de1fb084bbe",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ar-LB-LaylaNeural",
+   "language": "ar",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "41053fe1-cc6d-507f-b45d-c4cf795b5b8b",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ar-LB-RamiNeural",
+   "language": "ar",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "3a1618bb-a7a0-5053-ab40-ea1e8fede802",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ar-LY-ImanNeural",
+   "language": "ar",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "8fb46a56-15a8-56ea-9888-da2852316e3a",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ar-MA-JamalNeural",
+   "language": "ar",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "6b8aa221-4fd9-5981-becc-7242dbdf96c4",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ar-MA-MounaNeural",
+   "language": "ar",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "ce0869e1-75f0-56d8-be9c-6c73772fca72",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ar-OM-AbdullahNeural",
+   "language": "ar",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "bc5f0d86-eed3-5c09-9b06-17f21281ba4b",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ar-OM-AyshaNeural",
+   "language": "ar",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "dfeb258c-ad85-5aab-9f07-808472b6b020",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ar-QA-AmalNeural",
+   "language": "ar",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "36ef3e47-7af9-55bb-bbf6-8ac2dbfb5d69",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ar-QA-MoazNeural",
+   "language": "ar",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "4e7f4f97-df72-58d8-bc47-9db973585f09",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ar-SA-HamedNeural",
+   "language": "ar",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "6acefc7a-fd44-5e5e-a6e7-b5cc8257fa72",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ar-SA-ZariyahNeural",
+   "language": "ar",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "10204905-165c-5326-8d6b-6e474b61a9dd",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ar-SY-AmanyNeural",
+   "language": "ar",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "e6f344c6-0f95-56dd-8aba-38c26271d204",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ar-SY-LaithNeural",
+   "language": "ar",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "107756fc-26ed-5214-928f-9ef5c0329e2a",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ar-TN-HediNeural",
+   "language": "ar",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "621ee4d2-cbc5-5481-bf2d-9fe3c74fdbbf",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ar-TN-ReemNeural",
+   "language": "ar",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "add5d29d-dd69-5098-85f9-426ab552bae1",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ar-AE-FatimaNeural",
+   "language": "ar",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "2f2eae3f-d8fd-5390-a335-1ff0fd50b5a1",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ar-AE-HamdanNeural",
+   "language": "ar",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "6213d50d-1ebd-53b2-a6ce-925f0b078af2",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ar-YE-MaryamNeural",
+   "language": "ar",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "1b31825f-c5f5-56d7-8686-0de4bfa70736",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ar-YE-SalehNeural",
+   "language": "ar",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "96fd2f1d-39cb-5547-b568-588c492827d8",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-az-AZ-BabekNeural",
+   "language": "az",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "9a54a8a7-8508-5de6-beaa-f5221e2aded8",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-az-AZ-BanuNeural",
+   "language": "az",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "dbacaf91-5cf5-549e-99a6-7a52dc0f94d0",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-bn-BD-NabanitaNeural",
+   "language": "bn",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "12f779ea-fe11-5f9d-9b4b-5ba182da8694",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-bn-BD-PradeepNeural",
+   "language": "bn",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "362e8979-cdda-51c6-acc5-ac1f16ea31eb",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-bn-IN-BashkarNeural",
+   "language": "bn",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "7f98a173-08f7-56e6-bead-eeab1e5023c9",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-bn-IN-TanishaaNeural",
+   "language": "bn",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "75ea7519-0469-5c84-991c-7d3cfcc36999",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-bs-BA-VesnaNeural",
+   "language": "bs",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "0e06fee7-318f-5664-87d4-444acc4aa0c3",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-bs-BA-GoranNeural",
+   "language": "bs",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "09072dab-9daa-5c90-9591-42fc020ba15c",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-bg-BG-BorislavNeural",
+   "language": "bg",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "bad856d8-958c-5a21-9a2f-03c2ca3b35e0",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-bg-BG-KalinaNeural",
+   "language": "bg",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "930ef051-1bbc-59ab-8bb4-c3254f2ed628",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-my-MM-NilarNeural",
+   "language": "my",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "834be437-bd66-5a3a-9d8d-83d92080fabb",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-my-MM-ThihaNeural",
+   "language": "my",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "2c43a54c-dc01-5904-b5c2-86deda196fe8",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ca-ES-EnricNeural",
+   "language": "ca",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "921c15ca-e1ad-58af-8250-899004d3c3b7",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ca-ES-JoanaNeural",
+   "language": "ca",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "f10dee0b-790e-5da0-b54b-51d3e831adbf",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-hr-HR-GabrijelaNeural",
+   "language": "hr",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "fc15a471-e77c-5d98-8615-6fc72945aafe",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-hr-HR-SreckoNeural",
+   "language": "hr",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "287f54bf-22d1-53cc-ad34-9e4c955961bd",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-cs-CZ-AntoninNeural",
+   "language": "cs",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "cca3bbb8-c10c-549d-b20f-cd4f1d54dcf9",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-cs-CZ-VlastaNeural",
+   "language": "cs",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "f1c39bef-b680-5b09-986b-045c987e502f",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-da-DK-ChristelNeural",
+   "language": "da",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "c6a3306f-e9cd-56ea-b1ef-d169fc87f7a3",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-da-DK-JeppeNeural",
+   "language": "da",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "806b0fce-cdc2-5827-a8aa-c87593624c67",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-nl-BE-ArnaudNeural",
+   "language": "nl",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "312fb1ab-0088-517a-b790-eb9fc798d165",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-nl-BE-DenaNeural",
+   "language": "nl",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "ec4e50e7-f23d-5826-a04e-c2e99a2beab3",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-nl-NL-ColetteNeural",
+   "language": "nl",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "a65debc8-8c44-50d6-83c1-991fd87d1c7c",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-nl-NL-FennaNeural",
+   "language": "nl",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "3414926e-daf3-57e2-9479-fb8b6624953e",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-nl-NL-MaartenNeural",
+   "language": "nl",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "30b417eb-0a94-5050-aecc-67a52417e365",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-AU-WilliamMultilingualNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "dae7eac7-07da-5ed8-baf2-743368a4eee0",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-AU-NatashaNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "0a17143e-1207-5313-b8bc-e2bbb077c9f9",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-CA-ClaraNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "c6a02a52-2b34-5a37-b316-e10b15866301",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-CA-LiamNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "79b9179a-d0fc-5661-9b98-7ce8a5685346",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-HK-YanNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "5e9479db-f061-5cbc-8340-5ab2669c1130",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-HK-SamNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "6990d6b6-76ff-599b-90cd-cb02a7031dcc",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-IN-NeerjaExpressiveNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "2defd8a6-8fff-5d89-b392-026033c7cd6b",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-IN-NeerjaNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "fce2a583-2dab-5b32-8b77-cd2b3e9078a2",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-IN-PrabhatNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "7197d305-4117-560e-a337-0f86532a2d07",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-IE-ConnorNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "fa8fbb69-504c-5bef-a889-39193ae1cd87",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-IE-EmilyNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "c285d282-90b8-5305-bf80-a792538b976c",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-KE-AsiliaNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "4341c944-376c-5e85-92f4-0e19842695af",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-KE-ChilembaNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "37043d55-0e88-5683-8bba-87b5e2cc7bab",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-NZ-MitchellNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "e9828056-0e71-5c6f-bcb8-48bf66d4a9f4",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-NZ-MollyNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "5410425d-3c79-5706-a782-1d7b14aee97f",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-NG-AbeoNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "9a223c97-ca54-53e7-b1c1-8d66f58bccc7",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-NG-EzinneNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "8bd47862-df32-5944-a6eb-9c4732e2ca63",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-PH-JamesNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "9354b297-8d3a-51e7-9265-63b9a3727512",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-PH-RosaNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "5715945b-54cb-5d8f-ada7-72383882d972",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-US-AvaNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "b43e70df-4bba-5cc3-80c9-36a03cc2a4e6",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-US-AndrewNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "b278cb8d-d227-527d-9c08-cda07d197162",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-US-EmmaNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "742c04e9-adc8-5e99-8b91-57cdb656cdbe",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-US-BrianNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "876ab497-896e-5c52-862a-351ad7e7994d",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-SG-LunaNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "497b5db1-cc78-5520-8854-676dd63e8cbe",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-SG-WayneNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "a79d3f74-f542-55d7-bc6b-6bac07e2a65a",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-ZA-LeahNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "6c446583-a36e-5ed6-bc32-98eb89b52abb",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-ZA-LukeNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "20d3232d-b4aa-59ac-a4cc-ec0f9192f0d0",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-TZ-ElimuNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "b9520207-3162-5c18-9b61-922455c9204c",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-TZ-ImaniNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "c38a5d81-a2c4-5bd1-9c9e-1789926a0782",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-GB-LibbyNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "d40505f5-3fdd-51b0-bb7f-9b0ce61d3954",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-GB-MaisieNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "4ce91d32-fde4-5e34-98f6-5fc204eb3bee",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-GB-RyanNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "31aad82f-1b9f-5d1f-aa66-b00ecf203962",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-GB-SoniaNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "f7a9616d-839c-5828-ab90-d0c6b30f9c65",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-GB-ThomasNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "dd03b848-81f9-5af5-82a2-3fcda2aea80e",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-US-AnaNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "9ebb40a3-ec5b-57d3-8376-e133927f78d2",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-US-AndrewMultilingualNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "db395333-3f96-51d6-9493-f8865b86e676",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-US-AriaNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "2e88170c-33d1-52a7-9721-33e15fbee5da",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-US-AvaMultilingualNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "014baa2d-bb91-5378-8eeb-d45358431940",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-US-BrianMultilingualNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "da54a3de-2def-5ac0-b04e-b2fa8b3c1709",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-US-ChristopherNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "bdcceddd-a6af-54ba-9fb4-bebcae8708eb",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-US-EmmaMultilingualNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "edad5e37-0117-5504-acee-0d9ad9ac3e25",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-US-EricNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "f568ad72-de77-55d0-a427-e42224a5e6b0",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-US-GuyNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "3bb89a19-f4f7-5fad-86d8-79fee26b2e08",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-US-JennyNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "920840b9-6ab0-564e-aa7b-2a1df2565dc6",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-US-MichelleNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "a6ba7d0f-375e-51fe-99b7-e7475e461afc",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-US-RogerNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "eb7cfe55-0b99-56a7-943b-f8f4890455f0",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-en-US-SteffanNeural",
+   "language": "en",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "fa25ae14-07eb-5998-86e6-0de9a075ef14",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-et-EE-AnuNeural",
+   "language": "et",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "b6676cf3-1144-51ef-a2ff-924079c41b0d",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-et-EE-KertNeural",
+   "language": "et",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "f992463b-9e99-52fc-b4b3-4bcbf7fa096e",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-fil-PH-AngeloNeural",
+   "language": "fil",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "e81f6fc8-8903-56c5-8ce2-f4db9c5debbf",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-fil-PH-BlessicaNeural",
+   "language": "fil",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "a7bed60c-f22f-55a3-920d-4b9d9a96b7e4",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-fi-FI-HarriNeural",
+   "language": "fi",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "bccea43b-7b2c-5ff0-9579-e61f0dc326e7",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-fi-FI-NooraNeural",
+   "language": "fi",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "035e138c-204e-5f30-94f4-5a4a4f0b9a9a",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-fr-BE-CharlineNeural",
+   "language": "fr",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "1354c12b-8194-5351-ad31-f699fe42cb90",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-fr-BE-GerardNeural",
+   "language": "fr",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "20bb99cb-62b6-5d52-81a7-3b3fa2235ed6",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-fr-CA-ThierryNeural",
+   "language": "fr",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "7facc307-42aa-5bd4-9622-fcaa97d83865",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-fr-CA-AntoineNeural",
+   "language": "fr",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "48602bd6-fa86-5655-b851-31346b0b3df5",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-fr-CA-JeanNeural",
+   "language": "fr",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "af554445-6cba-54e0-a5cf-3a9d3352a0fd",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-fr-CA-SylvieNeural",
+   "language": "fr",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "f3dc44ad-a64e-5ea9-8d7a-aca4155380dc",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-fr-FR-VivienneMultilingualNeural",
+   "language": "fr",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "90c9ce19-f072-5d5f-bf9f-80e20a0fdb12",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-fr-FR-RemyMultilingualNeural",
+   "language": "fr",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "80a9ca17-a112-5c32-a461-d6f0d542fc7e",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-fr-FR-DeniseNeural",
+   "language": "fr",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "58523dc9-afc8-5851-a638-bae113444ae1",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-fr-FR-EloiseNeural",
+   "language": "fr",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "2224ff76-764d-5e5f-8bbf-aa330863ca91",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-fr-FR-HenriNeural",
+   "language": "fr",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "b488bb09-fcd3-5c74-9944-43ea36bb51b0",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-fr-CH-ArianeNeural",
+   "language": "fr",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "cfd1a8c0-818b-5ea5-bcbd-670d5a6e52f2",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-fr-CH-FabriceNeural",
+   "language": "fr",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "49ecd1be-accc-5bee-8ebf-32aa59d656b5",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-gl-ES-RoiNeural",
+   "language": "gl",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "7af8b2c0-1400-59ac-96b4-adc275a43fb7",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-gl-ES-SabelaNeural",
+   "language": "gl",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "decdacc1-7757-53e7-a930-c1e10b883d1f",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ka-GE-EkaNeural",
+   "language": "ka",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "b02fe742-fbbc-5ca1-9f30-d365c906e564",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ka-GE-GiorgiNeural",
+   "language": "ka",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "dc7a04af-8674-5522-be04-3e895473fd5c",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-de-AT-IngridNeural",
+   "language": "de",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "de0b9512-6f2f-5616-af2f-f88f7d62fc4f",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-de-AT-JonasNeural",
+   "language": "de",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "1c5dd56c-3975-5929-809b-b854d4ea7bd5",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-de-DE-SeraphinaMultilingualNeural",
+   "language": "de",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "003ed750-7793-5a92-aac3-2fa7ba568ea7",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-de-DE-FlorianMultilingualNeural",
+   "language": "de",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "352651e1-1cc1-59d6-87e9-499a8fbdf334",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-de-DE-AmalaNeural",
+   "language": "de",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "65cbc617-1bb9-5c96-9476-fb7c8a2c6149",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-de-DE-ConradNeural",
+   "language": "de",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "2c6ad73d-8cb9-5932-89ba-1525ea377eb6",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-de-DE-KatjaNeural",
+   "language": "de",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "a3c52e09-c2cc-5f6f-9866-38e1090c8da6",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-de-DE-KillianNeural",
+   "language": "de",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "c5520270-cec1-5337-89bd-7336a0dc55e8",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-de-CH-JanNeural",
+   "language": "de",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "7a1e0508-272d-524a-8c59-8d8a95a4758e",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-de-CH-LeniNeural",
+   "language": "de",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "ae6bbcb2-e85e-5eac-9f41-f03773b9a21a",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-el-GR-AthinaNeural",
+   "language": "el",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "d2c9c944-b64b-5602-88d9-01e3dc3363cc",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-el-GR-NestorasNeural",
+   "language": "el",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "97315bac-0b7d-5062-a8d5-7bf0a2c964af",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-gu-IN-DhwaniNeural",
+   "language": "gu",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "375da82f-847f-52ff-b9a8-76cc88e2799f",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-gu-IN-NiranjanNeural",
+   "language": "gu",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "631c48ca-8a40-5de5-b090-afae1de1d89e",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-he-IL-AvriNeural",
+   "language": "he",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "52ea11fa-95fa-519f-bc60-17fe7aa23646",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-he-IL-HilaNeural",
+   "language": "he",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "0aeaa605-42e9-59bc-85fb-a5fa865d0af6",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-hi-IN-MadhurNeural",
+   "language": "hi",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "b5853741-855f-54f5-a0cc-efcb7b0025c8",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-hi-IN-SwaraNeural",
+   "language": "hi",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "ad93ab06-9855-59f8-9591-1d96bae5d7c3",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-hu-HU-NoemiNeural",
+   "language": "hu",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "e0b829f4-612f-585e-86ce-219d9b7016c8",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-hu-HU-TamasNeural",
+   "language": "hu",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "7d79bc63-0696-516e-b8c4-1b3cdeb90bf4",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-is-IS-GudrunNeural",
+   "language": "is",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "6b701b5c-76d7-5915-8025-95173ca87e28",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-is-IS-GunnarNeural",
+   "language": "is",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "383072a6-69d8-55e6-aa20-50ada09afa0f",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-id-ID-ArdiNeural",
+   "language": "id",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "907c0f31-4e29-5d1d-a55a-192d81c29d3b",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-id-ID-GadisNeural",
+   "language": "id",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "75dedca5-fcfe-534d-bf82-f1017a480ae5",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ga-IE-ColmNeural",
+   "language": "ga",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "a0d30abd-72c7-5e72-8060-82f736ad18b2",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ga-IE-OrlaNeural",
+   "language": "ga",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "ef3ae747-04f9-58a7-8fa4-e262c19e7528",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-it-IT-GiuseppeMultilingualNeural",
+   "language": "it",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "3cce9f7a-382f-5fa5-bb45-15fdd0f7b86c",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-it-IT-DiegoNeural",
+   "language": "it",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "c5028276-796e-5373-b23c-21725fb11753",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-it-IT-ElsaNeural",
+   "language": "it",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "af6f2fa4-9acb-5f87-98bf-e7c8f708b58d",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-it-IT-IsabellaNeural",
+   "language": "it",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "ad2ff0c8-a0f1-5175-876e-a34435fa4961",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ja-JP-KeitaNeural",
+   "language": "ja",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "e1a1f005-c317-58c9-8c49-79abd0bbb058",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ja-JP-NanamiNeural",
+   "language": "ja",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "80ff2ae3-3274-5054-b62a-e0fb14378ac3",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-jv-ID-DimasNeural",
+   "language": "jv",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "7d5dab35-eb81-573d-9b4a-d2d0ffc9807e",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-jv-ID-SitiNeural",
+   "language": "jv",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "80d80728-9a9b-51b6-b915-a650f1a14406",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-kn-IN-GaganNeural",
+   "language": "kn",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "e89c8255-7887-5c34-94f2-140ed0467e92",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-kn-IN-SapnaNeural",
+   "language": "kn",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "0a386b66-d0df-5f8b-9a9e-dd20a30d4f75",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-kk-KZ-AigulNeural",
+   "language": "kk",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "9a0fb300-1237-5a8a-a72e-6add98c46e10",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-kk-KZ-DauletNeural",
+   "language": "kk",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "21666fff-0fa2-5994-84db-01aa78478653",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-km-KH-PisethNeural",
+   "language": "km",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "2d2c31be-4add-5c7f-b93e-67237e406d2b",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-km-KH-SreymomNeural",
+   "language": "km",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "1e42c44e-f4ad-56bf-ae81-522271df4b05",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ko-KR-HyunsuMultilingualNeural",
+   "language": "ko",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "18ec58cc-6ab0-5caf-bc5c-c989f3b23c53",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ko-KR-InJoonNeural",
+   "language": "ko",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "447fabc5-cf57-5b47-8f84-6879592df4e3",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ko-KR-SunHiNeural",
+   "language": "ko",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "5715df5f-4133-57be-b1e8-f41eaa11ea2b",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-lo-LA-ChanthavongNeural",
+   "language": "lo",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "d04fd165-2be0-5168-9d2b-841699e2f9d0",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-lo-LA-KeomanyNeural",
+   "language": "lo",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "0edc005a-05d9-5a6e-8f49-6cd448fe2b92",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-lv-LV-EveritaNeural",
+   "language": "lv",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "e1e2d104-9de3-5df0-bd03-f288073b57bb",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-lv-LV-NilsNeural",
+   "language": "lv",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "00b1eeb5-5e22-5123-b510-84cfa6b9dd58",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-lt-LT-LeonasNeural",
+   "language": "lt",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "43d87835-29e9-5552-9ecf-e17cabccca53",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-lt-LT-OnaNeural",
+   "language": "lt",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "713810be-81e2-537f-9956-976ba27d188f",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-mk-MK-AleksandarNeural",
+   "language": "mk",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "6741ac92-6fac-548b-b1d8-a6c5fede8179",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-mk-MK-MarijaNeural",
+   "language": "mk",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "c5e5d4fd-bdb3-5e0c-8bb2-f276511a846c",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ms-MY-OsmanNeural",
+   "language": "ms",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "8a585d02-8205-5c3b-be8b-0fdc73382173",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ms-MY-YasminNeural",
+   "language": "ms",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "e17e9f59-1fdc-5ae4-8459-74e3577b7c1d",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ml-IN-MidhunNeural",
+   "language": "ml",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "eed7668d-279d-588c-ae26-46eac9706c9e",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ml-IN-SobhanaNeural",
+   "language": "ml",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "48273259-efb1-5cad-9640-7f3f27ff14b3",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-mt-MT-GraceNeural",
+   "language": "mt",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "5bcca436-6b2d-5391-90aa-0ef88f9c54ff",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-mt-MT-JosephNeural",
+   "language": "mt",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "24eb5a34-12d0-547c-b3c2-fd38889783e6",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-mr-IN-AarohiNeural",
+   "language": "mr",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "8fb152a9-a8b2-5311-9b19-b60c10eaa454",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-mr-IN-ManoharNeural",
+   "language": "mr",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "f6b1c1ba-2b5f-5273-9f9e-ff39a3688aa9",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-mn-MN-BataaNeural",
+   "language": "mn",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "e808a7e1-be4e-5531-b3bb-1a6fd76ec2c5",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-mn-MN-YesuiNeural",
+   "language": "mn",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "846082b4-38c9-5ccd-9f13-e9003a4490d0",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ne-NP-HemkalaNeural",
+   "language": "ne",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "cb58f4ab-bb9c-566e-96b2-5b2b0508472d",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ne-NP-SagarNeural",
+   "language": "ne",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "8fedc456-f198-5503-954b-0259421dd1b7",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-nb-NO-FinnNeural",
+   "language": "nb",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "3757fffe-013b-56c2-a998-b521c6585d8d",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-nb-NO-PernilleNeural",
+   "language": "nb",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "69ad3b58-7667-552e-b1a7-81040523afea",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ps-AF-GulNawazNeural",
+   "language": "ps",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "11a03e6b-c35c-5e14-893d-d6ae9f1c3d25",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ps-AF-LatifaNeural",
+   "language": "ps",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "9baf533b-282d-5def-83f6-6d9b57d774cf",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-fa-IR-DilaraNeural",
+   "language": "fa",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "73835ad5-8fa3-5167-a3b0-fb596cc97a3b",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-fa-IR-FaridNeural",
+   "language": "fa",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "12000185-f2be-567f-8752-a82f052057a6",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-pl-PL-MarekNeural",
+   "language": "pl",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "634fced3-6e4c-571d-8968-1e7aef87215b",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-pl-PL-ZofiaNeural",
+   "language": "pl",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "eb86dc4f-a677-5640-88ed-75408591738c",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-pt-BR-ThalitaMultilingualNeural",
+   "language": "pt",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "0d1be6c1-ee15-5cd6-be9c-6c52f821b6aa",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-pt-BR-AntonioNeural",
+   "language": "pt",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "9ac29a3a-2fe6-5ece-b103-f853ec6052fb",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-pt-BR-FranciscaNeural",
+   "language": "pt",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "d58dd388-3d3f-58cf-b1a0-6603c1434911",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-pt-PT-DuarteNeural",
+   "language": "pt",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "de963c6e-9e5c-5299-b90b-1338ddca9018",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-pt-PT-RaquelNeural",
+   "language": "pt",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "d532a914-8578-5ff0-bb00-1700641b0885",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ro-RO-AlinaNeural",
+   "language": "ro",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "5f2887ec-5c42-53bf-bf30-fcfa46259cd0",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ro-RO-EmilNeural",
+   "language": "ro",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "392e318b-b9a8-579e-a756-5d80003dba45",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ru-RU-DmitryNeural",
+   "language": "ru",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "1811e17f-137c-5975-bdda-7bb8191a3b1d",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ru-RU-SvetlanaNeural",
+   "language": "ru",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "2a9a9131-dbf8-5997-9d6a-92408a7597a9",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-sr-RS-NicholasNeural",
+   "language": "sr",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "afe65c54-f5e0-5ac6-868a-38ff49d672f1",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-sr-RS-SophieNeural",
+   "language": "sr",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "27be4c23-4844-57a8-88b5-5bf9dc03946e",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-si-LK-SameeraNeural",
+   "language": "si",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "66682c2e-c7ad-5e02-a418-432a7802431b",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-si-LK-ThiliniNeural",
+   "language": "si",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "5c2567ad-517e-579b-94ef-bfdc29474f1d",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-sk-SK-LukasNeural",
+   "language": "sk",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "1bfa9ca6-f0f7-549c-a7f4-c17d9a745530",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-sk-SK-ViktoriaNeural",
+   "language": "sk",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "96d4b782-f5e3-5a40-aaba-8b9557685c75",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-sl-SI-PetraNeural",
+   "language": "sl",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "99502ac3-5a77-57fe-b6be-fc859f741fa6",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-sl-SI-RokNeural",
+   "language": "sl",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "20d9dd00-c816-573c-a247-30f08491338e",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-so-SO-MuuseNeural",
+   "language": "so",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "d10e4597-8794-5fd1-819b-34539b307052",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-so-SO-UbaxNeural",
+   "language": "so",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "a48a856a-4f37-5be5-9bd8-770deb8dc941",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-AR-ElenaNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "8019f0aa-2ff3-58ad-a50a-ecb86ee833ff",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-AR-TomasNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "5357467b-bc7d-5517-892c-f94f702ea019",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-BO-MarceloNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "4a3e1ba2-3fde-57c3-9c89-a330a2967664",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-BO-SofiaNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "de517a25-100b-5282-a653-8af14db4042f",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-CL-CatalinaNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "74eb9ca8-2b4f-5b5d-af0b-ec38d40d1d85",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-CL-LorenzoNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "54243556-7003-5ab9-bfa2-8b8e6f67c751",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-CO-GonzaloNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "2bdcabda-c2bd-5326-974f-f6b62c9c7936",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-CO-SalomeNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "b33c5419-1fa5-5c41-8101-ef25d6067eea",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-ES-XimenaNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "a2ef794c-f3f2-5a7a-bb7b-13a873d43ced",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-CR-JuanNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "74734dff-4960-586c-9c17-b5f23205b1f1",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-CR-MariaNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "ee34e670-f72e-514e-aa82-ada0783741a7",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-CU-BelkysNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "d8b8c79a-7a54-5375-8243-169b9f9da885",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-CU-ManuelNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "7b948ff5-d88e-5043-9ec1-08f36260459e",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-DO-EmilioNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "c274b39e-30bb-5405-a900-f47fac4eedef",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-DO-RamonaNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "d1b76381-99a1-56e2-bf1a-3bc7c09917b7",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-EC-AndreaNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "b8f8a759-2faa-580b-bcc9-f873dfe3f1f2",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-EC-LuisNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "dd3d5852-254c-5ca2-895d-bce09abd5f3d",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-SV-LorenaNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "137c7e12-4c00-5f99-9bb0-35db12a93fcf",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-SV-RodrigoNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "60b34cfe-a5f5-524c-9b5e-cf3ea06e5b25",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-GQ-JavierNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "7da456cf-c2e3-51cb-afcb-06a29819f8c1",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-GQ-TeresaNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "dcfe5251-c5dc-504a-875b-631a816cd446",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-GT-AndresNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "c3bd8b63-411f-53b1-a22c-6e01da3e2f8d",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-GT-MartaNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "d438d3c5-20c3-5362-b656-1e12c45276cf",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-HN-CarlosNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "c47f5f7c-a921-57c8-b65c-f8615b8db056",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-HN-KarlaNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "300731eb-fee0-5f64-9395-9427e20517af",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-MX-DaliaNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "9bcc567f-d498-53ec-8b26-70e336d8fb11",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-MX-JorgeNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "2f872a14-1488-5690-a7d1-7b2f70c43f53",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-NI-FedericoNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "ab5d211a-674b-545c-8bc6-7575198e00ef",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-NI-YolandaNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "c9c76cf0-6a32-5057-bb50-2b08c0a1cab3",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-PA-MargaritaNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "aaa0cd79-06e4-5247-83fc-02245f2ab75b",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-PA-RobertoNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "31089390-af29-5b3b-ad57-446846057cf3",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-PY-MarioNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "536aad40-3475-5ebf-a5e6-2bab8933f09e",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-PY-TaniaNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "ef6bbdd9-acf5-5b9d-acbf-2e2aceeaf3b8",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-PE-AlexNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "b1563e53-8f37-5325-936d-cfae1706c440",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-PE-CamilaNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "25b2e496-c15c-5a6f-a48f-ea508e2329a4",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-PR-KarinaNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "cb594dba-682d-50f9-bf61-405ce4c3e110",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-PR-VictorNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "46bb8c63-f4ca-5232-9a83-dabfd9c741b2",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-ES-AlvaroNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "85efd5f1-4f1e-5e53-b48f-9204065da908",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-ES-ElviraNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "59efcc97-02d3-5c74-8fc3-0fc074813fce",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-US-AlonsoNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "e93e9495-ff5a-5216-ace7-bb141becb2a4",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-US-PalomaNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "5ce08fb0-c7a8-507f-9396-40814454daa7",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-UY-MateoNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "ef220b9c-8ae8-53a1-9407-8fe3fc1ef6f7",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-UY-ValentinaNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "0c09c948-c54b-5ee1-9f92-e7b6e62b5280",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-VE-PaolaNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "4e38a2fa-cc2d-56a3-acb7-3a13d5eb6ace",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-es-VE-SebastianNeural",
+   "language": "es",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "e726c190-57c8-5cd9-809b-52c331470cc0",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-su-ID-JajangNeural",
+   "language": "su",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "062ad895-a484-55f4-b5ba-4502dc8171de",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-su-ID-TutiNeural",
+   "language": "su",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "bf0da3d6-7f01-5635-adb0-2ce334978a1e",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-sw-KE-RafikiNeural",
+   "language": "sw",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "c52c69ce-6962-5a92-a3b9-d636411ef9c1",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-sw-KE-ZuriNeural",
+   "language": "sw",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "176a1d91-78c4-541e-a5e7-3b4850e2b4e9",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-sw-TZ-DaudiNeural",
+   "language": "sw",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "ca7c4b8c-4df4-5046-8fae-625988a18747",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-sw-TZ-RehemaNeural",
+   "language": "sw",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "ea05772a-1c96-53ff-9a93-09541f112643",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-sv-SE-MattiasNeural",
+   "language": "sv",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "60af20e7-eb76-5028-9267-32666200e3bd",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-sv-SE-SofieNeural",
+   "language": "sv",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "8041ea98-b2e2-56c2-a3c8-dfdba189338c",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ta-IN-PallaviNeural",
+   "language": "ta",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "fe0c1927-dba1-5caa-b818-9374ecb1f228",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ta-IN-ValluvarNeural",
+   "language": "ta",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "0237f91d-e234-5798-9083-88dbebe44e28",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ta-MY-KaniNeural",
+   "language": "ta",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "6b931f7f-2661-54a6-a971-1c6c573dc27a",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ta-MY-SuryaNeural",
+   "language": "ta",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "8617abae-b1ca-58b6-8e94-5c9066ece6e5",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ta-SG-AnbuNeural",
+   "language": "ta",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "a0522566-8b00-55e0-b972-8f017d94b0eb",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ta-SG-VenbaNeural",
+   "language": "ta",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "a5602232-ed8c-5438-afb4-8257567d4320",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ta-LK-KumarNeural",
+   "language": "ta",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "8f816afd-c385-556f-bd13-b30373a7bf1f",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ta-LK-SaranyaNeural",
+   "language": "ta",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "11fa7a89-d135-55a5-9458-009e0ebe8cfa",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-te-IN-MohanNeural",
+   "language": "te",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "eaae9b83-1899-5bce-9637-e6d37689ca8b",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-te-IN-ShrutiNeural",
+   "language": "te",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "2da4d49c-af6f-5ebc-af39-edffbb86e4e5",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-th-TH-NiwatNeural",
+   "language": "th",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "90cfa36b-8195-5627-a8b2-0c45a05d9910",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-th-TH-PremwadeeNeural",
+   "language": "th",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "d2c1afda-f8cc-5e35-9214-1784ee83bdb5",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-tr-TR-EmelNeural",
+   "language": "tr",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "88ef51f2-23be-567c-a597-a577b146e65d",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-tr-TR-AhmetNeural",
+   "language": "tr",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "1d1b45b9-abb9-55de-a35a-cc44f1871009",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-uk-UA-OstapNeural",
+   "language": "uk",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "f7027b94-c38e-5ba7-87ac-47d58a51a78e",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-uk-UA-PolinaNeural",
+   "language": "uk",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "ac02f21b-b855-5fa2-9070-b03dc3c4ac85",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ur-IN-GulNeural",
+   "language": "ur",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "a72b7dca-1ecd-508d-8046-3f91f71c8b1c",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ur-IN-SalmanNeural",
+   "language": "ur",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "cc5ea220-084c-5391-a0f3-10f1ffebcbd8",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ur-PK-AsadNeural",
+   "language": "ur",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "8cbdb004-728f-5bec-b33e-1f422c45ff9b",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-ur-PK-UzmaNeural",
+   "language": "ur",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "265d5abc-4743-5588-87e6-c7189480d81a",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-uz-UZ-MadinaNeural",
+   "language": "uz",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "fc87dd4d-5b1b-5218-b16b-c4a83f590a59",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-uz-UZ-SardorNeural",
+   "language": "uz",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "3319a3e4-5154-568c-a9b5-ee6d9e579eee",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-vi-VN-HoaiMyNeural",
+   "language": "vi",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "fe0406b9-f1f2-55a8-85df-189618ac8e57",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-vi-VN-NamMinhNeural",
+   "language": "vi",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "9addf6c7-d598-56b7-b870-8550ae102432",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-cy-GB-AledNeural",
+   "language": "cy",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "bab7e4e1-d393-54de-a8f7-40dc82cbfccd",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-cy-GB-NiaNeural",
+   "language": "cy",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "f965edf3-904e-53b8-a7c8-16270192f030",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-zu-ZA-ThandoNeural",
+   "language": "zu",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  },
+  {
+   "id": "2c6961df-eb7f-5cd9-9834-774c19d7647e",
+   "bucket": "VERDICT-BAD",
+   "name": "Edge-zu-ZA-ThembaNeural",
+   "language": "zu",
+   "_reason": "FOREIGN_LANG_edge_NoAudioReceived_on_zh"
+  }
+ ]
+}

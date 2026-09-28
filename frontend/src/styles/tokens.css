@@ -1,0 +1,292 @@
+/* ==========================================================================
+   Design tokens —— 配音员设计系统唯一真相源
+   仅定义自定义属性，不产生任何选择器规则。
+   浅色 / 深色双主题：:root 为浅色，[data-theme="dark"] 覆盖语义令牌。
+   ========================================================================== */
+
+:root {
+  /* ---------- 品牌色板（克制单色相，参考 Linear/Vercel） ---------- */
+  --brand-25: #f7f8fe;
+  --brand-50: #eef0fc;
+  --brand-100: #dfe3f9;
+  --brand-200: #c5cbf3;
+  --brand-300: #a3abea;
+  --brand-400: #8189df;
+  --brand-500: #5e6ad2;
+  --brand-600: #4c58c6;
+  --brand-700: #3f49a8;
+  --brand-800: #363e87;
+  --brand-900: #2f356b;
+
+  /* ---------- 中性色板 ---------- */
+  --gray-0: #ffffff;
+  --gray-25: #fbfbfc;
+  --gray-50: #f6f7f9;
+  --gray-100: #eff0f3;
+  --gray-200: #e4e6eb;
+  --gray-300: #d4d7de;
+  --gray-400: #b3b8c2;
+  --gray-500: #8b94a2;
+  --gray-600: #6b7482;
+  --gray-700: #4a5160;
+  --gray-800: #2c313a;
+  --gray-900: #1a1d23;
+  --gray-950: #101216;
+
+  /* ---------- 语义色（浅色主题） ---------- */
+  --accent: var(--brand-500);
+  --accent-hover: var(--brand-600);
+  --accent-active: var(--brand-700);
+  --accent-fg: #ffffff;
+  --accent-soft: var(--brand-50);
+  --accent-soft-hover: var(--brand-100);
+  --accent-soft-border: var(--brand-200);
+  --accent-text: var(--brand-700);
+  --accent-ring: rgba(94, 106, 210, 0.26);
+
+  --success: #128a4c;
+  --success-strong: #0d6f3d;
+  --success-fg: #ffffff;
+  --success-soft: #e9f7ef;
+  --success-soft-border: #b9e5cb;
+  --success-text: #0d6f3d;
+
+  --warning: #a86f14;
+  --warning-strong: #8a5a0c;
+  --warning-fg: #ffffff;
+  --warning-soft: #fdf5e6;
+  --warning-soft-border: #f2ddb2;
+  --warning-text: #8a5a0c;
+
+  --danger: #cf3f3f;
+  --danger-strong: #ab2f2f;
+  --danger-fg: #ffffff;
+  --danger-soft: #fdeeee;
+  --danger-soft-border: #f5c9c9;
+  --danger-text: #ab2f2f;
+
+  --info: #2f6feb;
+  --info-strong: #2458c4;
+  --info-fg: #ffffff;
+  --info-soft: #edf3fe;
+  --info-soft-border: #c9dbfb;
+  --info-text: #2458c4;
+
+  /* ---------- 表面 / 边框 / 文本 ---------- */
+  --canvas: #f4f5f8;
+  --surface-1: #ffffff;
+  --surface-2: #f7f8fa;
+  --surface-3: #eff0f3;
+  --surface-sunken: #f1f2f5;
+  --surface-overlay: rgba(255, 255, 255, 0.92);
+
+  --border: #e4e6eb;
+  --border-strong: #d4d7de;
+  --border-muted: #eef0f3;
+
+  --text-primary: #1a1d23;
+  --text-secondary: #4a5160;
+  --text-tertiary: #6b7482;
+  --text-muted: #8b94a2;
+  --text-faint: #a9b0bb;
+  --text-inverse: #ffffff;
+
+  --nav-bg: #1c1f27;
+  --nav-bg-elevated: #262a34;
+  --nav-border: rgba(255, 255, 255, 0.08);
+  --nav-text: #b6bcc7;
+  --nav-text-strong: #ffffff;
+  --nav-text-muted: #7d8593;
+
+  --focus-ring: 0 0 0 3px var(--accent-ring);
+
+  color-scheme: light;
+
+  /* ---------- 排版 ---------- */
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui,
+    "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC",
+    "Source Han Sans SC", "WenQuanYi Micro Hei", Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji";
+  --font-mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas,
+    "Liberation Mono", "Courier New", monospace;
+
+  --text-2xs: 0.6875rem; /* 11px */
+  --text-xs: 0.75rem;    /* 12px */
+  --text-sm: 0.8125rem;  /* 13px */
+  --text-base: 0.875rem; /* 14px */
+  --text-md: 0.9375rem;  /* 15px */
+  --text-lg: 1.0625rem;  /* 17px */
+  --text-xl: 1.25rem;    /* 20px */
+  --text-2xl: 1.5rem;    /* 24px */
+  --text-3xl: clamp(1.5rem, 1.2rem + 1.2vw, 2rem);
+  --text-display: clamp(1.75rem, 1.3rem + 2vw, 2.5rem);
+
+  --leading-tight: 1.25;
+  --leading-snug: 1.4;
+  --leading-normal: 1.6;
+  --leading-relaxed: 1.75;
+
+  --weight-normal: 400;
+  --weight-medium: 500;
+  --weight-semibold: 600;
+  --weight-bold: 700;
+
+  --tracking-tight: -0.01em;
+  --tracking-wide: 0.04em;
+
+  /* ---------- 间距阶（4px 基准） ---------- */
+  --space-0: 0;
+  --space-px: 1px;
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.25rem;
+  --space-6: 1.5rem;
+  --space-7: 1.75rem;
+  --space-8: 2rem;
+  --space-10: 2.5rem;
+  --space-12: 3rem;
+  --space-16: 4rem;
+  --space-20: 5rem;
+
+  /* ---------- 圆角 ---------- */
+  --radius-xs: 4px;
+  --radius-sm: 6px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-xl: 16px;
+  --radius-2xl: 22px;
+  --radius-full: 999px;
+
+  /* ---------- 阴影 ---------- */
+  --shadow-xs: 0 1px 1px rgba(16, 18, 22, 0.04);
+  --shadow-sm: 0 1px 2px rgba(16, 18, 22, 0.06), 0 1px 1px rgba(16, 18, 22, 0.04);
+  --shadow-md: 0 4px 12px -2px rgba(16, 18, 22, 0.1), 0 2px 4px -2px rgba(16, 18, 22, 0.06);
+  --shadow-lg: 0 12px 28px -8px rgba(16, 18, 22, 0.16), 0 4px 10px -4px rgba(16, 18, 22, 0.08);
+  --shadow-xl: 0 24px 56px -12px rgba(16, 18, 22, 0.24);
+  --shadow-inset: inset 0 1px 0 rgba(255, 255, 255, 0.6);
+
+  /* ---------- 动效 ---------- */
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --ease-standard: cubic-bezier(0.2, 0, 0, 1);
+  --duration-fast: 120ms;
+  --duration-base: 180ms;
+  --duration-slow: 280ms;
+  --duration-slower: 450ms;
+
+  /* ---------- 布局与层级 ---------- */
+  --sidebar-w: 15.5rem;
+  --sidebar-w-collapsed: 4.25rem;
+  --topbar-h: 3.5rem;
+  --page-max: 82rem;
+  --page-pad: clamp(1rem, 0.6rem + 1.6vw, 2.5rem);
+
+  --z-base: 1;
+  --z-sticky: 100;
+  --z-drawer: 900;
+  --z-modal: 1000;
+  --z-toast: 1200;
+  --z-tooltip: 1300;
+
+  /* ---------- 触控目标 ---------- */
+  --control-h-sm: 1.75rem;
+  --control-h-md: 2.25rem;
+  --control-h-lg: 2.625rem;
+  --touch-min: 2.75rem; /* 44px */
+}
+
+/* ==========================================================================
+   深色主题
+   ========================================================================== */
+[data-theme="dark"] {
+  --accent: #7f8bef;
+  --accent-hover: #939df4;
+  --accent-active: #6b76e0;
+  --accent-fg: #12141b;
+  --accent-soft: rgba(127, 139, 239, 0.14);
+  --accent-soft-hover: rgba(127, 139, 239, 0.22);
+  --accent-soft-border: rgba(127, 139, 239, 0.34);
+  --accent-text: #a7aff7;
+  --accent-ring: rgba(127, 139, 239, 0.32);
+
+  --success: #3ecb85;
+  --success-strong: #2fb271;
+  --success-fg: #07210f;
+  --success-soft: rgba(62, 203, 133, 0.12);
+  --success-soft-border: rgba(62, 203, 133, 0.3);
+  --success-text: #5cd79a;
+
+  --warning: #e0a83c;
+  --warning-strong: #c7912a;
+  --warning-fg: #241903;
+  --warning-soft: rgba(224, 168, 60, 0.12);
+  --warning-soft-border: rgba(224, 168, 60, 0.3);
+  --warning-text: #e8bb68;
+
+  --danger: #ef6f6f;
+  --danger-strong: #d95757;
+  --danger-fg: #26090a;
+  --danger-soft: rgba(239, 111, 111, 0.12);
+  --danger-soft-border: rgba(239, 111, 111, 0.3);
+  --danger-text: #f48d8d;
+
+  --info: #679ef5;
+  --info-strong: #4d84e0;
+  --info-fg: #061223;
+  --info-soft: rgba(103, 158, 245, 0.13);
+  --info-soft-border: rgba(103, 158, 245, 0.3);
+  --info-text: #8db6f8;
+
+  --canvas: #0d0f13;
+  --surface-1: #15181d;
+  --surface-2: #191d23;
+  --surface-3: #212630;
+  --surface-sunken: #101317;
+  --surface-overlay: rgba(21, 24, 29, 0.94);
+
+  --border: #272d37;
+  --border-strong: #343b47;
+  --border-muted: #1e232b;
+
+  --text-primary: #e8eaee;
+  --text-secondary: #b0b7c2;
+  --text-tertiary: #8d95a1;
+  --text-muted: #6f7784;
+  --text-faint: #5a626e;
+  --text-inverse: #12141b;
+
+  --nav-bg: #101216;
+  --nav-bg-elevated: #191d23;
+  --nav-border: rgba(255, 255, 255, 0.07);
+  --nav-text: #98a0ad;
+  --nav-text-strong: #f2f4f7;
+  --nav-text-muted: #6c7480;
+
+  --shadow-xs: 0 1px 1px rgba(0, 0, 0, 0.5);
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.55);
+  --shadow-md: 0 4px 14px -3px rgba(0, 0, 0, 0.6);
+  --shadow-lg: 0 14px 32px -10px rgba(0, 0, 0, 0.7);
+  --shadow-xl: 0 26px 60px -14px rgba(0, 0, 0, 0.78);
+  --shadow-inset: inset 0 1px 0 rgba(255, 255, 255, 0.04);
+
+  color-scheme: dark;
+}
+
+/* 跟随系统但仅在未显式选择主题时生效 */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme]) {
+    color-scheme: dark;
+  }
+}
+
+/* 尊重降级动效偏好 */
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --duration-fast: 1ms;
+    --duration-base: 1ms;
+    --duration-slow: 1ms;
+    --duration-slower: 1ms;
+  }
+}
